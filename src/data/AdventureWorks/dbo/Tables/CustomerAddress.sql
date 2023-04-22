@@ -13,6 +13,12 @@ CREATE TABLE [dbo].[CustomerAddress]
 )
 GO
 
-ALTER TABLE [dbo].[CustomerAddress]  WITH CHECK ADD  CONSTRAINT [FK_CustomerAddress_Customer_CustomerID] FOREIGN KEY([CustomerID])
-REFERENCES [dbo].[Customer] ([CustomerID])
+ALTER TABLE [dbo].[CustomerAddress]  WITH CHECK ADD  CONSTRAINT [FK_CustomerAddress_Customer_CustomerID] 
+  FOREIGN KEY([CustomerID])
+  REFERENCES [dbo].[Customer] ([CustomerID])
+GO
+
+ALTER TABLE [dbo].[CustomerAddress]  WITH CHECK ADD  CONSTRAINT [FK_CustomerAddress_Address_AddressID] 
+  FOREIGN KEY([AddressID])
+  REFERENCES [dbo].[Address] ([AddressID])
 GO
