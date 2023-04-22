@@ -13,7 +13,7 @@ CREATE TABLE [dbo].[Customer]
 	[Phone]         [nvarchar](25) NULL,
 	[PasswordHash]  [varchar](128) NOT NULL,
 	[PasswordSalt]  [varchar](10) NOT NULL,
-	[ModifiedDate]  [datetime] NOT NULL,
+	[ModifiedDate]  [datetime2] NOT NULL,
   
  CONSTRAINT [PK_Customer_CustomerID] PRIMARY KEY CLUSTERED 
   (
