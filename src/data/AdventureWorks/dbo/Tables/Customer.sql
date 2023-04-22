@@ -20,3 +20,12 @@ CREATE TABLE [dbo].[Customer]
 	  [CustomerID] ASC
   ) WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY],
 )
+GO
+
+ALTER TABLE [dbo].[Customer] ADD CONSTRAINT [DF_Customer_NameStyle]  
+	DEFAULT ((0)) FOR [NameStyle]
+GO
+
+ALTER TABLE [dbo].[Customer] ADD CONSTRAINT [DF_Customer_ModifiedDate]  
+	DEFAULT (getdate()) FOR [ModifiedDate]
+GO

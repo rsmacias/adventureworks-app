@@ -22,3 +22,7 @@ ALTER TABLE [dbo].[ProductCategory]  WITH CHECK ADD  CONSTRAINT [FK_ProductCateg
   FOREIGN KEY([ParentProductCategoryID])
   REFERENCES [dbo].[ProductCategory] ([ProductCategoryID])
 GO
+
+ALTER TABLE [dbo].[ProductCategory] ADD CONSTRAINT [DF_ProductCategory_ModifiedDate]  
+  DEFAULT (getdate()) FOR [ModifiedDate]
+GO

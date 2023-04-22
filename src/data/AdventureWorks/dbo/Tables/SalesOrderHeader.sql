@@ -35,6 +35,7 @@ CREATE TABLE [dbo].[SalesOrderHeader]
 )
 GO
 
+-- Foreign Keys
 ALTER TABLE [dbo].[SalesOrderHeader]  WITH CHECK ADD  CONSTRAINT [FK_SalesOrderHeader_Customer_CustomerID] 
   FOREIGN KEY([CustomerID])
   REFERENCES [dbo].[Customer] ([CustomerID])
@@ -48,4 +49,37 @@ GO
 ALTER TABLE [dbo].[SalesOrderHeader]  WITH CHECK ADD  CONSTRAINT [FK_SalesOrderHeader_Address_BillTo_AddressID] 
   FOREIGN KEY([BillToAddressID])
   REFERENCES [dbo].[Address] ([AddressID])
+GO
+
+-- Default Constraints
+ALTER TABLE [dbo].[SalesOrderHeader] ADD CONSTRAINT [DF_SalesOrderHeader_RevisionNumber]  
+	DEFAULT ((0)) FOR [RevisionNumber]
+GO
+
+ALTER TABLE [dbo].[SalesOrderHeader] ADD CONSTRAINT [DF_SalesOrderHeader_OrderDate]  
+	DEFAULT (getdate()) FOR [OrderDate]
+GO
+
+ALTER TABLE [dbo].[SalesOrderHeader] ADD CONSTRAINT [DF_SalesOrderHeader_Status]  
+	DEFAULT ((1)) FOR [Status]
+GO
+
+ALTER TABLE [dbo].[SalesOrderHeader] ADD CONSTRAINT [DF_SalesOrderHeader_OnlineOrderFlag]  
+	DEFAULT ((1)) FOR [OnlineOrderFlag]
+GO
+
+ALTER TABLE [dbo].[SalesOrderHeader] ADD CONSTRAINT [DF_SalesOrderHeader_SubTotal]  
+	DEFAULT ((0.00)) FOR [SubTotal]
+GO
+
+ALTER TABLE [dbo].[SalesOrderHeader] ADD CONSTRAINT [DF_SalesOrderHeader_TaxAmt]  
+	DEFAULT ((0.00)) FOR [TaxAmt]
+GO
+
+ALTER TABLE [dbo].[SalesOrderHeader] ADD CONSTRAINT [DF_SalesOrderHeader_Freight]  
+	DEFAULT ((0.00)) FOR [Freight]
+GO
+
+ALTER TABLE [dbo].[SalesOrderHeader] ADD CONSTRAINT [DF_SalesOrderHeader_ModifiedDate]  
+	DEFAULT (getdate()) FOR [ModifiedDate]
 GO

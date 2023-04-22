@@ -22,3 +22,7 @@ ALTER TABLE [dbo].[CustomerAddress]  WITH CHECK ADD  CONSTRAINT [FK_CustomerAddr
   FOREIGN KEY([AddressID])
   REFERENCES [dbo].[Address] ([AddressID])
 GO
+
+ALTER TABLE [dbo].[CustomerAddress] ADD CONSTRAINT [DF_CustomerAddress_ModifiedDate]  
+  DEFAULT (getdate()) FOR [ModifiedDate]
+GO

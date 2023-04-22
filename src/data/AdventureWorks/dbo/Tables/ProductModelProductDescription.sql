@@ -24,3 +24,7 @@ ALTER TABLE [dbo].[ProductModelProductDescription]  WITH CHECK ADD  CONSTRAINT [
   FOREIGN KEY([ProductModelID])
   REFERENCES [dbo].[ProductModel] ([ProductModelID])
 GO
+
+ALTER TABLE [dbo].[ProductModelProductDescription] ADD CONSTRAINT [DF_ProductModelProductDescription_ModifiedDate]  
+  DEFAULT (getdate()) FOR [ModifiedDate]
+GO

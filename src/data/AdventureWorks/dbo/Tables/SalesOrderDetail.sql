@@ -27,3 +27,7 @@ ALTER TABLE [dbo].[SalesOrderDetail]  WITH CHECK ADD  CONSTRAINT [FK_SalesOrderD
   REFERENCES [dbo].[SalesOrderHeader] ([SalesOrderID])
   ON DELETE CASCADE
 GO
+
+ALTER TABLE [dbo].[SalesOrderDetail] ADD CONSTRAINT [DF_SalesOrderDetail_ModifiedDate]  
+  DEFAULT (getdate()) FOR [ModifiedDate]
+GO
