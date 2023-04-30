@@ -1,6 +1,7 @@
 namespace AdventureWorks.Data.Domain;
 
 public class ProductCategory {
+    
     public int ProductCategoryId { get; set; }
 
     public int? ParentProductCategoryId { get; set; }
