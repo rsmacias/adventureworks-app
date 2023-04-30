@@ -13,4 +13,5 @@ public class ProductCategory {
     
     public ICollection<ProductCategory> ChildProductCategories { get; set; } = new List<ProductCategory>();
 
+    public ICollection<Product> Products { get; set; } = new List<Product>();
 }

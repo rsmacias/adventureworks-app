@@ -33,5 +33,9 @@ public class Product {
     public string? ThumbnailPhotoFileName { get; set; }
 
     public DateTime ModifiedDate { get; set; } 
-       
+
+    public ProductCategory? ProductCategory { get; set; }
+
+    public ProductModel? ProductModel { get; set; }
+
 }
