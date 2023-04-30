@@ -11,4 +11,6 @@ public class ProductCategory {
 
     public ProductCategory? ParentProductCategory { get; set; }  
     
+    public ICollection<ProductCategory> ChildProductCategories { get; set; } = new List<ProductCategory>();
+
 }
