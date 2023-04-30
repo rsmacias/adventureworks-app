@@ -18,4 +18,6 @@ public class Address {
     
     public DateTime ModifiedDate { get; set; }
 
+    public ICollection<CustomerAddress> CustomerAddresses { get; set; } = new List<CustomerAddress>();
+
 }

@@ -28,6 +28,8 @@ public class Customer {
 
     public string PasswordSalt { get; set; } = null!;    
     
-    public DateTime ModifiedDate { get; set; } 
+    public DateTime ModifiedDate { get; set; }
+
+    public ICollection<CustomerAddress> CustomerAddresses { get; set; } = new List<CustomerAddress>(); 
     
 }
