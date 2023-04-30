@@ -10,4 +10,6 @@ public class ProductModel {
 
     public DateTime ModifiedDate { get; set; }
     
+    public ICollection<ProductModelProductDescription> ProductModelProductDescriptions { get; set; } = new List<ProductModelProductDescription>();
+    
 }

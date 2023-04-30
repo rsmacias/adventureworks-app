@@ -9,4 +9,8 @@ public class ProductModelProductDescription {
 
     public DateTime ModifiedDate { get; set; }
 
+    public ProductDescription ProductDescription { get; set; } = null!;
+
+    public ProductModel ProductModel { get; set; } = null!;
+
 }
