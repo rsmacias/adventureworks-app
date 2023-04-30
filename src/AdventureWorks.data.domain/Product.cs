@@ -38,4 +38,6 @@ public class Product {
 
     public ProductModel? ProductModel { get; set; }
 
+    public ICollection<SalesOrderDetail> SalesOrderDetails { get; set; } = new List<SalesOrderDetail>();
+    
 }

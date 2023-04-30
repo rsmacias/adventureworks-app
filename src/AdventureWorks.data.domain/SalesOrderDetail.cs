@@ -20,4 +20,6 @@ public class SalesOrderDetail {
 
     public SalesOrderHeader SalesOrder { get; set; } = null!;
 
+    public Product Product { get; set; } = null!;
+
 }
