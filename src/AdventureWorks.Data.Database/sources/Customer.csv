@@ -1,0 +1,848 @@
+CustomerID	NameStyle	Title	FirstName	MiddleName	LastName	Suffix	CompanyName	SalesPerson	EmailAddress	Phone	PasswordHash	PasswordSalt	ModifiedDate
+1	0	Mr.	Orlando	N.	Gee		A Bike Store	adventure-works\pamela0	orlando0@adventure-works.com	245-555-0173	L/Rlwxzp4w7RWmEgXX+/A7cXaePEPcp+KwQhl2fJL7w=	1KjXYs4=	2005-08-01 00:00:00
+2	0	Mr.	Keith		Harris		Progressive Sports	adventure-works\david8	keith0@adventure-works.com	170-555-0127	YPdtRdvqeAhj6wyxEsFdshBDNXxkCXn+CRgbvJItknw=	fs1ZGhY=	2006-08-01 00:00:00
+3	0	Ms.	Donna	F.	Carreras		Advanced Bike Components	adventure-works\jillian0	donna0@adventure-works.com	279-555-0130	LNoK27abGQo48gGue3EBV/UrlYSToV0/s87dCRV7uJk=	YTNH5Rw=	2005-09-01 00:00:00
+4	0	Ms.	Janet	M.	Gates		Modular Cycle Systems	adventure-works\jillian0	janet1@adventure-works.com	710-555-0173	ElzTpSNbUW1Ut+L5cWlfR7MF6nBZia8WpmGaQPjLOJA=	nm7D5e4=	2006-07-01 00:00:00
+5	0	Mr.	Lucy		Harrington		Metropolitan Sports Supply	adventure-works\shu0	lucy0@adventure-works.com	828-555-0186	KJqV15wsX3PG8TS5GSddp6LFFVdd3CoRftZM/tP0+R4=	cNFKU4w=	2006-09-01 00:00:00
+6	0	Ms.	Rosmarie	J.	Carroll		Aerobic Exercise Company	adventure-works\linda3	rosmarie0@adventure-works.com	244-555-0112	OKT0scizCdIzymHHOtyJKQiC/fCILSooSZ8dQ2Y34VM=	ihWf50M=	2007-09-01 00:00:00
+7	0	Mr.	Dominic	P.	Gash		Associated Bikes	adventure-works\shu0	dominic0@adventure-works.com	192-555-0173	ZccoP/jZGQm+Xpzc7RKwDhS11YFNybwcPVRYTSNcnSg=	sPoUBSQ=	2006-07-01 00:00:00
+10	0	Ms.	Kathleen	M.	Garza		Rural Cycle Emporium	adventure-works\josé1	kathleen0@adventure-works.com	150-555-0127	Qa3aMCxNbVLGrc0b99KsbQqiVgwYDfHcsK9GZSUxcTM=	Ls05W3g=	2006-09-01 00:00:00
+11	0	Ms.	Katherine		Harding		Sharp Bikes	adventure-works\josé1	katherine0@adventure-works.com	926-555-0159	uRlorVzDGNJIX9I+ehTlRK+liT4UKRgWhApJgUMC2d4=	jpHKbqE=	2005-08-01 00:00:00
+12	0	Mr.	Johnny	A.	Caprio	Jr.	Bikes and Motorbikes	adventure-works\garrett1	johnny0@adventure-works.com	112-555-0191	jtF9jBoFYeJTaET7x+eJDkd7BzMz15Wo9odbGPBaIak=	wVLnvHo=	2006-08-01 00:00:00
+16	0	Mr.	Christopher	R.	Beck	Jr.	Bulk Discount Store	adventure-works\jae0	christopher1@adventure-works.com	1 (11) 500 555-0132	sKt9daCzEEKWAzivEGPOp8tmaM1R3I+aJfcBjzJRFLo=	8KfYx/4=	2006-09-01 00:00:00
+18	0	Mr.	David	J.	Liu		Catalog Store	adventure-works\michael9	david20@adventure-works.com	440-555-0132	61zeTkO+eI5g8GG0swny8Wp/6GzZMFnT71fnW4lTHNY=	c7Ttvv0=	2005-08-01 00:00:00
+19	0	Mr.	John	A.	Beaver		Center Cycle Shop	adventure-works\pamela0	john8@adventure-works.com	521-555-0195	DzbqWX7B3EK5Dub92CKHYSUGKGbZCbrcVDpVe/xyBeI=	zXNgrJw=	2007-04-01 00:00:00
+20	0	Ms.	Jean	P.	Handley		Central Discount Store	adventure-works\david8	jean1@adventure-works.com	582-555-0113	o1GVo3vExeNzo0/ctdRGf2eDK3uzTlcUbr18tN+Slf8=	uMsvfdo=	2005-09-01 00:00:00
+21	0		Jinghao		Liu		Chic Department Stores	adventure-works\jillian0	jinghao1@adventure-works.com	928-555-0116	IaD5AeqK9mRiIrJi/etZGVO6EiybLf/oksA2CqrpoJ0=	p6pOqKc=	2006-09-01 00:00:00
+22	0	Ms.	Linda	E.	Burnett		Travel Systems	adventure-works\jillian0	linda4@adventure-works.com	121-555-0121	23AwhujCoXYSPiN/B+G8Z9rk36xl35EbdLT7akTMTqU=	SmyIPjE=	2005-08-01 00:00:00
+23	0	Mr.	Kerim		Hanif		Bike World	adventure-works\shu0	kerim0@adventure-works.com	216-555-0122	d0WSjosAd7Y3XOWjNAkoTClCb50vwPuAawOSI1iosgs=	33g5co8=	2006-09-01 00:00:00
+24	0	Mr.	Kevin		Liu		Eastside Department Store	adventure-works\linda3	kevin5@adventure-works.com	926-555-0164	ylTpkIOHKLcjihNjS0j/k10eOHOsWQMNhlbuOCp+UTY=	TgZnUOg=	2006-09-01 00:00:00
+25	0	Mr.	Donald	L.	Blanton		Coalition Bike Company	adventure-works\shu0	donald0@adventure-works.com	357-555-0161	pKYDelLBOZMO98GBzhMxBSzzE0gUYKx9dXzYTYNuBgw=	jKtOaOw=	2006-09-01 00:00:00
+28	0	Ms.	Jackie	E.	Blackwell		Commuter Bicycle Store	adventure-works\josé1	jackie0@adventure-works.com	972-555-0163	wqhgKfOTfef4Zo3cb6FwsFzvG/yCVstuYh3AuwjRszQ=	SZ+r60o=	2007-08-01 00:00:00
+29	0	Mr.	Bryan		Hamilton		Cross-Country Riding Supplies	adventure-works\josé1	bryan2@adventure-works.com	344-555-0144	ftRWIIT4oF+if+ddn1ROYXHw6PAooKFX3uALZ0uEU98=	IRNPDIw=	2005-08-01 00:00:00
+30	0	Mr.	Todd	R.	Logan		Cycle Merchants	adventure-works\garrett1	todd0@adventure-works.com	783-555-0110	FV6z03ywMJOumcU+TEoL/Z/s4YP2fe8B3MJUUTA0CHU=	mFRhaEg=	2006-09-01 00:00:00
+34	0	Ms.	Barbara	J.	German		Cycles Wholesaler & Mfg.	adventure-works\jae0	barbara4@adventure-works.com	1 (11) 500 555-0181	2Pyd3S3Os61yt+lfSjMgSDNwT1LL4Qs51m1ob42We40=	Jvsxxrg=	2007-07-01 00:00:00
+37	0	Mr.	Jim		Geist		Two Bike Shops	adventure-works\pamela0	jim1@adventure-works.com	724-555-0161	cvqeC4fJcKwJ9jlluiWvK5/MyuSi8neLnjFDGdvzJy4=	ot8WcXk=	2006-09-01 00:00:00
+38	0	Ms.	Betty	M.	Haines		Finer Mart	adventure-works\david8	betty0@adventure-works.com	867-555-0114	Q/nGAVzOO1ZT/4+BQ1kwltqQyzycLA2GGmDmBBxLMnM=	6IvcbVg=	2007-09-01 00:00:00
+39	0	Ms.	Sharon	J.	Looney		Fitness Hotel	adventure-works\jillian0	sharon2@adventure-works.com	377-555-0132	Uo3kAuNh936QfPTIfPt6I6Z3+olLMRu5IC5awuzDaG8=	uHgb0IU=	2006-09-01 00:00:00
+40	0	Mr.	Darren		Gehring		Journey Sporting Goods	adventure-works\jillian0	darren0@adventure-works.com	417-555-0182	kqptixZ7LqTuOKcc7ylpabWrgWr5BDXa2fpkDxEwaCY=	Xe7grug=	2005-08-01 00:00:00
+41	0	Ms.	Erin	M.	Hagens		Distant Inn	adventure-works\shu0	erin1@adventure-works.com	244-555-0127	92Sfw/bl0dUJO9SAfoKn452VJcstSo2lgAbSPk97nRA=	8soIcx8=	2006-07-01 00:00:00
+42	0	Mr.	Jeremy		Los		Healthy Activity Store	adventure-works\linda3	jeremy0@adventure-works.com	911-555-0165	jLMkpmNutZFzWw7sSWZeqd91vtlRwaWx2Ub21mhsvlU=	JK9/WX8=	2006-07-01 00:00:00
+43	0	Ms.	Elsa		Leavitt		Frugal Bike Shop	adventure-works\shu0	elsa0@adventure-works.com	482-555-0174	BmJaM+147GrhU00kNTtaTolp0EJcarJK/SCfew4ZiYA=	YADhpPo=	2006-08-01 00:00:00
+46	0	Mr.	David	O	Lawrence		Gear-Shift Bikes Limited	adventure-works\josé1	david19@adventure-works.com	653-555-0159	HyZexVTTLfKfhx/Sb+XHQb4vta2LC1FD3OYIkpmzMlQ=	/kc6RdY=	2006-12-01 00:00:00
+47	0	Ms.	Hattie	J.	Haemon		Greater Bike Store	adventure-works\josé1	hattie0@adventure-works.com	141-555-0172	RLemw98UkhyklI9z6Kx01t3fpE6z6E9v5GdRReTdOIY=	8n38uVg=	2005-09-01 00:00:00
+48	0	Ms.	Anita	R.	Lucerne		Grand Industries	adventure-works\garrett1	anita0@adventure-works.com	164-555-0118	YYTwMHBzX9ZM2XoYAzTo7bVfsHm05BO3Sl1+sokcRjM=	Zb6O1a0=	2007-09-01 00:00:00
+52	0	Ms.	Rebecca		Laszlo		Instruments and Parts Company	adventure-works\jae0	rebecca2@adventure-works.com	1 (11) 500 555-0155	ox4SPBzzVPKyCVoIcZvkdVLtnQlKoDXCciBGcqVAfrI=	n7ydrrc=	2007-09-01 00:00:00
+55	0	Mr.	Eric		Lang		Kickstands and Accessories Company	adventure-works\pamela0	eric6@adventure-works.com	932-555-0163	katp5sn21ZqJq5Z26YRBk9XXP3iFjpsX7tNPYAAxZlI=	xw9RymE=	2007-09-01 00:00:00
+56	0	Mr.	Brian		Groth		Latest Accessories Sales	adventure-works\david8	brian5@adventure-works.com	461-555-0118	tbk7TwAC5jsqEhFRRIhnL9kPBoTy3XS+EjlReKVp5mw=	hpOsvJU=	2006-08-01 00:00:00
+57	0	Ms.	Judy	R.	Lundahl		Leading Sales & Repair	adventure-works\jillian0	judy1@adventure-works.com	260-555-0130	VzG/BDjkh2mMWAn2eZ/FQDI5/pGurtzdCfxTaCf6zAs=	N5Ajt+s=	2005-09-01 00:00:00
+58	0	Mr.	Peter		Kurniawan		Largest Bike Store	adventure-works\jillian0	peter4@adventure-works.com	436-555-0160	el1s9e+hWeb+79bwrhU+hxHEyJN+j6tR8vWyKJDZmTs=	QgzjTPU=	2005-11-01 00:00:00
+59	0	Mr.	Douglas		Groncki		Locks Company	adventure-works\shu0	douglas2@adventure-works.com	385-555-0140	J9nhrWh6kpc/dGBkN7HRxrrbquy1Rit9UMPv9rbYjBs=	KiAAI5M=	2007-09-01 00:00:00
+60	0	Mr.	Sean	J.	Lunt		Main Bicycle Services	adventure-works\linda3	sean4@adventure-works.com	183-555-0111	NCIEHFdWOrgXFDd6SE817buY5XNWSBCQZlOsgOGIP2E=	eK6Wzw0=	2007-09-01 00:00:00
+61	0	Mr.	Jeffrey		Kurtz		Many Bikes Store	adventure-works\shu0	jeffrey3@adventure-works.com	452-555-0179	zn3Nk0+i/zyvxFNh3OziN2Pxa3NfiIlVMJ9Ox86ytao=	5MZXwF4=	2006-09-01 00:00:00
+64	0	Mr.	Vamsi		Kuppa		Metal Clearing House	adventure-works\josé1	vamsi1@adventure-works.com	290-555-0196	6p4SZnWdWPrBclHkaWFeooblNWE+Y4VJiuTM9hyonDI=	HaDRSbY=	2007-08-01 00:00:00
+65	0	Ms.	Jane	P.	Greer		Metro Manufacturing	adventure-works\josé1	jane2@adventure-works.com	737-555-0163	gCWE10xc3haq9E82Ksvg2GS6WBBD0H0ZF25YAS0CfJ8=	qxbTTkE=	2006-08-01 00:00:00
+66	0	Mr.	Alexander	J.	Deborde		Neighborhood Store	adventure-works\garrett1	alexander1@adventure-works.com	394-555-0176	QC+He1HXF5uNbU5XqduVyZW0SlvdnAE2jhuD/06ukjE=	Uifpoxw=	2006-08-01 00:00:00
+70	0	Mr.	Deepak		Kumar		Outdoor Aerobic Systems Company	adventure-works\jae0	deepak0@adventure-works.com	1 (11) 500 555-0122	0d3F0pfNxXFKEufM738j3/fA0at2eUlZA8ibqRnMr7M=	6fOTb8g=	2007-08-01 00:00:00
+73	0	Ms.	Margaret	T.	Krupka		Outdoor Sports Supply	adventure-works\pamela0	margaret1@adventure-works.com	107-555-0132	dI+A6Ikk6Eh9ypKYxrAEHGdSxjzUhy8bEyDdFjggW9g=	09k9Tis=	2005-08-01 00:00:00
+74	0	Mr.	Christopher	M.	Bright		Parcel Express Delivery Service	adventure-works\david8	christopher2@adventure-works.com	162-555-0166	jIw8zSChmDX3xmVInKUV46U77LBgW9C5vlIMvK4NqF8=	J9DNyhU=	2005-11-01 00:00:00
+75	0	Ms.	Aidan		Delaney		Paint Supply	adventure-works\jillian0	aidan0@adventure-works.com	358-555-0188	6lcVqEc4gGgfW6DsOks/KuDIWIP5qFsrc8sXtmcwj6E=	DKu7/UM=	2005-09-01 00:00:00
+76	0	Mr.	James	J.	Krow		Out-of-the-Way Hotels	adventure-works\jillian0	james11@adventure-works.com	265-555-0190	I2HiduC1LR4LnxkLk1SFZ0OCyPveKfbQ6Q4mjKnPiyA=	PJEpZaA=	2005-09-01 00:00:00
+77	0	Mr.	Michael		Brundage		Mechanical Products Ltd.	adventure-works\shu0	michael13@adventure-works.com	128-555-0148	Ioh5Ss2cXrUAI8DZcSkQ/z92aEmHE0Wxqc6MdggjJQE=	MjQeaAE=	2006-08-01 00:00:00
+78	0	Mr.	Stefan		Delmarco		Preferred Bikes	adventure-works\linda3	stefan0@adventure-works.com	819-555-0186	9rOycZRxDntXWB8Y/285x4HS6G2ATNOzhqIhF+oBGqc=	BsI2IB4=	2005-08-01 00:00:00
+79	0	Mr.	Mitch		Kennedy		Reasonable Bicycle Sales	adventure-works\shu0	mitch0@adventure-works.com	996-555-0192	Re4KikAJLZeLX+pM2Bw7HZNkd5Yyd/vrGB7WhjbYmCo=	lGI5cA0=	2006-08-01 00:00:00
+82	0	Mr.	James	D.	Kramer		Refined Department Stores	adventure-works\josé1	james10@adventure-works.com	814-555-0130	8x6bpv0tFDausfY5Z8RQwPKRz3E+N1BszPMzVAsq5kg=	5NcSbeg=	2006-07-01 00:00:00
+83	0	Mr.	Eric	J.	Brumfield		Requisite Part Supply	adventure-works\josé1	eric3@adventure-works.com	644-555-0114	pd7lPYE+Gn7QnX4l6aMxG6WiRZGpPVsBcJ1kBpXl7pc=	MAOhXKA=	2005-07-01 00:00:00
+84	0	Ms.	Della	F.	Demott Jr		Rewarding Activities Company	adventure-works\garrett1	della0@adventure-works.com	752-555-0185	oR9ACW0ZX4v6zBa57CfhePKM1qmHjgDwNdGaTDAp4io=	966Lz4w=	2005-08-01 00:00:00
+88	0	Ms.	Pamala	M.	Kotc		Closest Bicycle Store	adventure-works\jae0	pamala0@adventure-works.com	1 (11) 500 555-0173	3nXek8BFNaBhIi8CwSzQOVdo1ZthphI3kGbZTrt6jNM=	/rh9tFs=	2007-09-01 00:00:00
+91	0	Ms.	Joy	R.	Koski		Scooters and Bikes Store	adventure-works\pamela0	joy0@adventure-works.com	810-555-0198	tTeR7tEh6XEQtr0WQ2eXrHrqjsOt2mdihjWZ3c4q50s=	IrqLpXQ=	2005-09-01 00:00:00
+92	0	Ms.	Jovita	A.	Carmody		Sports Commodities	adventure-works\david8	jovita0@adventure-works.com	646-555-0137	d3uGruCihzt7+Dipsh3+fE3iZd/uKCf8sy56xa5chxU=	zmqmiAQ=	2005-09-01 00:00:00
+93	0	Mr.	Prashanth		Desai		Stationary Bikes and Stands	adventure-works\jillian0	prashanth0@adventure-works.com	138-555-0156	AT0SeSL9gTlDL0/MHFMEy5GrEjR12DBF5ag/cyHZpJY=	l32Vf08=	2005-09-01 00:00:00
+94	0	Mr.	Scott		Konersmann		Specialty Sports Store	adventure-works\jillian0	scott6@adventure-works.com	556-555-0192	2WMJfIzZjrB1xeQtjtSTUQfxxeowOV9LmAjmUkH/qP4=	A+rOrG0=	2006-07-01 00:00:00
+95	0	Ms.	Jane	N.	Carmichael		Rural Department Store	adventure-works\shu0	jane0@adventure-works.com	716-555-0167	ZIXjFmD2T/Gf9bPHIkx7X82eU+I86/8p3rmYxWqwtkQ=	BUBjqIQ=	2007-07-01 00:00:00
+96	0	Ms.	Bonnie	B.	Lepro		More Bikes!	adventure-works\linda3	bonnie2@adventure-works.com	354-555-0130	QFcESEnv3fd3s0KxftaNIRbKv6ba7PNXWLVrlx/mrF4=	WVm7PpY=	2005-09-01 00:00:00
+97	0	Mr.	Eugene		Kogan		Mountain Bike Center	adventure-works\shu0	eugene2@adventure-works.com	136-555-0134	Tp1Zre+rOA0pmlkyosHvuAxhbMWt7UcvCPrAYmXyI+w=	GdsdWsk=	2006-08-01 00:00:00
+100	0	Mr.	Kirk	T	King		Up-To-Date Sports	adventure-works\josé1	kirk2@adventure-works.com	979-555-0163	056V7iOc8FPUiLanlyEqQX6cAWuL0TJ8fQBhX7mEjMU=	b96sfSU=	2007-08-01 00:00:00
+101	0	Mr.	William	J.	Conner		Urban Sports Emporium	adventure-works\josé1	william1@adventure-works.com	383-555-0111	GZyRS1qyQMxNWXYf0B1uj2nyQjhk4oN+Qv3geEMUy5A=	94SS2WQ=	2006-08-01 00:00:00
+102	0	Ms.	Linda		Leste		National Manufacturing	adventure-works\garrett1	linda7@adventure-works.com	493-555-0134	heRwLFQMae6Y0X7+Q7tLrq4gB5sXd8jC7uiIjXlEs6Y=	OHu+9rc=	2005-08-01 00:00:00
+106	0	Ms.	Andrea	A.	Thomsen		West Side Mart	adventure-works\jae0	andrea1@adventure-works.com	1 (11) 500 555-0120	LDoJwsGCFLtxVdbdQBbN/to7zFF1skP+hWLrIrCxvAw=	NuexV8w=	2007-09-01 00:00:00
+109	0	Mr.	Daniel	P.	Thompson		Travel Sports	adventure-works\pamela0	daniel2@adventure-works.com	247-555-0197	DgTXKBbRFAv0jGUCn8yCPgnYQP1JhhVioFj9E1gXCS8=	jcMXc0w=	2007-09-01 00:00:00
+110	0	Ms.	Kendra	N.	Thompson		Vintage Sport Boutique	adventure-works\david8	kendra0@adventure-works.com	464-555-0188	dBvr8YSJ5D5BzBQ6uCOKmYVG2wDeIf97H4Jh3ePPYHM=	IS71rL8=	2007-07-01 00:00:00
+111	0	Mr.	Scott	A.	Colvin		Westside Cycle Store	adventure-works\jillian0	scott1@adventure-works.com	119-555-0144	4QoOmH+4/mabhuXqIQnoVm+1MjvTYyAHid9vpNehSxs=	sA8S2v4=	2005-12-01 00:00:00
+112	0	Ms.	Elsie	L.	Lewin		Town Industries	adventure-works\jillian0	elsie0@adventure-works.com	803-555-0116	sbrtAXJY79C5nTfNaktfR5zn9+uSLMSL26NETFSeEas=	UUwXzgY=	2007-09-01 00:00:00
+113	0	Mr.	Donald	M.	Thompson		Trendy Department Stores	adventure-works\shu0	donald1@adventure-works.com	273-555-0111	HfjBjq3HyrYM/vkKe/z2JUvmTeROuQWy7ntzIG/uTNk=	ke7sTgo=	2007-09-01 00:00:00
+114	0	Mr.	John	L.	Colon		Two Wheels Cycle Store	adventure-works\linda3	john14@adventure-works.com	397-555-0144	9HEZAYB77VjHRd83ZDP94/ugDP0PhvUiIRCi3Cl5y7A=	j6Z6ny8=	2005-09-01 00:00:00
+115	0	Mr.	George	Z.	Li		Security Racks and Locks Wholesalers	adventure-works\shu0	george3@adventure-works.com	699-555-0183	y3YyySPHg7l+/+LZkIFmyZ7gE+BOIOdPEq+t+oE093g=	4m5UYgM=	2006-08-01 00:00:00
+118	0	Mr.	Yale		Li		Rapid Bikes	adventure-works\josé1	yale0@adventure-works.com	316-555-0138	B2RR480ridZSqURXY3APlxFk13GITW6LDFutGbpSUIs=	5MEUKYU=	2005-09-01 00:00:00
+119	0	Ms.	Phyllis	A.	Thomas		Red Bicycle Company	adventure-works\josé1	phyllis2@adventure-works.com	667-555-0112	hAXpzsxtYdB4R3XMc08m98BwHHvL0+J6J+y0u7B1ngg=	ycYA+jA=	2005-07-01 00:00:00
+120	0	Mr.	Pat		Coleman		Machines & Cycles Store	adventure-works\garrett1	pat2@adventure-works.com	292-555-0128	61UcbVZnGT5eqxs0oFMv4JyipeaQCUZgUZkPgtVNBDo=	7+I+4k4=	2007-07-01 00:00:00
+124	0	Ms.	Yuhong		Li		Nearby Sporting Goods	adventure-works\jae0	yuhong1@adventure-works.com	1 (11) 500 555-0176	XrcuygOte7eGdTleJOKDmf/XBySqc/0xVbjpIPzMWQA=	R273GbA=	2006-08-01 00:00:00
+127	0	Mr.	Joseph	M.	Lique		Front Sporting Goods	adventure-works\pamela0	joseph2@adventure-works.com	119-555-0195	7dnLSdRuWFKBMjmORanIkwGVy3smf5yZI3YxSSyd5/U=	jH5dJh4=	2006-08-01 00:00:00
+128	0	Ms.	Judy	J.	Thames		Demand Distributors	adventure-works\david8	judy3@adventure-works.com	799-555-0118	BXs/jMkqmCMJn6V9vWS+iM7P+R0MGu2nmP4SLrJrYCg=	OSnERUk=	2006-06-01 00:00:00
+129	0	Ms.	Connie	L.	Coffman		Discount Bicycle Specialists	adventure-works\jillian0	connie0@adventure-works.com	426-555-0181	Wkqdm53a0uim7B/e9+IT0I81uzxMNnh1FBaeXd3nyP0=	3tT/ffQ=	2005-11-01 00:00:00
+130	0	Mr.	Paulo	H.	Lisboa		Elite Bikes	adventure-works\jillian0	paulo0@adventure-works.com	380-555-0116	MO2kc8uiSARHp+gxFShJchORmBfhfAz+NC31TDVciS8=	QXbFwBQ=	2006-09-01 00:00:00
+131	0	Ms.	Vanessa	J.	Tench		Eighth Bike Store	adventure-works\shu0	vanessa0@adventure-works.com	785-555-0163	qnzSZKGLMJiDzrH9h5VfDojb/pTtQKfZNc7nW7qzQ90=	dPOi278=	2007-08-01 00:00:00
+132	0	Ms.	Teanna	M.	Cobb		Another Sporting Goods Company	adventure-works\linda3	teanna0@adventure-works.com	661-555-0168	oDFb9hjhU08th9xeH9bRAY/U7JJTdaLY9NiegJj3vzk=	60Z0AcQ=	2007-08-01 00:00:00
+133	0	Mr.	Michael		Graff		Commercial Sporting Goods	adventure-works\shu0	michael16@adventure-works.com	132-555-0150	NRM1BXnt0/4EDaPuM5qday+BOZANEisKCyGGQqJxXpY=	ewV5lII=	2006-09-01 00:00:00
+136	0	Mr.	Derek		Graham		Wholesale Parts	adventure-works\josé1	derek0@adventure-works.com	674-555-0187	FJJVccEFyVV8NubSxOFblRtnKqQD221f9AT9xxYTOUA=	8ju6sOA=	2005-08-01 00:00:00
+137	0		Gytis	M	Barzdukas		Transportation Options	adventure-works\josé1	gytis0@adventure-works.com	257-555-0119	muiJ85PHJTw5ocOM+yS+gq+w8REzzCOfzXZNFyDZniI=	lUNnQso=	2005-11-01 00:00:00
+138	0	Ms.	Jane		Clayton		South Bike Company	adventure-works\garrett1	jane1@adventure-works.com	206-555-0195	o02Imw+gyZX9J1yiTBKYD4M5XlerPqz3usX+v3CsDHA=	PZCGT2g=	2007-08-01 00:00:00
+142	0	Mr.	Jon		Grande		Riding Cycles	adventure-works\jae0	jon1@adventure-works.com	1 (11) 500 555-0114	26rwIeR9oyfo+P6lodeASP/MAC2/tdKFbmFVC5uBRmA=	83inWt0=	2007-09-01 00:00:00
+145	0	Mr.	Ted		Bremer		Raw Materials Inc	adventure-works\pamela0	ted0@adventure-works.com	962-555-0166	mBQHYK00pq9+tDgH7TR6fPrrYQ2drX7/VuuHgkUSOiQ=	MxiyX14=	2005-08-01 00:00:00
+146	0	Mr.	Richard		Bready		Latest Sports Equipment	adventure-works\david8	richard1@adventure-works.com	340-555-0131	kOabrc0OqOISR4N3D3FZkOh3yAKQCF/ozSx7G00Kpt0=	jpRF8lY=	2005-07-01 00:00:00
+147	0	Ms.	Alice		Clark		Local Hardware Factory	adventure-works\jillian0	alice1@adventure-works.com	221-555-0141	ZZhnNULC5d/7tZv0hUtCl4jKwgyZql8aSrIzlTaTvg0=	hGHOthw=	2006-09-01 00:00:00
+148	0	Mr.	Alan		Brewer		Lots of Bikes Storehouse	adventure-works\jillian0	alan1@adventure-works.com	494-555-0134	t9ecYoVIOcEiyXvl+noHoCymcRlJij1fzZzXfKeZ/R0=	6ZoXk8E=	2005-11-01 00:00:00
+149	0	Mr.	Cornelius	L.	Brandon		Initial Bike Company	adventure-works\shu0	cornelius0@adventure-works.com	229-555-0114	fftjn+fbjvHFJ4bf7rTpLdlCHv61xF+y0ZPKKevQV98=	OzSaq2k=	2006-09-01 00:00:00
+150	0	Ms.	Jill	J.	Christie		Fleet Bikes	adventure-works\linda3	jill1@adventure-works.com	927-555-0198	Vlb2fj7yW2d5JtfPLZvbicsQNEgLhh0b93Uw2pLEBuE=	2cMmc9Y=	2006-08-01 00:00:00
+151	0	Mr.	Walter	J.	Brian	IV	Futuristic Bikes	adventure-works\shu0	walter0@adventure-works.com	163-555-0155	NN11OHHxrOm6r8lPyhXuBk13QMD+8tph5PIdJ4t0JmY=	PiILPfc=	2006-09-01 00:00:00
+154	0	Mr.	Carlton	M.	Carlisle		Camping and Sports Store	adventure-works\josé1	carlton0@adventure-works.com	193-555-0116	GJhY98QoDTRmv/6f6RcLwoj2v33jAZopR8AjLor/sqc=	fYgdeM0=	2007-09-01 00:00:00
+155	0	Mr.	Joseph	N.	Castellucio		Corner Bicycle Supply	adventure-works\josé1	joseph1@adventure-works.com	180-555-0114	NLAR7H8spiCb/C0qY+3qkJm3VuoSOqDw7yspRc1CTTg=	Whn5BXY=	2005-09-01 00:00:00
+156	0	Mr.	Lester	J.	Bowman	Sr.	Metal Processing Company	adventure-works\garrett1	lester0@adventure-works.com	844-555-0112	+CFHIbYlE+nsmSbCpJOTLZXChbtYA9JzdSnd1Qejk5g=	w7ec7iI=	2005-09-01 00:00:00
+160	0	Ms.	Brigid	F.	Cavendish		Vigorous Sports Store	adventure-works\jae0	brigid0@adventure-works.com	1 (11) 500 555-0178	20rlqqjWOPLBi7oYKBrHMzouHcYl6OknJcV+yc0zQKo=	QS6UTS4=	2006-09-01 00:00:00
+163	0	Mr.	Andrew		Cencini		Sports Merchandise	adventure-works\pamela0	andrew2@adventure-works.com	644-555-0111	Eo1pvctUvdkRpUgGHwOfILlh5uZiYuLv+eBXLj1viR8=	LCi+QgQ=	2007-09-01 00:00:00
+164	0	Ms.	Cindy	M.	Dodd		Suburban Cycle Shop	adventure-works\david8	cindy0@adventure-works.com	706-555-0140	C7FdyTzpzS44mEsqgDG4s8S3CZJtl+yiy9sH4rEI9VY=	M4cce8o=	2005-08-01 00:00:00
+165	0	Mr.	Randall		Boseman		Third Bike Store	adventure-works\jillian0	randall0@adventure-works.com	383-555-0117	UsXZ9ElCaZBo0YED9A2khFNGjNK+8yHdxnraI+OHsZ8=	oMeb83g=	2006-09-01 00:00:00
+166	0	Ms.	Stacey	M.	Cereghino		Fitness Toy Store	adventure-works\jillian0	stacey0@adventure-works.com	351-555-0131	u/IE2VGaycl6iSw+8Es0ro5F6g//TK/eJA3ICMBHXmc=	n+71V7I=	2005-07-01 00:00:00
+167	0	Mr.	Blaine		Dockter		Farthermost Bike Shop	adventure-works\shu0	blaine0@adventure-works.com	156-555-0187	9E6RJtJrsu2iqMbyKMJRaVfPipCW5XObegb3KE3K85M=	hiSI26I=	2005-08-01 00:00:00
+168	0	Sr.	Luis		Bonifaz		Economy Bikes Company	adventure-works\linda3	luis0@adventure-works.com	688-555-0113	fOnF7T/vMnI6uJzH1IxN9lcM8z31odelgSIW9Vu8sD4=	dz8Ej6A=	2006-09-01 00:00:00
+169	0	Ms.	Brenda		Diaz		Downtown Hotel	adventure-works\shu0	brenda2@adventure-works.com	147-555-0192	84meSWqxRT9guwZSihzP3MYe7UV2VaMLBldOf8pTy5A=	lsd099Q=	2005-09-01 00:00:00
+172	0	Ms.	Gabriele		Dickmann		Certified Sports Supply	adventure-works\josé1	gabriele0@adventure-works.com	835-555-0116	6eApe0lB1ZkvyJB3Uo3LaYGV8sm2/NE9fUHXM7a0RYU=	M8SoIWU=	2005-09-01 00:00:00
+173	0	Mr.	Rudolph	J.	Dillon	Sr.	Sundry Sporting Goods	adventure-works\josé1	rudolph0@adventure-works.com	722-555-0169	hynkaEM/LxC86JGG4q4AGgiar6iWoIu5bLVB3gFq2RM=	DUDd/5g=	2005-09-01 00:00:00
+174	0	Mr.	Michael	L.	Bohling		Toy Manufacturing Inc	adventure-works\garrett1	michael12@adventure-works.com	838-555-0147	OaSaJ/wRTB0DFRe0vMDnhW8BPYsB0r2Stk5dzsBWusI=	G5ADims=	2005-09-01 00:00:00
+178	0	Mr.	Dick		Dievendorff		Rampart Amusement Company	adventure-works\jae0	dick1@adventure-works.com	1 (11) 500 555-0193	dI9bbaCIElCUwy2PYLUYLNIrdM9yCcuTmHspqw8Wsxc=	FihOX8w=	2007-08-01 00:00:00
+180	0	Ms.	Nicky	E.	Chesnut		Full-Service Bike Store	adventure-works\michael9	nicky0@adventure-works.com	264-555-0164	weDREfIdFEInQXlEuUK3AjoRiqGR7g2cJQHBZ1BT5xw=	ggpF1Og=	2005-09-01 00:00:00
+181	0	Mr.	Michael	J.	Lee		Family Entertainment Center	adventure-works\pamela0	michael18@adventure-works.com	396-555-0139	A6RveLbS4qIaP/sOesBWwK7KlcShNP0N7DDN2VRWxYk=	vhvGQUE=	2007-08-01 00:00:00
+182	0	Mr.	Stanley	A.	Alan	Jr.	Another Bicycle Company	adventure-works\david8	stanley0@adventure-works.com	156-555-0126	uzR3iWUJwdMRenhBxExmLfmCRPenWgwazHnSEPDbzb8=	kj/7VTw=	2007-09-01 00:00:00
+183	0	Mr.	Yao-Qiang		Cheng		This Area Sporting Goods	adventure-works\jillian0	yao-qiang0@adventure-works.com	344-555-0181	3LD/Jab7lP6gIPvK5EdTnwhHBo+dxs3y9GbIgmN6E8Q=	BG6Ps64=	2006-07-01 00:00:00
+184	0	Ms.	Marjorie	M.	Lee		Go-cart and Bike Specialists	adventure-works\jillian0	marjorie0@adventure-works.com	306-555-0166	viR4W7eY7DDH81eAFhdKTb8Hft5EM8K5CcxdoPdoqgs=	ZcFvFFc=	2006-07-01 00:00:00
+185	0	Mr.	Sandeep		Kaliyath		Weekend Bike Tours	adventure-works\shu0	sandeep1@adventure-works.com	495-555-0113	Rrgza3uGhmNF9StSEGpXIJ5moVVsmcjhGDjdCAPyMnc=	ekE0M9I=	2007-07-01 00:00:00
+186	0	Mr.	Pei		Chow		Thrilling Bike Tours	adventure-works\linda3	pei0@adventure-works.com	789-555-0184	UVTWGfYZBU+ZmXLqhvqZFDwYXdtX14O87KHOHN36XDc=	pI/k4Qw=	2007-09-01 00:00:00
+187	0	Mr.	Frank		Campbell		Trailblazing Sports	adventure-works\shu0	frank4@adventure-works.com	491-555-0132	XKb/GbNNUPKesifxpBwavz3wz5Y3jbFPJgsBIVEFvO0=	/9h1e7s=	2005-09-01 00:00:00
+190	0	Mr.	Mark		Lee		Racing Partners	adventure-works\josé1	mark5@adventure-works.com	371-555-0112	Lk6x4lbbepoCdlNUxLYjn6D3zCWVxEKiK2DwxCURAis=	s7z2FRc=	2007-09-01 00:00:00
+191	0	Ms.	Sandra	T.	Kitt		Non-Slip Pedal Company	adventure-works\josé1	sandra2@adventure-works.com	303-555-0117	d8QmW8XwLDvVvz9RYBNkv59Snnfp3tdnQQ/IZ0UEV9U=	FccEr0Q=	2005-08-01 00:00:00
+192	0	Mr.	Hao		Chen		Nuts and Bolts Mfg.	adventure-works\garrett1	hao1@adventure-works.com	117-555-0173	iwlZhoYS98IRDbB9ps/YqC5ITCR+AZm5L+5g5nqHzE4=	okCr0j4=	2005-08-01 00:00:00
+196	0	Ms.	Jolie		Lenehan		Exhibition Showroom	adventure-works\jae0	jolie0@adventure-works.com	1 (11) 500 555-0126	qUddcyDDhMORzm2Tp3YcC3vD7dXKgTEDtTorjPbhbmk=	C2IP7to=	2007-07-01 00:00:00
+197	0	Ms.	Diane	F.	Krane		Fabrikam Inc., West	adventure-works\michael9	diane4@adventure-works.com	224-555-0126	IQvtwGrIwRDX9ZHmv+WXAmqiXokkD7MT/x8ZdSBArjo=	6xHx1mQ=	2006-09-01 00:00:00
+198	0	Mr.	Payton	P.	Benson		Field Trip Inc	adventure-works\michael9	payton0@adventure-works.com	528-555-0183	FnBp23EtjoS2hj7nCcr9a76vZjNvQ+/WT/5vyYyKG5o=	TYGH50Q=	2005-11-01 00:00:00
+199	0	Mr.	Roger		Lengel		Authorized Bike Sales and Rental	adventure-works\pamela0	roger1@adventure-works.com	947-555-0143	LoVploOms9pM4zQpIHQdGFLraQGd2ZtmlhGCKz8RxZk=	1PXmt4Y=	2007-08-01 00:00:00
+200	0	Ms.	Peggy	J.	Justice		Basic Bike Company	adventure-works\david8	peggy0@adventure-works.com	170-555-0189	C4CbjWP+J+L/5D9jekqIDsijBR8VvJlpu7IxqSE3ckI=	GR7idhc=	2005-07-01 00:00:00
+201	0	Ms.	Edna	J.	Benson		Unsurpassed Bikes	adventure-works\jillian0	edna0@adventure-works.com	789-555-0189	POpWTovMrdUJmLS24NDBdrrY5tasoVlQod5uB56k4YM=	Jx6w2tk=	2007-09-01 00:00:00
+202	0		A.	Francesca	Leonetti		Two-Seater Bikes	adventure-works\jillian0	a0@adventure-works.com	645-555-0193	M2iP88O+gIF88E9NpBhI0baOUusaGXrum+clJ/miHO8=	6UypM3o=	2007-09-01 00:00:00
+203	0	Ms.	Jean		Jordan		Separate Parts Corporation	adventure-works\shu0	jean3@adventure-works.com	207-555-0129	Fz+NYcaaq3h6DqGHlfln+rg8Acm2x1ZGxvEayxBvctA=	RqNfsHY=	2005-07-01 00:00:00
+204	0	Mr.	Ido		Ben-Sachar		Traction Tire Company	adventure-works\linda3	ido0@adventure-works.com	973-555-0112	miuh5Po0s3jNnKrMwmuROEApoKFRWumb1K1EMP0hGB0=	TLqFgK0=	2005-07-01 00:00:00
+205	0	Mr.	Frank		Mart¡nez		Rally Master Company Inc	adventure-works\shu0	frank5@adventure-works.com	171-555-0147	om5PZqKM1Q45cWiYPIrXl/Aae/JkbppbhDiC35ExpI8=	6YiQ2V8=	2007-07-01 00:00:00
+208	0	Mr.	Steve		Masters		Professional Cyclists	adventure-works\josé1	steve2@adventure-works.com	154-555-0115	yFi3yGOATh6SBDVcA2+76Fx57aewXlckixsLIK6rBQ8=	WWk6sxA=	2005-08-01 00:00:00
+209	0	Mr.	Robert	E.	Jones		Purple Bicycle Company	adventure-works\josé1	robert6@adventure-works.com	595-555-0131	P7kS2qmv24u6DHt3T4KoKJ6+3pJpWEoMKQZVPpaRlmo=	c0oPTcw=	2005-08-01 00:00:00
+210	0	Mr.	Josh		Barnhill		Gasless Cycle Shop	adventure-works\garrett1	josh0@adventure-works.com	584-555-0192	bskaXdzyt3OUpHetBO/IcD+SDhG5EyMDjtlYBlgd5JM=	m3KdhOo=	2005-08-01 00:00:00
+214	0	Ms.	Jennifer	J.	Maxham		Exclusive Bicycle Mart	adventure-works\jae0	jennifer1@adventure-works.com	1 (11) 500 555-0175	7Rt3EiYjLXevQHTKMCMAavZEDngeIlBpAJZwplBW0G0=	M6OjY4Y=	2006-08-01 00:00:00
+217	0	Mr.	Chris		Maxwell		City Manufacturing	adventure-works\pamela0	chris6@adventure-works.com	642-555-0187	ixajZho2s3ev/ogNQ9FUe1TyfA9yX1aEVWDOy/mdUAU=	k3iiros=	2006-11-01 00:00:00
+218	0	Mr.	David		Johnson		Sure & Reliable Sporting Goods	adventure-works\david8	david18@adventure-works.com	476-555-0139	tw+fIchafvuaOuwyEXmlXbPr9Vt3EILylHlmwfm6Gig=	0fgKxF4=	2005-08-01 00:00:00
+219	0	Mr.	Brian		Johnson		Extras Sporting Goods	adventure-works\jillian0	brian6@adventure-works.com	320-555-0134	TGnRB6vDbV0LZss8tA9iu637/34mcJWkD0Ux4xaza/k=	2t9hMlk=	2007-03-01 00:00:00
+220	0	Mr.	Robert		Brown		Best o' Bikes	adventure-works\jillian0	robert5@adventure-works.com	575-555-0189	WdS3xcgtqW4nnV7dyZ17PmiMPZ5vKs5whm3ANBVQ1sQ=	mQK+bIw=	2007-07-01 00:00:00
+221	0	Ms.	Sandra	B.	Maynard		Bike Dealers Association	adventure-works\shu0	sandra4@adventure-works.com	993-555-0179	iPjYe483dSgp0POtxsJVNCcegR3PdCK33L1Elr6F14w=	CqQEYuw=	2005-07-01 00:00:00
+222	0	Mr.	Barry		Johnson		Sample Bike Store	adventure-works\linda3	barry1@adventure-works.com	858-555-0140	lepgCpcuzDRNfqPaAgUacRzPVGGXHwiRm7wwJ4cNgBs=	lkPNcdI=	2005-09-01 00:00:00
+223	0	Ms.	Joyce		Jarvis		Paints and Solvents Company	adventure-works\shu0	joyce0@adventure-works.com	458-555-0179	HdGP+FhhGf8dYBcwT4pIsPs6mdixGxg1UVN0kMtW2Jk=	XdEyqf4=	2007-09-01 00:00:00
+226	0	Ms.	Vance	P.	Johns		Leisure Activities	adventure-works\josé1	vance0@adventure-works.com	103-555-0151	SjhcbJpcpaWw4QjUCmjWLcY825LVBVxAVlKUVRGVC/0=	Tb+oJnk=	2006-08-01 00:00:00
+227	0	Ms.	Robin	M.	McGuigan		Health Spa, Limited	adventure-works\josé1	robin0@adventure-works.com	431-555-0153	fLh6z9dFddA6FLXlQVHhI5C9QbgD7gDHv63wFwwLzx8=	OtAJEtc=	2005-07-01 00:00:00
+228	0	Ms.	Danielle	B.	Johnson		Home Town Bike Store	adventure-works\garrett1	danielle1@adventure-works.com	356-555-0190	b0w+/GVSsenvVoXksIyrBh+BGRKEIsId9aOsMDCOZi8=	W1IKTDo=	2007-09-01 00:00:00
+232	0	Mr.	David		Jaffe		Exceptional Cycle Services	adventure-works\jae0	david17@adventure-works.com	1 (11) 500 555-0140	FGdnPYTMqac/OnHuvpZH+gBqo30RCSqFL8kFsXLMOlI=	AnSCCJw=	2007-07-01 00:00:00
+235	0	Ms.	Mary		Alexander		Certified Bicycle Supply	adventure-works\pamela0	mary7@adventure-works.com	344-555-0133	y0iroPvPC4eEspx+3ldDYTXprGyXnnCpLGd3uXHr/+A=	F1wnUPk=	2006-09-01 00:00:00
+236	0	Ms.	Lola	M.	McCarthy		Closeout Boutique	adventure-works\david8	lola0@adventure-works.com	173-555-0151	FA9j5YePslFGxxwINV2WNFLdtlbCtTK0YuF06zPc16Q=	ojfzrl4=	2006-08-01 00:00:00
+237	0	Ms.	Mary	K.	Browning		Client Discount Store	adventure-works\jillian0	mary5@adventure-works.com	658-555-0146	ChGbWjf0h+VNc991cHR4FwJMGxeHxuYSeKVPflcq7wc=	dt/JUB4=	2006-08-01 00:00:00
+238	0	Ms.	Jodan	M.	Jacobson		A Great Bicycle Company	adventure-works\jillian0	jodan0@adventure-works.com	652-555-0189	PSKz4q56IqL3q9GPJjYwAKKz2sFtFqkN9n9dfiu1q+0=	F/sb/Xc=	2005-09-01 00:00:00
+239	0	Ms.	Jane	A.	McCarty		Bicycle Merchandise Warehouse	adventure-works\shu0	jane3@adventure-works.com	529-555-0195	ZoY0+khcW5IFNHszZdW3+g5b7xWZLakfBmLzPRGtfpI=	cpPYnNE=	2006-09-01 00:00:00
+240	0	Mr.	Jessie	E.	Valerio		Wire Baskets and Parts	adventure-works\linda3	jessie0@adventure-works.com	103-555-0179	9EmEkovAOZzHdTYAXrsu3h3xgAvhMbHSs9Q8N+/CWao=	mgl/qso=	2005-08-01 00:00:00
+241	0	Mr.	Eric	A.	Jacobsen		Vale Riding Supplies	adventure-works\shu0	eric5@adventure-works.com	703-555-0120	KONBZCeYvjn9uAVeRFeN0CzMQcKJjrofhFrGTXAscDI=	3V8BWNc=	2007-07-01 00:00:00
+244	0	Mr.	Bronson	R.	Jacobs		Retail Discount Store	adventure-works\josé1	bronson0@adventure-works.com	697-555-0131	qD4cGE0DTDO7V/k6mu0nvfAt3rfbx4PQyYjp43hn+ik=	rLOroU0=	2008-06-01 00:00:00
+245	0	Mr.	James	L.	McCoy	II	Leather Seat Factory	adventure-works\josé1	james12@adventure-works.com	191-555-0151	7fCBS9M7J3qJvmN3sgO/fbT2ap3vnYQ/k+fKjaHYP/0=	r9owTtw=	2006-07-01 00:00:00
+246	0	Ms.	Esther	K.	Valle		Large Bike Shop	adventure-works\garrett1	esther0@adventure-works.com	481-555-0131	70nGUIq7rO630L2/dv94XQ4HE2WWDpHISgy2OgtRANo=	HQA1TJE=	2006-07-01 00:00:00
+250	0	Ms.	Denean	J.	Ison		Express Bike Services	adventure-works\jae0	denean0@adventure-works.com	1 (11) 500 555-0127	RJeObGR0plv36VFq0yPWZGwFUAeTDIWG4sJppheOSaM=	mZ4Tbi0=	2007-08-01 00:00:00
+253	0	Mr.	Erik		Ismert		Roving Sports	adventure-works\pamela0	erik0@adventure-works.com	116-555-0163	qH31PnQBwyUFQKdjw4bJmkw4mcqJUwRlENuk3bHLNx4=	xAk6xGo=	2006-07-01 00:00:00
+254	0	Mr.	Robert	M.	Bernacchi		Safe Cycles Shop	adventure-works\david8	robert4@adventure-works.com	449-555-0176	uNz2P7Jd7t3y2Neqi3NsRS7m0blEPSm/j3sOdXpJ7aw=	G5Du9Sw=	2006-09-01 00:00:00
+255	0	Mr.	Sunil		Uppal		Swift Cycles	adventure-works\jillian0	sunil0@adventure-works.com	184-555-0187	agm2RVYpEMjc+OpNxGG7gujHre5Wv8c+QcQgm6orG2I=	Yqlwc+g=	2005-08-01 00:00:00
+256	0	Mr.	Richard	L.	Irwin		Rental Bikes	adventure-works\jillian0	richard4@adventure-works.com	367-555-0124	h5MoUod8rV39hjm6vrOX+iiVre1Alla8UfBtwIodbOg=	B/Jr1SE=	2005-08-01 00:00:00
+257	0	Mr.	Matthias		Berndt		Number 1 Supply	adventure-works\shu0	matthias1@adventure-works.com	384-555-0169	PGmZaBbqtByrVs9jYLcigdjJ5O29jcKmsdbRwANU3WQ=	6Mzfp8w=	2006-08-01 00:00:00
+258	0	Mr.	Sairaj		Uddin		Quantity Discounts	adventure-works\linda3	sairaj1@adventure-works.com	767-555-0193	S71ozp3yMBzUJk7fj4M8SRU+dElVKuXvieJDpDOvVv8=	iKVyEt4=	2006-08-01 00:00:00
+259	0	Mr.	Lucio		Iallo		Highway Bike Shop	adventure-works\shu0	lucio0@adventure-works.com	199-555-0135	YodKwREGttzzQZXSLkjMe6ipm+9hE2yzBmAYNlj3qKM=	7hC00f0=	2005-08-01 00:00:00
+262	0	Ms.	Beth		Inghram		General Industries	adventure-works\josé1	beth0@adventure-works.com	718-555-0152	F+vY3tSf0ZDAiQakfFA7yxIP0M8ljrI5oYD1F1iZt4w=	H5fjp4Y=	2006-09-01 00:00:00
+263	0	Mr.	Timothy	B.	Burnett	Jr.	Farthest Bike Store	adventure-works\josé1	timothy0@adventure-works.com	251-555-0172	lYPMOabTmO7waFR155ZAm1jDwBg6VW2xrT6sZ1yxPio=	e8KtQ70=	2007-08-01 00:00:00
+264	0	Ms.	Phyllis	B.	Tuffield		Fasteners & Bolts Outlet	adventure-works\garrett1	phyllis3@adventure-works.com	277-555-0182	95PLNarmtKePNK2WYvZZ8U/arYSs9EJoBoh2P7GHCCs=	MLAW5PQ=	2007-08-01 00:00:00
+268	0	Mr.	Richard	A.	Byham		Channel Outlet	adventure-works\jae0	richard2@adventure-works.com	1 (11) 500 555-0138	adQ3TmZB28FhQvF2FntW1RInx5S+aOSvwpURQDLarr8=	KoBtEoU=	2007-09-01 00:00:00
+271	0	Mr.	Jared	L.	Bustamante		Alternative Vehicles	adventure-works\pamela0	jared0@adventure-works.com	164-555-0147	HpDMv2bnK4/qDUMQn8+csux9vDdycGo7vFyJ5y4Vh/Q=	NbybY4k=	2005-11-01 00:00:00
+272	0	Mr.	Henry	L.	Campen		Metro Cycle Shop	adventure-works\david8	henry0@adventure-works.com	635-555-0126	sk3ylc8GdTAWxH2DM4cy8rLkoHXK7tIeMWUl3VNm+Bk=	2NEGr8A=	2005-09-01 00:00:00
+273	0	Ms.	Christie	J.	Trujillo		A Typical Bike Shop	adventure-works\jillian0	christie0@adventure-works.com	686-555-0180	VWZMnmAlCwxvJOjzebXyjCeFgHg6VcKqDb6g/BJXULc=	/tv9aHA=	2005-09-01 00:00:00
+274	0	Ms.	Janet	J.	Gilliat		Active Systems	adventure-works\jillian0	janet2@adventure-works.com	521-555-0183	TYrGU6N0naplzEIsTHgR53UnASh8dXOYxTYOdOrI6Fo=	k1FFTeE=	2006-07-01 00:00:00
+275	0	Mr.	Chris		Cannon		Outdoor Sporting Goods	adventure-works\shu0	chris5@adventure-works.com	118-555-0131	RKimtgGoqQN8dj2KGy7mvo2DrpTK0yOpF9e6sgxyOTU=	LQWSses=	2007-07-01 00:00:00
+276	0	Mr.	Michael John	R.	Troyer		Thrifty Parts and Sales	adventure-works\linda3	michaeljohn0@adventure-works.com	308-555-0175	Gdklarx2tW1EtZEyrAUEIhhguzrFKVS4Bh3BdAsGngk=	HUE+JKI=	2007-09-01 00:00:00
+277	0	Mr.	Guy		Gilbert		The Bicycle Accessories Company	adventure-works\shu0	guy0@adventure-works.com	583-555-0198	YMhZzdS3NtxXPsz/PPksfdYWIvhuoemim9KoDsx20cg=	rQoQs38=	2006-09-01 00:00:00
+280	0	Mr.	Frances	J.	Giglio		Standard Bikes	adventure-works\josé1	frances1@adventure-works.com	692-555-0136	Vf9lyf+xKSbSXq9yAcMEF9niZm29wvPV9e9dU9sYQVc=	6ansEQA=	2006-08-01 00:00:00
+281	0	Ms.	Suzana De Abreu	A.	Canuto		Petroleum Products Distributors	adventure-works\josé1	suzanadeabreu0@adventure-works.com	990-555-0141	aQhg/A43Nq3pqIBjcyPBvjQ7qXHAckVwm6FjAZCx0nc=	RpQyjlA=	2007-09-01 00:00:00
+282	0	Mr.	Billy	J.	Trent		Quick Parts and Service	adventure-works\garrett1	billy0@adventure-works.com	882-555-0115	tSfXgpVAnQ6TL8XxnK0PMKR2Ngn49a0253VcVtcV6QQ=	V1n+9SQ=	2007-09-01 00:00:00
+286	0	Mr.	Leo		Giakoumakis		Number One Bike Co.	adventure-works\jae0	leo0@adventure-works.com	1 (11) 500 555-0169	x78xcW0FvKo3V2RvMGf37bcWhb50vMZ22IuaZcu+qmM=	abrUsFg=	2006-07-01 00:00:00
+287	0	Mr.	Grant		Culbertson		Handy Bike Services	adventure-works\michael9	grant1@adventure-works.com	859-555-0173	nkkvhNgGMBN5JS2w3ewyvV4KCwrTMYC4+yoS/4hIUok=	fqDHYeo=	2005-08-01 00:00:00
+288	0	Mr.	Robert	L.	Barker		Kickstand Sellers	adventure-works\michael9	robert3@adventure-works.com	241-555-0112	q8JpThg+EEoLRrvqBMW+Wa0RbFcCIfVIzYcGGELEOdk=	cdUS/K4=	2006-12-01 00:00:00
+289	0	Ms.	Gabriel	L.	Bockenkamp		Moderately-Priced Bikes Store	adventure-works\pamela0	gabriel0@adventure-works.com	763-555-0145	hW0+tFeNNdvPsnKDuHc6OmH0bCdD2kCfpU6qVvIjdPs=	fjVy+G4=	2005-08-01 00:00:00
+290	0	Mr.	Scott		Culp		Friendly Bike Shop	adventure-works\david8	scott3@adventure-works.com	119-555-0167	Xf7AJHcry+LouddJR3dIGHjo8du8EO+214E81gPafj0=	rXx8clQ=	2006-07-01 00:00:00
+291	0	Mr.	Wayne	N.	Banack		Grand Bicycle Stores	adventure-works\jillian0	wayne0@adventure-works.com	640-555-0189	W6e3zjP9/VTWIVDfWOJ7/sdwfvSP0qPkcRJ1pTa249I=	mv8CSkM=	2006-09-01 00:00:00
+292	0	Mr.	Michael	Greg	Blythe		Grease and Oil Products Company	adventure-works\jillian0	michael11@adventure-works.com	126-555-0172	5QCj8NIegcVaNIwAHhbulqzIKzgsgpVptbr8vMjvY9Q=	8L4g3I4=	2005-07-01 00:00:00
+293	0	Mr.	Conor		Cunningham		Fashionable Bikes and Accessories	adventure-works\shu0	conor0@adventure-works.com	115-555-0113	/yVQQacXlcqZVH6x20kKCxCJ+sP4EjmPQXwwwInfNH0=	vJ/AcXo=	2005-09-01 00:00:00
+294	0	Mr.	Alberto	F.	Baltazar		Flawless Bike Shop	adventure-works\linda3	alberto0@adventure-works.com	780-555-0114	7Pu+s7FYZ9ERNs/++8Bd+aj1rUALff6EuUnG0Xi+5f8=	L1e3Y34=	2005-09-01 00:00:00
+295	0	Mr.	Joseph	P.	Mitzner	Jr.	Engineered Bike Systems	adventure-works\shu0	joseph4@adventure-works.com	129-555-0164	7obarvC3BHLIE/oFo0n+bkB/EZ03Zc8Vu+F2jpK/CNM=	k6zgROU=	2007-09-01 00:00:00
+298	0	Mr.	Robert		Mitosinka		City Cycling	adventure-works\josé1	robert10@adventure-works.com	239-555-0198	vCVsOjGm0KyeirgUeD9DQYxoh13CXTJAA03IytWGrhs=	mQH+E8w=	2007-09-01 00:00:00
+299	0	Mr.	Thierry		D'Hers		Citywide Service and Repair	adventure-works\josé1	thierry1@adventure-works.com	680-555-0192	i+ukExAQLOnEpQFQLme/QYR8w6kME+/MdykXoSxwgFI=	FooiQMs=	2006-07-01 00:00:00
+300	0	Mr.	Daniel		Blanco		Nice Bikes	adventure-works\garrett1	daniel0@adventure-works.com	221-555-0167	bnDkCXU7YCA05COiVJst0pMlaJtfAK0H8pgniBfLooM=	oOIbGSo=	2006-09-01 00:00:00
+304	0	Ms.	Linda		Mitchell		Essential Bike Works	adventure-works\jae0	linda9@adventure-works.com	1 (11) 500 555-0182	LJhS2DW9IscOBidp+dn6JWOa8axqqpEw2XIUiUMRKVM=	hrRF3s4=	2007-09-01 00:00:00
+306	0	Mr.	Stephen	M.	Ayers		Work and Play Association	adventure-works\michael9	stephen1@adventure-works.com	818-555-0171	m79YsPy3BDp4/SUQsvNcbTQuyZxUGV9TuBeHcAHjZCk=	F0hRcQ8=	2006-09-01 00:00:00
+307	0	Ms.	Neva	M.	Mitchell		Riding Associates	adventure-works\pamela0	neva0@adventure-works.com	992-555-0134	xUl8Ag905RQfEG81+mYFO378kfiUUFE0TsYSJ1+rU9I=	ru6E/qg=	2007-08-01 00:00:00
+308	0	Ms.	Megan	N.	Davis		Rugged Bikes	adventure-works\david8	megan1@adventure-works.com	839-555-0198	G6BHmDa5WKyDUTzHeOszC8XHrN8wPjUM76UTZb39tWc=	BNNUWH4=	2007-09-01 00:00:00
+309	0	Mr.	John		Arthur		The Gear Store	adventure-works\jillian0	john6@adventure-works.com	149-555-0113	AJwPH2IQhCHW77xtUnJh0G0EXqA11PsPLRRuSQK+K9U=	ZXH0EUg=	2005-08-01 00:00:00
+310	0	Mr.	Frank		Miller		Orange Bicycle Company	adventure-works\jillian0	frank6@adventure-works.com	118-555-0184	h7ho5pw1ypORUO13IMzogsDDW1C9bUTmGWsz06Xax8E=	n/q5ims=	2006-08-01 00:00:00
+311	0	Sr.	Alvaro		De Matos Miranda Filho		Principal Bike Company	adventure-works\shu0	alvaro0@adventure-works.com	551-555-0155	BrhebOErAX2tbZ1LZxAb8hwE96ZdIjikETxIsIKfpLw=	v5pJpw0=	2006-09-01 00:00:00
+312	0	Mr.	Thomas	B.	Armstrong	Jr.	Resale Services	adventure-works\linda3	thomas1@adventure-works.com	226-555-0146	8ml/xroz0hroeUDl/KW2y2QlIIgHgygotLw0Md60cBY=	hXYQBis=	2005-08-01 00:00:00
+313	0	Mr.	Dylan		Miller		Metropolitan Manufacturing	adventure-works\shu0	dylan1@adventure-works.com	140-555-0192	kE/AZF2xtlVStSAI51sBwnA1CENgrWppF3qD5KxBdVE=	q1lJvKo=	2005-11-01 00:00:00
+316	0	Mr.	Ben		Miller		Low Price Cycles	adventure-works\josé1	ben1@adventure-works.com	207-555-0167	d8+17xmtxYv0ovo+dfdJCIe7zpoChbE+X4f+gQrPU3A=	6CMCzUQ=	2007-08-01 00:00:00
+317	0	Mr.	Jacob	N.	Dean		Finer Riding Supplies	adventure-works\josé1	jacob0@adventure-works.com	767-555-0151	afWrNdx+a97zBy+NoV2h3JgMyfVCLmD1FMz7OiwtBRQ=	KVVlFXY=	2005-08-01 00:00:00
+318	0	Ms.	Ann		Beebe		First-Rate Outlet	adventure-works\garrett1	ann0@adventure-works.com	277-555-0169	l3pyVEyTaWqsF1xRfSXtR2CgCOfOXQCSumdlzqMKLxQ=	BX3pcB8=	2005-08-01 00:00:00
+322	0	Mr.	Matthew	J.	Miller		Tachometers and Accessories	adventure-works\jae0	matthew5@adventure-works.com	1 (11) 500 555-0176	/hDOTbr9X/E4UE8H6wjOGHYZ6Gb8GDpmutPWgFTXQnc=	eiCRDs8=	2006-09-01 00:00:00
+323	0	Mr.	Jo		Brown		Metro Bike Works	adventure-works\michael9	jo2@adventure-works.com	689-555-0130	KZaaqy2YCpxZaXM7rzYJyuNkw9w+wWoUaL5P6Jdyzpk=	T2lZOPo=	2006-08-01 00:00:00
+325	0	Ms.	Virginia	L.	Miller		All Cycle Shop	adventure-works\pamela0	virginia0@adventure-works.com	918-555-0127	2LMYXdm0nvmWcT+Md+NaYmfIPgdmP0R2PiRoynq7WCk=	GNkVrfA=	2006-07-01 00:00:00
+326	0	Mr.	Scott		Gode		Year-Round Sports	adventure-works\david8	scott4@adventure-works.com	164-555-0145	GkzDDuB6pTaET7MyM3Kpgh+sP0JyO6EvZnbS4ep3kEg=	3CEircg=	2005-08-01 00:00:00
+327	0	Ms.	Caroline	A.	Vicknair		World of Bikes	adventure-works\jillian0	caroline0@adventure-works.com	695-555-0158	U1/CrPqSzwLTtwgBehfpIl7f1LHSFpZw1qnG1sMzFjo=	QhHP+y8=	2006-09-01 00:00:00
+328	0	Mr.	Robert	R.	Vessa		Totes & Baskets Company	adventure-works\jillian0	robert13@adventure-works.com	560-555-0171	UWGC2U8F7AUNA2FuiT4agrBoxAFskHGQSxqP39B7zLQ=	iES3IZA=	2005-08-01 00:00:00
+329	0		Andreas		Berglund		Unicycles, Bicycles, and Tricycles	adventure-works\shu0	andreas1@adventure-works.com	795-555-0116	dGlOTb4tIwZCoQftB0K+7CHFl/ty6hYYq/X/T1Dq6k4=	9ak86/4=	2005-08-01 00:00:00
+330	0	Mr.	Mete		Goktepe		The New Bike Store	adventure-works\linda3	mete0@adventure-works.com	637-555-0120	cIKsu790VaU1891IzLoO2agtT2vvaOXkL3puAV90Zro=	7erbA0k=	2005-12-01 00:00:00
+331	0	Ms.	Wanda	F.	Vernon		Technical Parts Manufacturing	adventure-works\shu0	wanda0@adventure-works.com	433-555-0168	hNQpZV8787KyeDWfllnZWzY+l8DFEYTnwoZZzYtusi0=	HDCU1Bk=	2007-07-01 00:00:00
+334	0	Ms.	Dora	P.	Verdad		Retreat Inn	adventure-works\josé1	dora0@adventure-works.com	155-555-0140	RgzxIE8hSY/z6iJnmDYMZWdJTQBRaWKI7UaZhAPhPxY=	jYD20wc=	2006-08-01 00:00:00
+335	0	Mr.	John	M.	Berger	Jr.	Scratch-Resistant Finishes Company	adventure-works\josé1	john10@adventure-works.com	156-555-0111	0J6cl9Zhm+g4rbqJrvyshZWF72arbVNptT27ZL2QTMc=	2Ugh6Q4=	2005-08-01 00:00:00
+336	0	Mr.	Brian	R	Goldstein		Primary Bike Distributors	adventure-works\garrett1	brian4@adventure-works.com	495-555-0161	Pe7m3z2RtNe4D8mkkCKh3/WPMsONB78YR1Kip5zJwzs=	x4UseEA=	2005-08-01 00:00:00
+340	0	Mr.	Raja	D.	Venugopal		Nearby Cycle Shop	adventure-works\jae0	raja0@adventure-works.com	1 (11) 500 555-0195	lx5a4+AFGzH6mzjz6hpiR9scxbYGX8OcqFpv/cI6yFs=	hSwmBWk=	2006-09-01 00:00:00
+343	0	Ms.	Patricia	M.	Vasquez		Mail-Order Outlet	adventure-works\pamela0	patricia2@adventure-works.com	490-555-0132	v0bxLRLRKYxwN8fiORyJkpXaYZpCRhgfNNkwQnylFrE=	WTZFkow=	2006-08-01 00:00:00
+344	0	Ms.	Karren	K.	Burkhardt		Fifth Bike Store	adventure-works\david8	karren0@adventure-works.com	652-555-0132	ho3bUU87fZAlity/45XvFPVE/DgEaLKvI+ZW1e56rnA=	x1JqF8M=	2005-07-01 00:00:00
+345	0	Ms.	Abigail	J.	Gonzalez		Genial Bike Associates	adventure-works\jillian0	abigail0@adventure-works.com	121-555-0139	h5QUx4zv/ilF+lJ6Pgsyd5OP92KaOJDXklOB6qbWskk=	kAdG4pM=	2006-08-01 00:00:00
+346	0	Mr.	Ranjit	Rudra	Varkey Chudukatil		Great Bicycle Supply	adventure-works\jillian0	ranjit1@adventure-works.com	810-555-0160	VTpXtJAiSxeJraHh5mkwwAsGYMllZYzsOBpb2cu8rrQ=	FNe76Vk=	2005-08-01 00:00:00
+347	0	Ms.	Ingrid	K.	Burkhardt		Bike Universe	adventure-works\shu0	ingrid0@adventure-works.com	857-555-0187	cvCHW2+xxa0C0SWtoYyn83PAIn6qI39SbK+kOK+gUGI=	6QL/f9s=	2005-08-01 00:00:00
+348	0	Mr.	Oscar	L.	Alpuerto		Bold Bike Accessories	adventure-works\linda3	oscar0@adventure-works.com	855-555-0174	P1Osji8Ez9uYQCzuZXjnutazXvhAlWDRLjCcTcJb/Ug=	CGYtmQ4=	2005-08-01 00:00:00
+349	0	Mr.	Gary	T	Vargas		Exercise Center	adventure-works\shu0	gary6@adventure-works.com	112-555-0176	WH8bTbYkazE9T0ktiZYIAYDdJXsvjr2zbLiT3gxR6zk=	Zkv5OCw=	2006-09-01 00:00:00
+352	0	Mr.	Shane	S.	Kim		Twelfth Bike Store	adventure-works\josé1	shane2@adventure-works.com	155-555-0149	XRbPUzkzKesTrEzvftw5uMTagaFkYgTZJJlBScNp0hc=	4YXPsTU=	2006-08-01 00:00:00
+353	0	Ms.	Joan	M.	Campbell		Two-Wheeled Transit Company	adventure-works\josé1	joan0@adventure-works.com	700-555-0155	hKb4COq5+4SAW8APMfmPmILk4cdhwtpjpD7Yx8xcx9U=	eVaIdvY=	2005-08-01 00:00:00
+354	0	Mr.	Maxwell	J.	Amland		Serious Cycles	adventure-works\garrett1	maxwell0@adventure-works.com	614-555-0134	8/5CuOyL4qEu4tD2KEd4x1h5OahPfcmZg9L7+F0ATDI=	qoGU2YA=	2005-08-01 00:00:00
+358	0	Mr.	Joe		Kim		Mail Market	adventure-works\jae0	joe1@adventure-works.com	1 (11) 500 555-0144	/1zuZO01NBBN+zaoVVHAp+srLdfFp0nBmPrSBGPulOc=	jMsXQbs=	2007-08-01 00:00:00
+360	0	Ms.	Ramona	J.	Antrim		Novelty Bikes	adventure-works\michael9	ramona0@adventure-works.com	327-555-0148	CkSWR0RMQArXpZJnpZgCnzSPuw3PUh/1jTmWPcrjYyM=	7xa5oqo=	2007-08-01 00:00:00
+361	0	Ms.	Karan		Khanna		Fitness Supplies	adventure-works\pamela0	karan1@adventure-works.com	390-555-0150	KQnTVrF88pDtzAwfV+7dDpsvf4FFaBRltsryZggImmI=	jZhDom8=	2007-08-01 00:00:00
+362	0	Ms.	Sharon	A.	Crow		Grand Cycle Store	adventure-works\david8	sharon1@adventure-works.com	889-555-0176	u9lXZ1SCNDVCKj0H19LBkxxmWQr7JPXmZP2LU5LZIec=	xUz/uts=	2007-08-01 00:00:00
+363	0	Mr.	Chris		Ashton		Immense Manufacturing Company	adventure-works\jillian0	chris3@adventure-works.com	556-555-0145	wGKQ72A4aSsDe2tQKUY1T1o0i/AO69PqKcMSFIponoQ=	3VRtZxg=	2007-08-01 00:00:00
+364	0	Mr.	Imtiaz		Khan		District Mall	adventure-works\jillian0	imtiaz0@adventure-works.com	249-555-0179	NiUsCVv2EYAYfE2mK4VPPDgV7BXgOR4eQ4yVOvsOG1A=	Cdwoi3o=	2005-08-01 00:00:00
+365	0	Mr.	Jack		Creasey		Distinctive Store	adventure-works\shu0	jack2@adventure-works.com	539-555-0182	ao0Wb4hq67DVVcZYX2vO/mOgiZoTtJMBJzi4/wt8mrE=	7wlaV4Y=	2005-09-01 00:00:00
+366	0	Ms.	Teresa		Atkinson		Extended Bike Sales	adventure-works\linda3	teresa0@adventure-works.com	129-555-0110	t+VbX7JvYz3GISo+HPpubYQr00RQKJLNqOx1dQdMKCc=	bwG1Wck=	2005-09-01 00:00:00
+367	0	Ms.	Tammy	J.	Khan		Brown Bicycle Company	adventure-works\shu0	tammy0@adventure-works.com	145-555-0166	NTtGPrBoJXekEg2D/ryHHVYGX/fuL0VeSrhQjzykBiQ=	3D0YsUM=	2005-09-01 00:00:00
+370	0	Ms.	Elizabeth		Keyser		Acceptable Sales & Service	adventure-works\josé1	elizabeth2@adventure-works.com	656-555-0173	gD2lOrxAy3p4xvTGUYnECk5ROZd03OslvHCY+XDxQwI=	/P0XMaQ=	2005-08-01 00:00:00
+371	0	Mr.	Bruno		Costa Da Silva		Custom Sales and Service	adventure-works\josé1	bruno0@adventure-works.com	140-555-0143	iaQDSUY3hGgPoKQBMqMHb4jSlVLSNnjgd2j2jsX9rJs=	MY+7QbE=	2005-08-01 00:00:00
+372	0	Ms.	Katherine	K.	Swan		Top Bike Market	adventure-works\garrett1	katherine1@adventure-works.com	421-555-0192	KP0aM3OevdwcZrEJTRWtCuCiSKfiPhktKN5FqHTnYhM=	yv8Jhf8=	2007-09-01 00:00:00
+376	0	Ms.	Mary	R.	Kesslep		Commerce Bicycle Specialists	adventure-works\jae0	mary8@adventure-works.com	1 (11) 500 555-0146	7OO7XsLMZcOhwoxw8KRfz/SjxQ3qCIVQqjRMtpyV/EY=	J1cVbE8=	2006-08-01 00:00:00
+377	0	Mr.	Marlin	M.	Coriell		Grand Sport Boutique	adventure-works\michael9	marlin0@adventure-works.com	941-555-0155	mWVOfXPZkIFZzQA0Ilekhl49LfhS31vdOtYEmBKSIkk=	FSkdXTM=	2006-08-01 00:00:00
+379	0	Mr.	Kevin		Kennedy		Fad Outlet	adventure-works\pamela0	kevin4@adventure-works.com	275-555-0179	FI+QpFgzPmmfZMk6bavb0AtoPMvD4CZ/+wGuwYgso3g=	B+59kWs=	2006-09-01 00:00:00
+380	0	Ms.	Eva		Corets		First Department Stores	adventure-works\david8	eva0@adventure-works.com	542-555-0164	vcqabvDo1Fnle8WElVwwEwNwCGZKfSJvDCUVyps/SuQ=	gF7bPbY=	2006-07-01 00:00:00
+381	0	Ms.	Julie		Taft-Rider		Bicycle Lines Distributors	adventure-works\jillian0	julie1@adventure-works.com	145-555-0194	BQF73YAE2cFDpeWDP0v7uA0/ZGhGgw1xxiMQqe74r7I=	6ZebGOE=	2006-08-01 00:00:00
+382	0	Mr.	Robert		Kelly		Beneficial Exercises and Activities	adventure-works\jillian0	robert7@adventure-works.com	510-555-0123	JM8Jl1msELWEL8AlgkQ/cej3rlO0TFq13PfmQ/bHakM=	OLqP9tg=	2006-09-01 00:00:00
+383	0	Mr.	Scott		Cooper		Vehicle Shop	adventure-works\shu0	scott2@adventure-works.com	773-555-0182	BEePqLIHwU7zsFCJQcHQ8OGm8nkvUlj8YPFAT/teYOc=	+v0uddA=	2005-10-01 00:00:00
+384	0	Mr.	Clarence	R.	Tatman		Sparkling Paint and Finishes	adventure-works\linda3	clarence0@adventure-works.com	787-555-0128	266JCMNzG3Y2YOZOElwlwmjuO9HTi1S0zbkD7zdQ03g=	kCUx/bc=	2005-08-01 00:00:00
+385	0	Mr.	John		Kelly		Sturdy Toys	adventure-works\shu0	john22@adventure-works.com	330-555-0116	tYV64ygQjda9WaWGc8CfVwqOiTHscX15aCHq9OPvjkw=	a2bt7rI=	2005-08-01 00:00:00
+388	0	Mr.	Victor	A.	Kelley		Road Way Sales and Rental	adventure-works\josé1	victor0@adventure-works.com	112-555-0195	Mm7GafEB1oHJXept9uxIAGnsc2jKRzr0UgDRANPqAsI=	j/3FTKs=	2006-12-01 00:00:00
+389	0	Ms.	Dorothy	J.	Contreras		Sixth Bike Store	adventure-works\josé1	dorothy0@adventure-works.com	428-555-0176	NEJS/vq9oswLdLNa4VH0fbwb+fgxDYIHg2hPP1fn7t4=	lnEeim8=	2005-08-01 00:00:00
+390	0	Mr.	Mike	M.	Taylor		Plastic Parts Company	adventure-works\garrett1	mike6@adventure-works.com	204-555-0189	3/sdWTV1ScxayLuSf0nc6Wbyci2VcabsIBhV/KlQyZ0=	abgBRtE=	2005-11-01 00:00:00
+394	0	Ms.	Bonnie		Kearney		Little Sports Center	adventure-works\jae0	bonnie1@adventure-works.com	1 (11) 500 555-0116	UUjDa8Zdc4Zz63sgzUXpnW3zOJwJZoBuQjoNvF2FVs0=	SNjG3l0=	2007-08-01 00:00:00
+395	0	Ms.	June	B.	Brunner		Online Bike Sellers	adventure-works\michael9	june0@adventure-works.com	249-555-0172	V74x3qYKzA71fWSI3y7gFD552b65vQ+acGzI6wdBsQ4=	hY2Xf6o=	2006-09-01 00:00:00
+397	0	Mr.	Sandeep		Katyal		Capable Sales and Service	adventure-works\pamela0	sandeep2@adventure-works.com	928-555-0117	EAI1ECvxzm9o9MbS8sPVK9QqTkerK/+KO5Wt6escxwY=	7xO2UQE=	2005-07-01 00:00:00
+398	0	Ms.	Shirley	R.	Bruner		Commendable Bikes	adventure-works\david8	shirley0@adventure-works.com	383-555-0155	haGTwCpR1pahJRX/490ASvk+bkWOZv828Z8Krd0XO50=	Jmtgb40=	2006-07-01 00:00:00
+399	0	Mr.	Chad	J.	Tedford		Big Cycle Mall	adventure-works\jillian0	chad1@adventure-works.com	588-555-0128	SnOacRNEqi3s4ywOGFR5MLNghukZ/0bEg9u6LbvzOOE=	+apUSQU=	2007-08-01 00:00:00
+400	0	Mr.	Peter		Houston		Local Sales and Rental	adventure-works\jillian0	peter3@adventure-works.com	632-555-0171	NmON5fxy8YJbaxIrc6lSHicKQ9t/hBGfB1lwcWOr+xc=	Q5WaAeA=	2007-09-01 00:00:00
+401	0	Mr.	Tom	H	Johnston		Brightwork Company	adventure-works\shu0	tom1@adventure-works.com	883-555-0177	WonAzK7XRDoFn66D6qVMzma60dA96LHtk2lz7a28mI4=	0lp7vWg=	2005-08-01 00:00:00
+402	0	Ms.	Marian	M.	Berch		Pro Sporting Goods	adventure-works\linda3	marian0@adventure-works.com	640-555-0198	xvClDu5JJr01TcnxmN1vuMKxvRmlPKIxxZHZVEPs8bk=	5qLSJhI=	2005-08-01 00:00:00
+403	0	Ms.	Juanita	J.	Holman		Affordable Sports Equipment	adventure-works\shu0	juanita0@adventure-works.com	996-555-0196	aJNRDB5SUe0Z3cvfmFqrv/H8fOL9ZoIJhk2iqtM/244=	RvrCF5g=	2005-08-01 00:00:00
+406	0	Mr.	Eddie	M.	Holmes		The Commissary	adventure-works\josé1	eddie0@adventure-works.com	570-555-0199	ClF4Z2L4qQo1wgDJduU5/gxrvxuwBxlzP75SHI50bGM=	S111y4k=	2006-12-01 00:00:00
+407	0	Mr.	Robert	A.	Avalos		Workout Emporium	adventure-works\josé1	robert2@adventure-works.com	665-555-0198	V09BZHvbhAXD4fluXDexe9/89mGNsFPrGa/5NMiJBRU=	3lDpoDs=	2007-09-01 00:00:00
+408	0	Mr.	Alexander	J.	Berger	II	Odometers and Accessories Company	adventure-works\garrett1	alexander0@adventure-works.com	519-555-0151	xGCe2CsXuZvX8e6v4sTb/+XoU+4gWDQEnJADwhDsrhg=	ns1gQU4=	2007-09-01 00:00:00
+412	0	Ms.	Jean	J.	Holloway		Leisure Clearing House	adventure-works\jae0	jean2@adventure-works.com	1 (11) 500 555-0181	Hx2n4MFm10Hr0PL/j104QJK1WuHogx9N0H2U16PqpeM=	v8LsuAE=	2006-08-01 00:00:00
+415	0	Mr.	Greg		Chapman		Imaginary Toys	adventure-works\pamela0	greg1@adventure-works.com	708-555-0169	O4klT8SXfYnT7o3qMpvaJ2lqs00qG6/UsfyahQihxFU=	Ze2j4rQ=	2006-07-01 00:00:00
+416	0	Ms.	Angela		Barbariol		Impromptu Trips	adventure-works\david8	angela1@adventure-works.com	134-555-0182	dT+8gAkuDqXAvfiIcTsiHoTPkfgs4bJuTILNGQjjc0g=	aKMOOAA=	2006-07-01 00:00:00
+417	0	Ms.	Ruth	A.	Choin		Genuine Bike Shop	adventure-works\jillian0	ruth1@adventure-works.com	273-555-0181	ZJ2widMDceVmN30pfgwzpo2Z53AGVrr2LIlFccG4KEc=	BuagBic=	2005-09-01 00:00:00
+418	0	Mr.	Lee	J.	Chapla		Good Bike Shop	adventure-works\jillian0	lee0@adventure-works.com	223-555-0184	yRB9ce1nhQby11wW4ZjaqdAHLcagnHeelEySfrDOivk=	af0s25U=	2005-09-01 00:00:00
+419	0	Mr.	Darrell	M.	Banks		Exertion Activities Club	adventure-works\shu0	darrell0@adventure-works.com	816-555-0118	GVYXCGfsj47VsZUEhhRmXnl3+57f28vVF3wGHfli7oU=	p9JC+Qs=	2005-09-01 00:00:00
+420	0	Mr.	Anthony		Chor		Extreme Riding Supplies	adventure-works\linda3	anthony0@adventure-works.com	429-555-0145	8C7859RNaDWPJkDaaxgaJaZPSf7ikFyFa//RYOz0aPo=	tAAs8Fk=	2007-09-01 00:00:00
+421	0	Mr.	Forrest	J.	Chandler		Fitness Cycling	adventure-works\shu0	forrest0@adventure-works.com	448-555-0179	QHqQuKTbipj1cJzbCkCMH+zQGE09jtToYi9uy0cv77E=	KOGA0IE=	2007-07-01 00:00:00
+424	0	Mr.	Eli		Bowen		Bikes for Two	adventure-works\josé1	eli0@adventure-works.com	371-555-0143	lQBr+SJMfQdHmj/GHgx+x1PKMKtwLGbiInwVTo+4Qfo=	7P8PxcQ=	2006-09-01 00:00:00
+425	0	Mr.	Stephen	Yuan	Jiang		Bikes for Kids and Adults	adventure-works\josé1	stephen3@adventure-works.com	910-555-0116	SqD2biQr39fo9zJnjNrYH0b9Ww+jQyq4h+t6vSz0/4M=	8fDglPw=	2006-07-01 00:00:00
+426	0	Mr.	Dirk	J.	Bruno		Custom Accessories Company	adventure-works\garrett1	dirk0@adventure-works.com	817-555-0114	XaEqG3bH0NhFTn8IBCk4SidcF444Tnvqqr5UjGUiN7E=	DblcZuo=	2006-08-01 00:00:00
+430	0	Sr.	Gustavo		Camargo		Uttermost Bike Shop	adventure-works\jae0	gustavo1@adventure-works.com	1 (11) 500 555-0118	+hCthjbuE+VctSZXuurfmfusjXPrneMHQFQLVjTsnuE=	fS7eEaQ=	2006-08-01 00:00:00
+431	0	Mr.	Douglas	A.	Baldwin	Jr.	Small Cycle Store	adventure-works\michael9	douglas1@adventure-works.com	583-555-0130	9lHdXDAUHUKcA9bEprsps9C8mGNyVVPQ36yJe1BxrWw=	TmbNGeI=	2005-07-01 00:00:00
+433	0	Ms.	Lindsey	R.	Camacho		Thorough Parts and Repair Services	adventure-works\pamela0	lindsey0@adventure-works.com	827-555-0143	6puEloqDRSg8AhINyUQ7qORZUS5CON8jUaFikiprWVo=	bhH3VWU=	2005-08-01 00:00:00
+434	0	Mr.	James	B.	Bailey	Jr.	Road-Way Mart	adventure-works\david8	james3@adventure-works.com	234-555-0112	ZRFnYyY0jR0KxF7thOVIbZAFk+RsH+WO0kvZDRTup2Y=	4TnK5Fo=	2006-10-01 00:00:00
+435	0	Ms.	Carol	B.	Elliott		Satin Finish Company	adventure-works\jillian0	carol2@adventure-works.com	847-555-0151	TIOaZdFb/aFk03gncvEijaflLdTkxJfJnFJXXZdBDds=	PavVqD4=	2006-08-01 00:00:00
+436	0	Ms.	Barbara	J.	Calone		Sheet Metal Manufacturing	adventure-works\jillian0	barbara2@adventure-works.com	145-555-0152	W+klFtJ6V2H2UQK1pJdYy2MEbai2eYSHD0QGx02rFw8=	8iuXJ0k=	2006-08-01 00:00:00
+437	0	Ms.	Megan	E.	Burke		Professional Cycle Store	adventure-works\shu0	megan0@adventure-works.com	148-555-0149	/96oQfFuq06DWi8P5TZqIU/tF2E/GKRMliIjGRWKRDE=	9P3dKrM=	2006-07-01 00:00:00
+438	0	Mr.	Cory	K.	Booth		Remarkable Bike Store	adventure-works\linda3	cory0@adventure-works.com	121-555-0157	OfvFj11NFlpVFhEacTp7Nw+8EqwxHKIv9aJ+2ZgcUMI=	XaJdIYM=	2005-12-01 00:00:00
+439	0	Ms.	Shannon	P.	Elliott		Regional Manufacturing	adventure-works\shu0	shannon0@adventure-works.com	425-555-0158	GgQkc8evqVQZvWwqG9L+QxrK0lzeuCIX4JIe535eQ8Y=	2HvuG3I=	2005-09-01 00:00:00
+442	0	Ms.	Jauna	E.	Elson		Original Bicycle Supply Company	adventure-works\josé1	jauna0@adventure-works.com	185-555-0190	CkyI2hpILZNVv06ClZJ5hmNstcWHJxU+3sqIAEO7AbM=	bsrg3KE=	2005-07-01 00:00:00
+443	0	Sra.	Janaina Barreiro Gambaro		Bueno		Courteous Bicycle Specialists	adventure-works\josé1	janainabarreirogambaro0@adventure-works.com	476-555-0184	VC5UG8CPRifGAgItWSWIpplMzshRj9HJwWt6KBvEFk0=	aNoO9K0=	2007-09-01 00:00:00
+444	0	Mr.	Shaun		Beasley		Finer Cycle Shop	adventure-works\garrett1	shaun0@adventure-works.com	396-555-0187	zrx5RFbPSu5mxzlRdxbDIH2wSdDS9S9OvSavFh1QHUA=	XjtM78E=	2006-08-01 00:00:00
+448	0	Mr.	Terry		Eminhizer		Action Bicycle Specialists	adventure-works\jae0	terry1@adventure-works.com	1 (11) 500 555-0176	y8RaWYkfTrcpFEipLXAyKC2pL8AJgQhpW2mOmZ8sqF4=	vx5Ko/Q=	2007-09-01 00:00:00
+451	0	Mr.	John		Emory		Roadway Bike Emporium	adventure-works\pamela0	john16@adventure-works.com	691-555-0149	EXyX+Acbgfz6Y4iZ9KNW4TsmchGMdgjtJqmn+Xu2Mws=	/4/gh8A=	2007-07-01 00:00:00
+452	0	Ms.	Olga	J.	Trau		A Cycle Shop	adventure-works\david8	olga0@adventure-works.com	398-555-0167	PqP7JYEV7uwp4lhZS0eq3xGVazdcCgdpMFK082MmyiE=	4blcnbQ=	2007-07-01 00:00:00
+453	0	Mr.	Jon		Ganio		Unique Bikes	adventure-works\jillian0	jon0@adventure-works.com	672-555-0112	bWjEPINRmvLEbxP7M/s7AJTqpJenlAkq34rNVCEXqpc=	+Yo0P+0=	2005-09-01 00:00:00
+454	0	Ms.	Gail		Erickson		Sleek Bikes 	adventure-works\jillian0	gail1@adventure-works.com	834-555-0132	yV4p9H28cp19QO/bcSjLxZFYAs22W5SR9HnmTXUEWkM=	qUowBt4=	2007-09-01 00:00:00
+455	0	Mr.	James	R.	Tran		Timely Shipping Service	adventure-works\shu0	james15@adventure-works.com	740-555-0159	a+hmmVFjNsedclcbOwkz48GUza0wrQc51JPBj3JdaBM=	X1REDgI=	2007-09-01 00:00:00
+456	0	Mr.	Michael		Galos		Riding Excursions	adventure-works\linda3	michael15@adventure-works.com	912-555-0149	Wwwn13Huxc1/wSvPmlYH5pXoqz1XUDSzAdavDQcyTKk=	x+UpoXE=	2006-01-01 00:00:00
+457	0	Mr.	Mark	B	Erickson		Retail Sporting Equipment	adventure-works\shu0	mark2@adventure-works.com	962-555-0112	pDvvWVr112kWGzoRmRsd4CgPPnyLtAEQGoYHe7Q65PM=	zYqZHNo=	2006-09-01 00:00:00
+460	0	Ms.	Martha	R.	Espinoza		Price-Cutter Discount Bikes	adventure-works\josé1	martha0@adventure-works.com	753-555-0179	pGBoWobCmo+yyzVgDnZL5z3fgTKLorCbJuofCkwniGs=	ZFXGiMU=	2005-09-01 00:00:00
+461	0	Mr.	Glenn	J.	Track	II	Active Life Toys	adventure-works\josé1	glenn0@adventure-works.com	907-555-0170	ZLp7yG5TYPKeQ7F+bE+OAdM4Z6HzU3EWjyk8211nuP8=	Vuzh1IE=	2006-09-01 00:00:00
+462	0	Mr.	Bob		Gage		General Riding Supplies	adventure-works\garrett1	bob1@adventure-works.com	962-555-0175	SeCchhGjoFaNiCwjURJ30XSE9lKCbSxUL9tDtRrg1FU=	hZbeVTs=	2007-02-01 00:00:00
+466	0	Sra.	Janeth		Esteves		Central Bicycle Specialists	adventure-works\jae0	janeth1@adventure-works.com	1 (11) 500 555-0136	X1Y5qQtF/cCa0JcWV87/0KfmpSje5R9/RdWM+fyB7Go=	+iF/Sqs=	2007-09-01 00:00:00
+468	0	Mr.	Paul	J.	Fulton		Blue Bicycle Company	adventure-works\michael9	paul3@adventure-works.com	492-555-0146	kdhlX1CwoRb+G+IbaNr94q5wH+aDau5he+dsV5sbuXw=	HfBhcWQ=	2006-08-01 00:00:00
+469	0	Ms.	Twanna	R.	Evans		Vast Bike Sales and Rental	adventure-works\pamela0	twanna0@adventure-works.com	554-555-0124	357SDpcamaYl8SbrrrNR4GmwYLlfdnZvJy645g6uNIw=	5hdHSeE=	2005-08-01 00:00:00
+470	0	Ms.	Delia	B.	Toone		Wingtip Toys	adventure-works\david8	delia0@adventure-works.com	328-555-0192	UnSgG1XBHKmwMxg5VTpybLrsNrIqNTu91vgwbUeI10o=	k8iQbOY=	2007-09-01 00:00:00
+471	0	Mr.	John		Ford		Social Activities Club	adventure-works\jillian0	john19@adventure-works.com	596-555-0153	Uu7MYSoXZONPT3nnOss6MamCI0JtQpdQ0lHxfbTXg2s=	MFN+Ar8=	2005-08-01 00:00:00
+472	0	Ms.	Ann	R.	Evans		Summer Sports Place	adventure-works\jillian0	ann1@adventure-works.com	252-555-0127	DLW2IAbnBTdpl45F2NtNmotuCcasAhlznF/e4eBbffs=	r8MY8Co=	2006-09-01 00:00:00
+473	0	Ms.	Kay	E.	Krane		Racing Toys	adventure-works\shu0	kay0@adventure-works.com	731-555-0187	GEdCYauvHekFxYpM0bYn4e0ipp8SY+vTyO9aqudo25Y=	hvfA+Y0=	2005-09-01 00:00:00
+474	0	Mr.	Mihail		Frintu		Retail Cycle Shop	adventure-works\linda3	mihail1@adventure-works.com	777-555-0163	0drckP/Xt0FMU29UWCYFp/wxtTBNd5PxmzaxMM5VKYc=	hxyAApA=	2006-09-01 00:00:00
+475	0	Mr.	John		Evans		Real Sporting Goods	adventure-works\shu0	john17@adventure-works.com	581-555-0172	zI7V47DGDDCr+5PUQzccWY8u8MazpHxzT0wB13+8m50=	Pz84Lbs=	2006-07-01 00:00:00
+478	0	Ms.	Ruby Sue	R.	Styles		Major Cycling	adventure-works\josé1	rubysue0@adventure-works.com	512-555-0122	y5SdWw1VGzybXaHVXTc7TQTKtr6N54cV+htK8Ehcr+E=	H8DZOb4=	2005-08-01 00:00:00
+479	0	Ms.	Lori		Kane		General Supplies	adventure-works\josé1	lori2@adventure-works.com	765-555-0141	AI+KoUdA4XQcOZdVLM5fW573x+opUHDHSXxhPuylCL4=	s0Fgpmc=	2006-08-01 00:00:00
+480	0	Ms.	Susan	E.	French		General Bike Corporation	adventure-works\garrett1	susan3@adventure-works.com	994-555-0194	bdpqUxwvIpfkW2ApgaplNkwQ17fOA3rjtmM6B9f2qYE=	MO+/tX0=	2005-07-01 00:00:00
+484	0	Mr.	Gary	J.	Suess		Downhill Bicycle Specialists	adventure-works\jae0	gary5@adventure-works.com	1 (11) 500 555-0199	vQKhd203Tno3eBvyJW+nSrZ8E387QlZFJA7DcRyrcoI=	n/cr6qs=	2006-08-01 00:00:00
+487	0	Ms.	Ruth	J.	Suffin		Bike Experts	adventure-works\pamela0	ruth2@adventure-works.com	924-555-0195	miUYjqbbeA6G0zx3zN+MFegYwr7MIqFBLBIHbcxnRhA=	H30Eu1I=	2006-08-01 00:00:00
+488	0	Ms.	Margaret	J.	Smith		Bicycle Accessories and Kits	adventure-works\david8	margaret0@adventure-works.com	959-555-0151	3cd7qJyW8ZTgRdwOO9nLYDZg2EM6lehJe/nqKlKKcPY=	i2U3DxA=	2009-05-16 16:33:33.107000000
+489	0	Ms.	Dorothy	J.	Fox		Cash & Carry Bikes	adventure-works\jillian0	dorothy1@adventure-works.com	191-555-0198	s7Q4rdzaHWhqJHdZ05GB5VHh1eeVXQopPtyTvqSdehM=	GQqIg64=	2006-09-01 00:00:00
+490	0	Ms.	Elizabeth	J.	Sullivan		Extraordinary Bike Works	adventure-works\jillian0	elizabeth4@adventure-works.com	306-555-0112	AURzT7TRCKKvm0AKkEPIhSIpt/3cDoZ1UtFixmM/7MU=	t31Ri34=	2006-09-01 00:00:00
+491	0	Ms.	Frances	B.	Adams		Area Bike Accessories	adventure-works\shu0	frances0@adventure-works.com	991-555-0183	bmEI+phqLCE2jKmotM8SBAICQD2IvZEmy8X0LmUpMaw=	jA7oD80=	2009-05-16 16:33:33.090000000
+492	0	Mr.	Garth		Fort		Basic Sports Equipment	adventure-works\linda3	garth0@adventure-works.com	768-555-0125	M2NMXJ5k9IJ7AKmryPzUhZqIMVsjJHs5P2voDCVEbsc=	sQuHPto=	2005-08-01 00:00:00
+493	0	Mr.	Michael		Sullivan		Valley Bicycle Distributors	adventure-works\shu0	michael24@adventure-works.com	323-555-0113	zeK7weuXbh2aNM2MR5WVlOvwCXgMuHuiecTgufohN+Y=	ic4F61g=	2006-11-01 00:00:00
+496	0	Ms.	Marcia	J.	Sultan		Top Sports Supply	adventure-works\josé1	marcia0@adventure-works.com	613-555-0116	1EcI7xrTOArxMpieU6+v/pzf9gN7zS00aKQWROpwyyA=	eFbn7kk=	2006-07-01 00:00:00
+497	0	Ms.	Amy	E.	Alberts		Valley Toy Store	adventure-works\josé1	amy1@adventure-works.com	727-555-0115	dNz/EQlgVlbj0uOpI0Y8Rh+/GFUH1HvBLJJ4pqdSDTE=	yvdbcxM=	2006-09-01 00:00:00
+498	0	Ms.	Kelly		Focht		Quick Delivery Service	adventure-works\garrett1	kelly0@adventure-works.com	272-555-0123	xU8UixWEoFZ9PDzLfFA3AiuIaKPV9Z2ALf/Kbpu51Zo=	E7joL4U=	2005-09-01 00:00:00
+502	0	Mr.	Krishna		Sunkammurali		Metropolitan Bicycle Supply	adventure-works\jae0	krishna1@adventure-works.com	1 (11) 500 555-0177	rKKXHEQ/Zb5Z596gCAMQepmJHLIzJy+BpJaz5GSv31c=	sEZH3m0=	2006-09-01 00:00:00
+504	0	Ms.	Mae	M.	Black		Historic Bicycle Sales	adventure-works\michael9	mae1@adventure-works.com	264-555-0143	qiRmTStKEBxzfmlGc6Ig0CWYVsQnN0PQGgmTEAyux7g=	Zg4TO0Q=	2005-07-01 00:00:00
+505	0	Mr.	Brad		Sutton		Honest Repair Service	adventure-works\pamela0	brad0@adventure-works.com	688-555-0115	5tnpQqGsl1FEtOjw1+pBDGRv4Cwho0BiuspfaZVuVOE=	BhyhRuI=	2007-07-01 00:00:00
+506	0	Mr.	François		Ferrier		Great Bikes 	adventure-works\david8	françois1@adventure-works.com	571-555-0128	Li26cq1s3a+0YJcgjemlepj98r5eUwJlyHGmDJnSCWI=	NVfuzjo=	2005-07-01 00:00:00
+507	0	Mr.	Mary		Bishop		Global Sporting Goods	adventure-works\jillian0	mary4@adventure-works.com	176-555-0136	uj7ugYIlt8/EjcQMI8uLQKlKQQ/rSZ167vO7ihbVYo8=	toJKEB0=	2005-07-01 00:00:00
+508	0	Mr.	Martin	J.	Svoboda	IV	Designer Department Stores	adventure-works\jillian0	martin1@adventure-works.com	132-555-0149	Gj5nPqWCRNrWH1xI56lwl7UvDAGPHZp3Z5QwCiKaDTc=	IrlfUfg=	2005-07-01 00:00:00
+509	0	Mr.	Robert	E.	Ahlering		Fun Toys and Bikes	adventure-works\shu0	robert1@adventure-works.com	678-555-0175	d35zXrfhsEHK6QrH/B7ipKUuuilEpY8u8rIunip5YWI=	r/UyVHY=	2007-09-01 00:00:00
+510	0	Mr.	Jimmy		Bischoff		World Bike Discount Store	adventure-works\linda3	jimmy1@adventure-works.com	992-555-0111	lbduPisVeIU+cP9cYQejSE4m0OPZJifKl9/E7GrrAyo=	BJUetfg=	2005-07-01 00:00:00
+511	0	Mr.	Abraham	L.	Swearengin		Wheel Gallery	adventure-works\shu0	abraham0@adventure-works.com	926-555-0136	CCZ7frrqKu31sPRuEGit5egtq9PHIW51qLxRTi/TAcY=	D5ohtJ8=	2005-07-01 00:00:00
+514	0	Mr.	Ryan		Calafato		Retail Mall	adventure-works\josé1	ryan1@adventure-works.com	726-555-0155	7zHYCWMhkitUJXggqG0dMfCqyK0FBDp/XwCeyPYWZ1A=	DBuWFZ4=	2005-07-01 00:00:00
+515	0	Mr.	Dragan		Tomic		Rural Bicycle Supply	adventure-works\josé1	dragan1@adventure-works.com	833-555-0167	/RLlmUbwfhuCElQyoZ6r3d8DDXVYF3kfkJma4R7pL8g=	3KzW2g8=	2005-07-01 00:00:00
+516	0	Mr.	Thomas	R.	Michaels		Seats and Saddles Company	adventure-works\garrett1	thomas2@adventure-works.com	162-555-0174	sGgVDtQybwwnAik3qbQBE+iRRjlk0ahJmqvKjTGFq5I=	aOFmjMY=	2006-11-01 00:00:00
+520	0	Ms.	Mari	B.	Caldwell		Metro Metals Co.	adventure-works\jae0	mari0@adventure-works.com	1 (11) 500 555-0118	1tbKzsdwFfEX1T/OP+I5Eu7EVKuWn2FviChJGtlaeQI=	x8xILbE=	2007-08-01 00:00:00
+523	0	Ms.	Mary	M.	Gimmi		Futuristic Sport Distributors	adventure-works\shu0	mary6@adventure-works.com	149-555-0196	mcO7vvh7FSdCS9FFgyEhwIHXKbrBkeYmcgksFie8Jzk=	S640434=	2006-07-01 00:00:00
+526	0	Mr.	David	L.	Givens		Finer Sales and Service	adventure-works\josé1	david15@adventure-works.com	605-555-0111	bNPaVIrQ0uCjPy8EyuamUJBSc3o5l+dvYZ4PSl1zJJ0=	gTOrXjM=	2005-12-01 00:00:00
+527	0	Ms.	Diane		Tibbott		Fun Times Club	adventure-works\shu0	diane5@adventure-works.com	847-555-0184	4G603WBKyHh8eHVBhhE9Fx0bYyHxSASUpUyJ5v5AG88=	br8PN50=	2005-08-01 00:00:00
+528	0	Ms.	Helen	M.	Meyer		Alpine Ski House	adventure-works\linda3	helen2@adventure-works.com	519-555-0112	xYJSzxUQxGXkjj+EUMGu3jCaA5aPco7WAdw+VZtUbUM=	v1Ew2R4=	2005-11-01 00:00:00
+529	0	Ms.	Jeanie	R.	Glenn	PhD	Big-Time Bike Store	adventure-works\shu0	jeanie0@adventure-works.com	669-555-0149	JFHzZpLu5HeGe//DMA9vbqFc0yeYRjrW7ItGAnDHMhk=	dUASILc=	2006-08-01 00:00:00
+532	0	Ms.	Diane	R.	Glimp		The Showroom	adventure-works\josé1	diane3@adventure-works.com	898-555-0137	kz7kmFKpPYor30M8eaO3PAziuYa/bYqwcKomnP2NlxU=	s9kzXNA=	2005-11-01 00:00:00
+533	0	Ms.	Yuping		Tian		Tenth Bike Store	adventure-works\josé1	yuping0@adventure-works.com	744-555-0123	dOvfJZgKHSk3OY2F/ZDzG76q7Vqtd3ogvi6tEW81U9E=	30pSFOQ=	2005-08-01 00:00:00
+534	0	Mr.	Stephen	A.	Mew		Recommended Bicycles	adventure-works\garrett1	stephen4@adventure-works.com	399-555-0114	pBvyGgTluk2JUwL/bK3NlXBRBgSUVk5HgHHhc2gU89k=	xdzdXEw=	2005-11-01 00:00:00
+538	0	Mr.	John	R.	Brooks		Prosperous Tours	adventure-works\jae0	john12@adventure-works.com	1 (11) 500 555-0179	7cimopKXrRxK/+QAEW4WJ+XGTEEJvTsX0l1QxCAWQI0=	C4OiUF4=	2006-07-01 00:00:00
+541	0	Mr.	Willie	P.	Brooks	Jr.	Nonskid Tire Company	adventure-works\pamela0	willie0@adventure-works.com	525-555-0174	HKBXG8BXKW53RK2DsPsqNDV7PdDSavcncjD1t/rdW18=	dS1y3X0=	2005-11-01 00:00:00
+542	0	Mr.	Andrew	P.	Kobylinski		Finer Parts Shop	adventure-works\david8	andrew5@adventure-works.com	129-555-0185	kV0cL2OLqsK4OFtnZiL106gAKEZOBwGuAVYOYakH0kM=	GAfxRv4=	2005-12-01 00:00:00
+543	0	Mr.	R. Morgan	L.	Mendoza		Friendly Neighborhood Bikes	adventure-works\jillian0	rmorgan0@adventure-works.com	963-555-0146	SDOw6y7IRVh0ifbtO1Ue2Fb8cig2n0DkW+K3kmjQ/Xc=	K0sYx+Y=	2007-06-01 00:00:00
+544	0	Mr.	Jay		Adams		Valley Bicycle Specialists	adventure-works\jillian0	jay1@adventure-works.com	158-555-0142	jCFDuqUMHmknfadTRSkMvN0IDObtE/GslvN9q2Wa5xU=	117fxZM=	2009-05-16 16:33:33.123000000
+545	0	Mr.	Christian		Kleinerman		Finish and Sealant Products	adventure-works\shu0	christian1@adventure-works.com	362-555-0177	v9tjo4izinAmIevwhur1w9F/Wj0yCIj1eXG0q2dFc1s=	7uZHIds=	2005-09-01 00:00:00
+546	0	Mr.	Anton		Kirilov		Field Trip Store	adventure-works\linda3	anton0@adventure-works.com	608-555-0162	MA3e45BYPTDfQV7Kwg+fh94UR4S5kCbr0wdRqncaG0o=	0sZGs8c=	2006-08-01 00:00:00
+547	0	Ms.	Gladys	F.	Mendiola		Curbside Sporting Goods	adventure-works\shu0	gladys0@adventure-works.com	535-555-0189	BLtI4kYqIf4QqFUkSc0vKV4J1A400sEqhAfWhRMVFTQ=	ISstDas=	2006-08-01 00:00:00
+550	0	Ms.	Raquel		Mello		Remote Bicycle Specialists	adventure-works\josé1	raquel0@adventure-works.com	723-555-0124	GMyxAFJL1Mwg+3iSBTMKDohFkSy5NKqGrVo0rL23S4I=	Ap+5ADc=	2006-09-01 00:00:00
+551	0	Mr.	Samuel	N.	Agcaoili		Vinyl and Plastic Goods Corporation	adventure-works\josé1	samuel0@adventure-works.com	554-555-0110	jt9vdIyi0zI03wECUFk1hdZLTVOqN09/Fdogi+cTeQU=	uFYBREA=	2005-09-01 00:00:00
+552	0	Mr.	Tim		Kim		Consolidated Messenger	adventure-works\garrett1	tim0@adventure-works.com	244-555-0115	tgMDK3qjc6HiiWHXztTrPQw/eEJWy2T9OWRLlcrhhbM=	W9zzlRs=	2007-08-01 00:00:00
+556	0	Ms.	Nancy	A.	McPhearson		Variety Cycling	adventure-works\jae0	nancy3@adventure-works.com	1 (11) 500 555-0195	jI4Q0GjuXuPicv1G1Kd3ZluvRH4IsSCG13q/+rCAqW8=	qcerumU=	2007-08-01 00:00:00
+559	0	Ms.	Nkenge		McLin		Some Discount Store	adventure-works\pamela0	nkenge0@adventure-works.com	158-555-0123	mGggzeGp9z6TPCUrzGWt1N9gNU1CoQ+Cuu8cxh8uig4=	NNRxDmg=	2005-08-01 00:00:00
+560	0	Mr.	Paul	L.	Alcorn		Major Sport Suppliers	adventure-works\david8	paul2@adventure-works.com	331-555-0162	UxlXfO/0JyTpelLFzbqFj9Ie1Rv1OJKPd6Cnm1itSsU=	IZ5yIjI=	2007-07-01 00:00:00
+561	0	Mr.	Marvin	N.	Allen		Mountain Toy Store	adventure-works\jillian0	marvin0@adventure-works.com	447-555-0110	fJ1UEyRel4bt2DuzHtDUPBU44ZALMsfyxQQviNGARf8=	7wNTdi8=	2005-12-01 00:00:00
+562	0	Ms.	Yvonne		McKay		Practical Bike Supply Company	adventure-works\jillian0	yvonne1@adventure-works.com	623-555-0144	CzoEFQ0OfYtg1bNPN/BfavRr5F/ulWLF9VIraghdmZo=	pXNy1Eg=	2005-09-01 00:00:00
+563	0	Mr.	Sean	P.	Jacobson		Systematic Sales	adventure-works\shu0	sean2@adventure-works.com	555-555-0162	T/ASZdvX90M9kM1P5+sGBNxwkhLxF94/vJejQ6pjLiY=	jKAQI7c=	2007-08-01 00:00:00
+564	0	Ms.	Michelle		Alexander		Imported and Domestic Cycles	adventure-works\linda3	michelle0@adventure-works.com	115-555-0175	bA9fPVXpV/0NMRuGiY+zju3+/lcB2r9uBk68dG22Ddk=	M5BkDDQ=	2007-05-01 00:00:00
+565	0	Mr.	Richard	M.	Bentley	Jr.	Metallic Paint and Overcoat Co	adventure-works\shu0	richard0@adventure-works.com	911-555-0153	IKeN04oVNJhVCRPh+H8BodLp24YZoRNRfJ0/S8zK+ls=	s71j+uU=	2007-05-01 00:00:00
+568	0	Mr.	Curtis	P.	Howard		Economy Center	adventure-works\josé1	curtis0@adventure-works.com	555-555-0162	mRsptWTaXRgSBaILQ+BYKXl50LdVbLPrHgVQDImm2mc=	e139ONA=	2005-08-01 00:00:00
+569	0	Mr.	Cecil	J.	Allison		Designated Distributors	adventure-works\josé1	cecil0@adventure-works.com	699-555-0155	steY9ge/f3jz0DNlVhxkdUx1NrciPQzyUpvtGCcoYBo=	KUNCNjU=	2005-08-01 00:00:00
+570	0	Mr.	Gregory	F.	Alderson		Family's Favorite Bike Shop	adventure-works\garrett1	gregory0@adventure-works.com	968-555-0153	tEgc21LcZ3r2OP2nJIkrbmo2fXvbIC9npM6uzG1osbY=	IlDduMc=	2006-08-01 00:00:00
+574	0	Ms.	Janice	K.	Hows		Area Sheet Metal Supply	adventure-works\jae0	janice1@adventure-works.com	1 (11) 500 555-0119	vMyt8M0mW0ueXgZQ1RobrccRTzB3IVXOkX5Zy5h5a/A=	Qtn1h+4=	2006-08-01 00:00:00
+577	0	Mr.	George	M.	Huckaby		Synthetic Materials Manufacturing	adventure-works\pamela0	george1@adventure-works.com	851-555-0127	BEq/PlDx4jHq8M8eOxUHo3LyOu4Aetq3bsbr8QlvMuI=	GVMmXow=	2006-01-01 00:00:00
+578	0	Ms.	Carolyn		Farino		The Bike Shop	adventure-works\david8	carolyn0@adventure-works.com	957-555-0125	jnz8GF/glxwiqqdUVHkoV+53Mp1HOnFR/azWzJ80Ktc=	qwoGYjU=	2005-07-01 00:00:00
+579	0	Ms.	Kim		Abercrombie		Riders Company	adventure-works\jillian0	kim2@adventure-works.com	334-555-0137	4I8349R6c33cK+j1ef3dZt0JHOQ9MV7OvEXpCbwhQrQ=	rrgbG/U=	2009-05-16 16:33:33.077000000
+580	0	Mr.	Joshua	J.	Huff		Rural Sales and Service	adventure-works\jillian0	joshua0@adventure-works.com	190-555-0186	zOvX8kRn4fdhAQJxa8bWrWKsuorYlcuOn6PsgZy7o0c=	HQlRLlk=	2006-03-01 00:00:00
+581	0	Ms.	Geri	P.	Farrell		Safe Toys	adventure-works\shu0	geri0@adventure-works.com	329-555-0183	Wc/TlRg7q92tTI8Njp2Ivs8eKIRej8TfabwOQYYybe8=	anxKyOc=	2005-09-01 00:00:00
+582	0	Ms.	Catherine	R.	Abel		Professional Sales and Service	adventure-works\linda3	catherine0@adventure-works.com	747-555-0171	zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=	rpyd5Tw=	2009-05-16 16:33:33.077000000
+583	0	Ms.	Laura	C.	Steele		Professional Containers and Packaging Co.	adventure-works\shu0	laura3@adventure-works.com	741-555-0173	Ve/S2F7op7awJVe7aBPDkDTtsOiyLvShdymITr5ilEI=	ckT+1XU=	2006-08-01 00:00:00
+586	0	Ms.	Shanay	B.	Steelman		One Bike Company	adventure-works\josé1	shanay0@adventure-works.com	797-555-0118	No6/IlWBeOp1TBZ1wAMOUa5VwYHrf3NyowdeNz4yGNs=	VQqvrDo=	2006-09-01 00:00:00
+587	0	Ms.	Rhoda	J.	Finley		Our Sporting Goods Store	adventure-works\josé1	rhoda0@adventure-works.com	920-555-0191	q1tCJRWRCSt1/VrADrMeQkLwbHjw1LlGOdVX8DLaYoM=	83MFiok=	2006-09-01 00:00:00
+588	0	Mr.	Pat	A.	Chambers		General Cycle Storehouse	adventure-works\garrett1	pat1@adventure-works.com	127-555-0124	cTcQEsZdQPvGLuu5iDRwrqp4fM6oBxNFi+X7anqqPzA=	bvb6hus=	2005-09-01 00:00:00
+592	0	Mr.	Stefano		Stefani		Cycling Goods	adventure-works\jae0	stefano0@adventure-works.com	1 (11) 500 555-0115	eVnhcpqYU3NKN52mFwcXw11n5pF8qfCFpZBVTo45zsY=	XSHxez4=	2006-08-01 00:00:00
+595	0	Mr.	Alan		Steiner		Cycle Clearance	adventure-works\pamela0	alan4@adventure-works.com	792-555-0194	0ZfPkEBplSrQkVpmgzrlfblSeTpJ4CJwJu7aVWOuOSM=	FDIch68=	2007-09-01 00:00:00
+596	0	Ms.	Kathie		Flood		Coho Sports	adventure-works\david8	kathie1@adventure-works.com	627-555-0192	UA0N5pHkC4DZZ4xHgqJohcC+5L3JnoaegTulnb1lrhA=	WGizZm8=	2006-08-01 00:00:00
+597	0	Mr.	Bob		Hodges		All Seasons Sports Supply	adventure-works\jillian0	bob2@adventure-works.com	129-555-0120	7n1V5i5pzSERgIgX+CGs3KdSRIWCKMMppAbccjLLWQQ=	FebyYno=	2007-07-01 00:00:00
+598	0	Mr.	Derik		Stenerson		Black Bicycle Company	adventure-works\jillian0	derik0@adventure-works.com	441-555-0144	eiskTIJrt6kqa7sel16D8OBUVoPmh3ud4vMChJvsZCc=	0rK3P2k=	2007-02-01 00:00:00
+599	0	Mr.	Raul	E.	Casts		Westside Plaza	adventure-works\shu0	raul0@adventure-works.com	362-555-0162	NghLMnHjoD3F7B0y8sTtYlpCq5imhhvrn56YUAUNEm4=	68RH5og=	2007-07-01 00:00:00
+600	0	Ms.	Holly	J.	Holt		Strenuous Exercise Shop	adventure-works\linda3	holly1@adventure-works.com	654-555-0150	n17D3Bxk24bdzD3bEx0DUQ3Nmts/O7lqoGn57J5z1Og=	wmfLAOE=	2007-07-01 00:00:00
+601	0	Mr.	Vassar	J.	Stern		Transport Bikes	adventure-works\shu0	vassar0@adventure-works.com	328-555-0123	nPkLkDdemKmfK3VexvRWH5zYyNzwcfvny8DxWGnicSw=	hLswDiQ=	2007-09-01 00:00:00
+604	0	Ms.	Wathalee	R.	Steuber		Sellers of Cycles	adventure-works\pamela0	wathalee0@adventure-works.com	517-555-0120	Sr0056wJj+khaWXi1cRpgU62bgcN9VaN6VJADuKWey4=	7uwL9LU=	2007-09-01 00:00:00
+605	0	Mr.	Matthew	J.	Cavallari		Outstanding Cycles	adventure-works\david8	matthew1@adventure-works.com	695-555-0161	I5oNRDKehZnUlVTunv+30kLR3rM7VyVA2vJyu6CNveI=	beKST+I=	2007-08-01 00:00:00
+606	0	Ms.	Helge		Hoeing		Little Bicycle Supply Shop	adventure-works\jillian0	helge0@adventure-works.com	850-555-0198	hbXMO61Cy3vQxyCiHA7HyFryiQNgK7GAqMxsht+DVBI=	yvAO+sY=	2007-08-01 00:00:00
+607	0	Ms.	Alice	M.	Steiner		Maintenance and Repair for Bicycles	adventure-works\jillian0	alice4@adventure-works.com	355-555-0180	6WWUM3/rogiNsZhr2QrAacB6N22U0ZWIgDs1/K05cpI=	4QdzKJI=	2007-08-01 00:00:00
+608	0	Mr.	Steven	B.	Brown	IV	Golf and Cycle Store	adventure-works\shu0	steven1@adventure-works.com	280-555-0124	S9Kf7AXqY19C/4rLMHjUwO+5Yh7mMhaPsuouZxizDpg=	Hp2yS7E=	2005-09-01 00:00:00
+609	0	Mr.	David		Hodgson		Good Toys	adventure-works\linda3	david16@adventure-works.com	969-555-0117	+gtwbVycsIIj2loVtrHNRN6IBLl20lQpRK8+JhzxyEo=	AwqZdYk=	2006-09-01 00:00:00
+610	0	Ms.	Liza Marie	N.	Stevens		Fitness Department Stores	adventure-works\shu0	lizamarie0@adventure-works.com	366-555-0110	Sapr4JrpchrNOsaFQvNr+C8KtCL9DgKHOdvYws7WrOM=	QvunVRs=	2007-08-01 00:00:00
+613	0	Mr.	Jim		Stewart		Famous Bike Shop	adventure-works\garrett1	jim5@adventure-works.com	226-555-0110	UhGiWqQH+ZqO4P2SIEQ4J9goCINUOyHBAttZ/+kJooA=	awRBGoA=	2006-09-01 00:00:00
+617	0	Ms.	Arlene		Huff		Tubeless Tire Company	adventure-works\jae0	arlene0@adventure-works.com	1 (11) 500 555-0146	V+NOGsSc50L8026bnGkDjKzDoI/ND88zeG1cDP5uO7Q=	SC/mXZQ=	2007-08-01 00:00:00
+620	0	Mr.	Matthew	M.	Hunter		Tires and Tubes	adventure-works\pamela0	matthew4@adventure-works.com	482-555-0188	K9PXehZSeHlIA1Tb5gEOxe7YmFCX8u6Qlju4nRie0Cg=	fJ1qzBg=	2005-07-01 00:00:00
+621	0	Mr.	Matthew		Hink		Running and Cycling Gear	adventure-works\david8	matthew3@adventure-works.com	146-555-0176	q9I0z+PgMdt+yPOfNb1pj69QvJ3r8WuMzirXw4mW4BM=	hDyaJt4=	2007-09-01 00:00:00
+622	0	Mr.	Robert	B.	Stotka		Gift and Toy Store	adventure-works\jillian0	robert12@adventure-works.com	493-555-0185	FT/8LOHiql36eAZLyTYZ2uqevgzDFxh6W9nVGmMmrhw=	M0RBO9w=	2006-07-01 00:00:00
+623	0	Ms.	Phyllis	R.	Huntsman		Hardware Components	adventure-works\jillian0	phyllis1@adventure-works.com	153-555-0195	p/kLCLWcvgvL26dkJoqHo4GqZmYGVWCYCrBwbhTLKtY=	gJeczkk=	2005-08-01 00:00:00
+624	0	Mr.	Mike		Hines		First Cycle Store	adventure-works\shu0	mike3@adventure-works.com	454-555-0160	gna2fhtLmKi5ZKr50RuPJEI5Vh/osfQgFxhjmQs0XpI=	wt1HllQ=	2005-09-01 00:00:00
+625	0	Ms.	Kayla	M.	Stotler		Major Sporting Goods	adventure-works\linda3	kayla0@adventure-works.com	315-555-0131	iqikbQl8bEZb+ulQMP5FNBSjXL1grUcz4NTUP9GBmAQ=	ZqTw9GM=	2007-02-01 00:00:00
+626	0	Mr.	Lawrence	E.	Hurkett		Retail Sporting Goods	adventure-works\shu0	lawrence0@adventure-works.com	129-555-0185	2d7alYFBKkadQ4uQc1u70/bdOXfmqCXEr5kCDqYMEc4=	hGtKm+M=	2006-10-01 00:00:00
+629	0	Mr.	Ryan		Ihrig		Efficient Cycling	adventure-works\josé1	ryan4@adventure-works.com	809-555-0152	6UfB6OlcKQXLjWHj+yl3Ck3STFhp4YRHN/aojcUvsb0=	HGudpUM=	2007-08-01 00:00:00
+630	0	Mr.	Andrew	R.	Hill		Eastside Parts Shop	adventure-works\josé1	andrew4@adventure-works.com	194-555-0149	6kDCzX44wtxfxZaC28Ek1kf7IczJ9hxLvDx9DfU8B60=	m9GHYGc=	2007-09-01 00:00:00
+631	0	Mr.	Robert	P.	Lyeba		Tandem Sales and Service	adventure-works\garrett1	robert8@adventure-works.com	631-555-0155	5obs6LI7GwHZ55lps26uIsPyz7E4xBxF6pdB5KYAnn0=	/Q1sZG0=	2005-09-01 00:00:00
+635	0	Mr.	Roger		Van Houten		Sports Store	adventure-works\jae0	roger2@adventure-works.com	1 (11) 500 555-0110	C0yLsx6zITh7lXoIPgG1bl1t5II3nx4GYi/RaS1yB84=	WnTAc/0=	2006-12-01 00:00:00
+637	0	Mr.	Robert		Lyon		Reliable Retail Center	adventure-works\garrett1	robert9@adventure-works.com	666-555-0143	4wMARaGSdJ36NMWSghaEHOvqGA6TSKb3JZJ8QlNfnok=	0JS3VLg=	2006-09-01 00:00:00
+641	0	Ms.	Rose	M.	Vandenouer		Extended Tours	adventure-works\jae0	rose1@adventure-works.com	1 (11) 500 555-0140	X6Rw044/W0OFsOl+AJSD6WZFTsjbaCa3sn719STdi0Y=	tRFzZLs=	2006-07-01 00:00:00
+643	0	Ms.	Denise	R.	Maccietto		Friendly Bike Shop	adventure-works\michael9	denise1@adventure-works.com	537-555-0190	qE35+Yj4hYU97ToV8hswsOzcxEz23lHAGGrIx9xL2YY=	DfqJQ4g=	2005-10-01 00:00:00
+644	0	Mr.	Gregory	T.	Vanderbout	Jr.	Convenient Sales and Service	adventure-works\pamela0	gregory1@adventure-works.com	684-555-0134	syI1UO2qeBH9g2tg2nu3DTejZc7OEShGw8jxOqXfATY=	FAw6ojc=	2006-09-01 00:00:00
+645	0	Mr.	Ronald	K.	Heymsfield		Superior Hardware Distributors	adventure-works\david8	ronald1@adventure-works.com	784-555-0120	BveRxEdkJ/QVGtSMNGrJu9cLHlihVb+wlFzxrHOsSkA=	DmNlCmQ=	2006-08-01 00:00:00
+646	0	Mr.	Scott		MacDonald		Yellow Bicycle Company	adventure-works\jillian0	scott7@adventure-works.com	470-555-0171	E1wwrSH3sVJUF8UlhuAF+A5UTcdr1LObJBI67CvopDA=	LqtoWXs=	2005-07-01 00:00:00
+647	0	Mr.	Michael		Vanderhyde		Solid Bike Parts	adventure-works\jillian0	michael25@adventure-works.com	918-555-0141	/upSM1yXqGCA1vtYL9IB/NcKFrE3cg7HvqSYGTsQprM=	uXetzTc=	2005-09-01 00:00:00
+648	0	Ms.	Cheryl	M.	Herring		Small Bike Shop	adventure-works\shu0	cheryl0@adventure-works.com	158-555-0154	RGd9trE6ku80EeSumu50h1MGol+lmzdeCrME1UBOKCA=	256h+G0=	2005-09-01 00:00:00
+649	0	Mr.	Walter	J.	Mays	Sr.	Sports Products Store	adventure-works\linda3	walter1@adventure-works.com	245-555-0191	PubfC/rRrBqx4Duzd5die33tt0m74frlazigsOv3D7s=	IZ6tF0Y=	2006-09-01 00:00:00
+650	0	Ms.	Margaret	J.	Vanderkamp		Permanent Finish Products	adventure-works\shu0	margaret2@adventure-works.com	265-555-0143	TUk6pzHyHoA6CadqZKdfwfCKtp3f4RhQ07VWCDZDKIM=	osDZuYo=	2005-08-01 00:00:00
+653	0	Ms.	Kara	N.	Vanderlinden		Mercantile Outlet	adventure-works\josé1	kara0@adventure-works.com	680-555-0160	grGra0LtVSrZMZySvhV+ggFwVRSDpwDd39a18q68CD0=	kc4E3DA=	2006-08-01 00:00:00
+654	0	Mr.	Jésus		Hernandez		Online Bike Warehouse	adventure-works\josé1	jésus0@adventure-works.com	214-555-0145	oQESLWRzzA7xFmx/oeIwJrVckc/0dzUxgBru6ptUjqA=	Y/Ty5LA=	2006-09-01 00:00:00
+655	0	Ms.	Irene	J.	Hernandez		Operational Manufacturing	adventure-works\garrett1	irene0@adventure-works.com	790-555-0197	3A2aNKKLe47G95cy27tMj6HW1ov3nLIR530SWR/vrZ4=	uJ5Exxo=	2008-06-01 00:00:00
+659	0	Mr.	Ajay		Manchepalli		Shipping Specialists	adventure-works\jae0	ajay0@adventure-works.com	1 (11) 500 555-0174	eVyn3oU+PF4k5dUPOBDIl+7JqQhO17DiG/iJE8dPkgc=	MYqiM6w=	2008-02-01 00:00:00
+660	0	Mr.	Nieves	J.	Vargas	II	Exhilarating Cycles	adventure-works\michael9	nieves0@adventure-works.com	371-555-0184	dG3/Y2fWXOAgE37z4Vj0K7ejAxDbv9M902ByQTjdng4=	/PSiwRg=	2006-07-01 00:00:00
+661	0	Mr.	Kari		Hensien		General Department Stores	adventure-works\garrett1	kari0@adventure-works.com	143-555-0129	9q51LeEZWFDB+L+DtlRs239EjYmK9mN+eUjUvqLToLw=	niDlQYk=	2005-08-01 00:00:00
+665	0	Mr.	Tomas	M.	Manzanares	II	Authentic Sales and Service	adventure-works\jae0	tomas0@adventure-works.com	1 (11) 500 555-0178	jlXuo2MxBdUaBFU1a7LQeFlHkJUTu5koo+dBRsKSbrw=	blIz9rk=	2006-09-01 00:00:00
+668	0	Ms.	Kathy	R.	Marcovecchio		Official Parts Shop	adventure-works\pamela0	kathy0@adventure-works.com	942-555-0141	EQfen7Xb4ZYQG6fC/yOA9SRKRw4HtLTBSHq1n1yOiAs=	LH8E+mM=	2006-07-01 00:00:00
+669	0	Ms.	Patricia		Doyle		Racing Bike Outlet	adventure-works\david8	patricia0@adventure-works.com	899-555-0134	oNLvRmGCzEz1jsW8aIhOPt/9GVbikzcIYiqMuMKtrYw=	ZeNva8s=	2006-11-01 00:00:00
+670	0	Ms.	Valerie	M.	Hendricks		First Bike Store	adventure-works\jillian0	valerie0@adventure-works.com	859-555-0140	M5s53K3R8LqDXmLZX8/YZWvhkKuUo3dkpcmAFuw6d8U=	1lkXMps=	2005-07-01 00:00:00
+671	0	Ms.	Jill	K.	Markwood		Contoso, Ltd.	adventure-works\jillian0	jill2@adventure-works.com	747-555-0113	Ajd6a502mnEIwl6n2we4J6ee42p14MOpKGWrKSHsxxo=	YuvPgz4=	2005-07-01 00:00:00
+672	0	Mr.	Gerald	M.	Drury		Utilitarian Sporting Goods	adventure-works\shu0	gerald0@adventure-works.com	169-555-0178	Jlxkjapdo78bvTdzddS8yoUxcj6pyFuXwdsCGn6KHvI=	ClRPyyM=	2007-09-01 00:00:00
+673	0	Mr.	John		Hanson		Countryside Company	adventure-works\linda3	john20@adventure-works.com	107-555-0117	2stwPzsfBnHlWJSw7+jrEjtXjaoxVkBMOVsluOUNpog=	zNDLlSI=	2006-10-01 00:00:00
+674	0	Ms.	Melissa	R.	Marple		Discount Tours	adventure-works\shu0	melissa0@adventure-works.com	685-555-0117	UbL/DUTnTSqLeeA4RQCXS5ofw+ATOi1iWyGfuy/PO6g=	CAB+B+I=	2005-12-01 00:00:00
+677	0	Ms.	Cecelia	L.	Marshall		Tire Exchange	adventure-works\josé1	cecelia0@adventure-works.com	394-555-0168	Io27wVPQenseFjuryNClpoCLiH0HtpKdgQrqYO9W/OQ=	1sXsDEE=	2006-08-01 00:00:00
+678	0	Mr.	Reuben		D'sa		Vigorous Exercise Company	adventure-works\josé1	reuben1@adventure-works.com	916-555-0137	EVeayvYSlWRfySd2RBGRSr93ST2Me+VDyAoD44WBrrg=	jj5f+ZA=	2005-09-01 00:00:00
+679	0	Ms.	Brenda	F.	Heaney		Superb Sales and Repair	adventure-works\garrett1	brenda3@adventure-works.com	393-555-0167	RxykMRRwPRGYqzudPUFD1TKUT1bvgYanY1nsGIvL0Jo=	KnmJUbs=	2005-07-01 00:00:00
+683	0	Ms.	Linda		Martin		Oils and Fluids Warehouse	adventure-works\jae0	linda8@adventure-works.com	1 (11) 500 555-0137	lePksYQQH7iiujo49o5l9u2k6fs+JCFtUHkyVL8P7WM=	JYjWVqI=	2006-08-01 00:00:00
+685	0	Mr.	James	B.	Haugh	Jr.	Family Cycle Store	adventure-works\garrett1	james8@adventure-works.com	763-555-0120	qqWGyjPy74GLpFoYkhe3eQutrmixkWZkZHsl5d0mZpI=	TfeFfy4=	2006-09-01 00:00:00
+689	0	Ms.	Sandra	I.	Martinez		Consumer Equipment	adventure-works\jae0	sandra3@adventure-works.com	1 (11) 500 555-0113	zTIlJwPJ9VjXFq2kSSD/H313VF0ZlgeS3a6z5UDvo9k=	Em3q8s4=	2007-09-01 00:00:00
+692	0	Ms.	Bev	L.	Desalvo		Successful Sales Company	adventure-works\pamela0	bev0@adventure-works.com	143-555-0113	j42zXyaSRc55aauqsJrhWZdZBGkW64qaL1hO1tdgdQk=	5dgYmOY=	2006-09-01 00:00:00
+693	0	Mr.	Bart		Duncan		Stock Parts and Supplies	adventure-works\david8	bart0@adventure-works.com	539-555-0121	NJJTfbDws96bPa7Giz9Mmq+M0NSYcjlcfwpjsUnYWdE=	MPxWTOU=	2007-08-01 00:00:00
+694	0	Ms.	Ann	T.	Hass		The Accessories Store	adventure-works\jillian0	ann2@adventure-works.com	713-555-0168	lykTZ3vUjtqvW669XVLX3Gk9RrV2EBdorSOkebEHyvk=	M7xYGr4=	2006-08-01 00:00:00
+695	0	Mr.	Rob		Caron		Responsible Bike Dealers	adventure-works\jillian0	rob2@adventure-works.com	620-555-0117	yaVIQNTOMlDFxsn08drJdHoPTkydd5XKkeBgAPyVGbk=	v43cndI=	2006-09-01 00:00:00
+696	0	Mr.	Maciej		Dusza		Roadway Supplies	adventure-works\shu0	maciej1@adventure-works.com	962-555-0144	v404bp5zCcIyJO+s50eW4MbBxBjjkDQJe5ee5fvwBKI=	pDYvCjw=	2005-11-01 00:00:00
+697	0	Mr.	Roger		Harui		Brakes and Gears	adventure-works\linda3	roger0@adventure-works.com	774-555-0133	tkI9EcizphWPzkz7kDwsd2AnKnZJi3/6+V5/fIuXPpo=	sQMfTfM=	2005-08-01 00:00:00
+698	0	Mr.	Andy		Carothers		Western Bike Supplies	adventure-works\shu0	andy1@adventure-works.com	944-555-0148	Q0MU0NsjDAbnQSqMBkP9Sm4G43DKXcirOnAKlzYSYnI=	DZ8e0Xk=	2006-07-01 00:00:00
+701	0	Ms.	Linda	R.	Ecoffey		Future Bikes	adventure-works\josé1	linda5@adventure-works.com	674-555-0188	zM1odbx2eTJoH556dXSIqTCDa5EBj8DWUSHVo67GEGc=	Q5U1IZU=	2006-12-01 00:00:00
+29485	0	Ms.	Catherine	R.	Abel		Professional Sales and Service	adventure-works\linda3	catherine0@adventure-works.com	747-555-0171	zh3goJUbYsPv92k4bVZuJtlLHwuvpQtu6uNcjkKSdF8=	rpyd5Tw=	2009-05-16 16:33:33.077000000
+29486	0	Ms.	Kim		Abercrombie		Riders Company	adventure-works\jillian0	kim2@adventure-works.com	334-555-0137	4I8349R6c33cK+j1ef3dZt0JHOQ9MV7OvEXpCbwhQrQ=	rrgbG/U=	2009-05-16 16:33:33.077000000
+29489	0	Ms.	Frances	B.	Adams		Area Bike Accessories	adventure-works\shu0	frances0@adventure-works.com	991-555-0183	bmEI+phqLCE2jKmotM8SBAICQD2IvZEmy8X0LmUpMaw=	jA7oD80=	2009-05-16 16:33:33.090000000
+29490	0	Ms.	Margaret	J.	Smith		Bicycle Accessories and Kits	adventure-works\david8	margaret0@adventure-works.com	959-555-0151	3cd7qJyW8ZTgRdwOO9nLYDZg2EM6lehJe/nqKlKKcPY=	i2U3DxA=	2009-05-16 16:33:33.107000000
+29492	0	Mr.	Jay		Adams		Valley Bicycle Specialists	adventure-works\jillian0	jay1@adventure-works.com	158-555-0142	jCFDuqUMHmknfadTRSkMvN0IDObtE/GslvN9q2Wa5xU=	117fxZM=	2009-05-16 16:33:33.123000000
+29494	0	Mr.	Samuel	N.	Agcaoili		Vinyl and Plastic Goods Corporation	adventure-works\josé1	samuel0@adventure-works.com	554-555-0110	jt9vdIyi0zI03wECUFk1hdZLTVOqN09/Fdogi+cTeQU=	uFYBREA=	2005-09-01 00:00:00
+29496	0	Mr.	Robert	E.	Ahlering		Fun Toys and Bikes	adventure-works\shu0	robert1@adventure-works.com	678-555-0175	d35zXrfhsEHK6QrH/B7ipKUuuilEpY8u8rIunip5YWI=	r/UyVHY=	2007-09-01 00:00:00
+29497	0	Mr.	François		Ferrier		Great Bikes 	adventure-works\david8	françois1@adventure-works.com	571-555-0128	Li26cq1s3a+0YJcgjemlepj98r5eUwJlyHGmDJnSCWI=	NVfuzjo=	2005-07-01 00:00:00
+29499	0	Ms.	Amy	E.	Alberts		Valley Toy Store	adventure-works\josé1	amy1@adventure-works.com	727-555-0115	dNz/EQlgVlbj0uOpI0Y8Rh+/GFUH1HvBLJJ4pqdSDTE=	yvdbcxM=	2006-09-01 00:00:00
+29502	0	Mr.	Paul	L.	Alcorn		Major Sport Suppliers	adventure-works\david8	paul2@adventure-works.com	331-555-0162	UxlXfO/0JyTpelLFzbqFj9Ie1Rv1OJKPd6Cnm1itSsU=	IZ5yIjI=	2007-07-01 00:00:00
+29503	0	Mr.	Gregory	F.	Alderson		Family's Favorite Bike Shop	adventure-works\garrett1	gregory0@adventure-works.com	968-555-0153	tEgc21LcZ3r2OP2nJIkrbmo2fXvbIC9npM6uzG1osbY=	IlDduMc=	2006-08-01 00:00:00
+29505	0	Ms.	Michelle		Alexander		Imported and Domestic Cycles	adventure-works\linda3	michelle0@adventure-works.com	115-555-0175	bA9fPVXpV/0NMRuGiY+zju3+/lcB2r9uBk68dG22Ddk=	M5BkDDQ=	2007-05-01 00:00:00
+29506	0	Mr.	Sean	P.	Jacobson		Systematic Sales	adventure-works\shu0	sean2@adventure-works.com	555-555-0162	T/ASZdvX90M9kM1P5+sGBNxwkhLxF94/vJejQ6pjLiY=	jKAQI7c=	2007-08-01 00:00:00
+29508	0	Mr.	Marvin	N.	Allen		Mountain Toy Store	adventure-works\jillian0	marvin0@adventure-works.com	447-555-0110	fJ1UEyRel4bt2DuzHtDUPBU44ZALMsfyxQQviNGARf8=	7wNTdi8=	2005-12-01 00:00:00
+29510	0	Mr.	Cecil	J.	Allison		Designated Distributors	adventure-works\josé1	cecil0@adventure-works.com	699-555-0155	steY9ge/f3jz0DNlVhxkdUx1NrciPQzyUpvtGCcoYBo=	KUNCNjU=	2005-08-01 00:00:00
+29511	0	Mr.	Oscar	L.	Alpuerto		Bold Bike Accessories	adventure-works\linda3	oscar0@adventure-works.com	855-555-0174	P1Osji8Ez9uYQCzuZXjnutazXvhAlWDRLjCcTcJb/Ug=	CGYtmQ4=	2005-08-01 00:00:00
+29515	0	Mr.	Maxwell	J.	Amland		Serious Cycles	adventure-works\garrett1	maxwell0@adventure-works.com	614-555-0134	8/5CuOyL4qEu4tD2KEd4x1h5OahPfcmZg9L7+F0ATDI=	qoGU2YA=	2005-08-01 00:00:00
+29517	0	Ms.	Ramona	J.	Antrim		Novelty Bikes	adventure-works\michael9	ramona0@adventure-works.com	327-555-0148	CkSWR0RMQArXpZJnpZgCnzSPuw3PUh/1jTmWPcrjYyM=	7xa5oqo=	2007-08-01 00:00:00
+29521	0	Mr.	Tom	H	Johnston		Brightwork Company	adventure-works\shu0	tom1@adventure-works.com	883-555-0177	WonAzK7XRDoFn66D6qVMzma60dA96LHtk2lz7a28mI4=	0lp7vWg=	2005-08-01 00:00:00
+29522	0	Mr.	Thomas	B.	Armstrong	Jr.	Resale Services	adventure-works\linda3	thomas1@adventure-works.com	226-555-0146	8ml/xroz0hroeUDl/KW2y2QlIIgHgygotLw0Md60cBY=	hXYQBis=	2005-08-01 00:00:00
+29523	0	Mr.	John		Arthur		The Gear Store	adventure-works\jillian0	john6@adventure-works.com	149-555-0113	AJwPH2IQhCHW77xtUnJh0G0EXqA11PsPLRRuSQK+K9U=	ZXH0EUg=	2005-08-01 00:00:00
+29524	0	Mr.	Chris		Ashton		Immense Manufacturing Company	adventure-works\jillian0	chris3@adventure-works.com	556-555-0145	wGKQ72A4aSsDe2tQKUY1T1o0i/AO69PqKcMSFIponoQ=	3VRtZxg=	2007-08-01 00:00:00
+29525	0	Ms.	Teresa		Atkinson		Extended Bike Sales	adventure-works\linda3	teresa0@adventure-works.com	129-555-0110	t+VbX7JvYz3GISo+HPpubYQr00RQKJLNqOx1dQdMKCc=	bwG1Wck=	2005-09-01 00:00:00
+29527	0	Mr.	Robert	A.	Avalos		Workout Emporium	adventure-works\josé1	robert2@adventure-works.com	665-555-0198	V09BZHvbhAXD4fluXDexe9/89mGNsFPrGa/5NMiJBRU=	3lDpoDs=	2007-09-01 00:00:00
+29528	0	Mr.	Stephen	M.	Ayers		Work and Play Association	adventure-works\michael9	stephen1@adventure-works.com	818-555-0171	m79YsPy3BDp4/SUQsvNcbTQuyZxUGV9TuBeHcAHjZCk=	F0hRcQ8=	2006-09-01 00:00:00
+29530	0	Mr.	Daniel		Blanco		Nice Bikes	adventure-works\garrett1	daniel0@adventure-works.com	221-555-0167	bnDkCXU7YCA05COiVJst0pMlaJtfAK0H8pgniBfLooM=	oOIbGSo=	2006-09-01 00:00:00
+29531	0	Mr.	Cory	K.	Booth		Remarkable Bike Store	adventure-works\linda3	cory0@adventure-works.com	121-555-0157	OfvFj11NFlpVFhEacTp7Nw+8EqwxHKIv9aJ+2ZgcUMI=	XaJdIYM=	2005-12-01 00:00:00
+29532	0	Mr.	James	B.	Bailey	Jr.	Road-Way Mart	adventure-works\david8	james3@adventure-works.com	234-555-0112	ZRFnYyY0jR0KxF7thOVIbZAFk+RsH+WO0kvZDRTup2Y=	4TnK5Fo=	2006-10-01 00:00:00
+29533	0	Mr.	Douglas	A.	Baldwin	Jr.	Small Cycle Store	adventure-works\michael9	douglas1@adventure-works.com	583-555-0130	9lHdXDAUHUKcA9bEprsps9C8mGNyVVPQ36yJe1BxrWw=	TmbNGeI=	2005-07-01 00:00:00
+29535	0	Mr.	Wayne	N.	Banack		Grand Bicycle Stores	adventure-works\jillian0	wayne0@adventure-works.com	640-555-0189	W6e3zjP9/VTWIVDfWOJ7/sdwfvSP0qPkcRJ1pTa249I=	mv8CSkM=	2006-09-01 00:00:00
+29536	0	Mr.	Robert	L.	Barker		Kickstand Sellers	adventure-works\michael9	robert3@adventure-works.com	241-555-0112	q8JpThg+EEoLRrvqBMW+Wa0RbFcCIfVIzYcGGELEOdk=	cdUS/K4=	2006-12-01 00:00:00
+29539	0	Mr.	Josh		Barnhill		Gasless Cycle Shop	adventure-works\garrett1	josh0@adventure-works.com	584-555-0192	bskaXdzyt3OUpHetBO/IcD+SDhG5EyMDjtlYBlgd5JM=	m3KdhOo=	2005-08-01 00:00:00
+29541	0		Gytis	M	Barzdukas		Transportation Options	adventure-works\josé1	gytis0@adventure-works.com	257-555-0119	muiJ85PHJTw5ocOM+yS+gq+w8REzzCOfzXZNFyDZniI=	lUNnQso=	2005-11-01 00:00:00
+29544	0	Mr.	Shaun		Beasley		Finer Cycle Shop	adventure-works\garrett1	shaun0@adventure-works.com	396-555-0187	zrx5RFbPSu5mxzlRdxbDIH2wSdDS9S9OvSavFh1QHUA=	XjtM78E=	2006-08-01 00:00:00
+29545	0	Mr.	John	A.	Beaver		Center Cycle Shop	adventure-works\pamela0	john8@adventure-works.com	521-555-0195	DzbqWX7B3EK5Dub92CKHYSUGKGbZCbrcVDpVe/xyBeI=	zXNgrJw=	2007-04-01 00:00:00
+29546	0	Mr.	Christopher	R.	Beck	Jr.	Bulk Discount Store	adventure-works\jae0	christopher1@adventure-works.com	1 (11) 500 555-0132	sKt9daCzEEKWAzivEGPOp8tmaM1R3I+aJfcBjzJRFLo=	8KfYx/4=	2006-09-01 00:00:00
+29548	0	Ms.	Ann		Beebe		First-Rate Outlet	adventure-works\garrett1	ann0@adventure-works.com	277-555-0169	l3pyVEyTaWqsF1xRfSXtR2CgCOfOXQCSumdlzqMKLxQ=	BX3pcB8=	2005-08-01 00:00:00
+29550	0	Mr.	Stanley	A.	Alan	Jr.	Another Bicycle Company	adventure-works\david8	stanley0@adventure-works.com	156-555-0126	uzR3iWUJwdMRenhBxExmLfmCRPenWgwazHnSEPDbzb8=	kj/7VTw=	2007-09-01 00:00:00
+29553	0	Ms.	Edna	J.	Benson		Unsurpassed Bikes	adventure-works\jillian0	edna0@adventure-works.com	789-555-0189	POpWTovMrdUJmLS24NDBdrrY5tasoVlQod5uB56k4YM=	Jx6w2tk=	2007-09-01 00:00:00
+29554	0	Mr.	Payton	P.	Benson		Field Trip Inc	adventure-works\michael9	payton0@adventure-works.com	528-555-0183	FnBp23EtjoS2hj7nCcr9a76vZjNvQ+/WT/5vyYyKG5o=	TYGH50Q=	2005-11-01 00:00:00
+29557	0	Mr.	Alexander	J.	Berger	II	Odometers and Accessories Company	adventure-works\garrett1	alexander0@adventure-works.com	519-555-0151	xGCe2CsXuZvX8e6v4sTb/+XoU+4gWDQEnJADwhDsrhg=	ns1gQU4=	2007-09-01 00:00:00
+29558	0	Mr.	John	M.	Berger	Jr.	Scratch-Resistant Finishes Company	adventure-works\josé1	john10@adventure-works.com	156-555-0111	0J6cl9Zhm+g4rbqJrvyshZWF72arbVNptT27ZL2QTMc=	2Ugh6Q4=	2005-08-01 00:00:00
+29559	0	Mr.	Robert	M.	Bernacchi		Safe Cycles Shop	adventure-works\david8	robert4@adventure-works.com	449-555-0176	uNz2P7Jd7t3y2Neqi3NsRS7m0blEPSm/j3sOdXpJ7aw=	G5Du9Sw=	2006-09-01 00:00:00
+29560	0	Mr.	Matthias		Berndt		Number 1 Supply	adventure-works\shu0	matthias1@adventure-works.com	384-555-0169	PGmZaBbqtByrVs9jYLcigdjJ5O29jcKmsdbRwANU3WQ=	6Mzfp8w=	2006-08-01 00:00:00
+29562	0	Mr.	Steven	B.	Brown	IV	Golf and Cycle Store	adventure-works\shu0	steven1@adventure-works.com	280-555-0124	S9Kf7AXqY19C/4rLMHjUwO+5Yh7mMhaPsuouZxizDpg=	Hp2yS7E=	2005-09-01 00:00:00
+29565	0	Mr.	Jimmy		Bischoff		World Bike Discount Store	adventure-works\linda3	jimmy1@adventure-works.com	992-555-0111	lbduPisVeIU+cP9cYQejSE4m0OPZJifKl9/E7GrrAyo=	BJUetfg=	2005-07-01 00:00:00
+29566	0	Ms.	Mae	M.	Black		Historic Bicycle Sales	adventure-works\michael9	mae1@adventure-works.com	264-555-0143	qiRmTStKEBxzfmlGc6Ig0CWYVsQnN0PQGgmTEAyux7g=	Zg4TO0Q=	2005-07-01 00:00:00
+29567	0	Ms.	Jackie	E.	Blackwell		Commuter Bicycle Store	adventure-works\josé1	jackie0@adventure-works.com	972-555-0163	wqhgKfOTfef4Zo3cb6FwsFzvG/yCVstuYh3AuwjRszQ=	SZ+r60o=	2007-08-01 00:00:00
+29568	0	Mr.	Donald	L.	Blanton		Coalition Bike Company	adventure-works\shu0	donald0@adventure-works.com	357-555-0161	pKYDelLBOZMO98GBzhMxBSzzE0gUYKx9dXzYTYNuBgw=	jKtOaOw=	2006-09-01 00:00:00
+29569	0	Ms.	Linda	E.	Burnett		Travel Systems	adventure-works\jillian0	linda4@adventure-works.com	121-555-0121	23AwhujCoXYSPiN/B+G8Z9rk36xl35EbdLT7akTMTqU=	SmyIPjE=	2005-08-01 00:00:00
+29570	0	Mr.	Michael	Greg	Blythe		Grease and Oil Products Company	adventure-works\jillian0	michael11@adventure-works.com	126-555-0172	5QCj8NIegcVaNIwAHhbulqzIKzgsgpVptbr8vMjvY9Q=	8L4g3I4=	2005-07-01 00:00:00
+29571	0	Ms.	Gabriel	L.	Bockenkamp		Moderately-Priced Bikes Store	adventure-works\pamela0	gabriel0@adventure-works.com	763-555-0145	hW0+tFeNNdvPsnKDuHc6OmH0bCdD2kCfpU6qVvIjdPs=	fjVy+G4=	2005-08-01 00:00:00
+29573	0	Sr.	Luis		Bonifaz		Economy Bikes Company	adventure-works\linda3	luis0@adventure-works.com	688-555-0113	fOnF7T/vMnI6uJzH1IxN9lcM8z31odelgSIW9Vu8sD4=	dz8Ej6A=	2006-09-01 00:00:00
+29574	0	Mr.	Randall		Boseman		Third Bike Store	adventure-works\jillian0	randall0@adventure-works.com	383-555-0117	UsXZ9ElCaZBo0YED9A2khFNGjNK+8yHdxnraI+OHsZ8=	oMeb83g=	2006-09-01 00:00:00
+29576	0	Mr.	Eli		Bowen		Bikes for Two	adventure-works\josé1	eli0@adventure-works.com	371-555-0143	lQBr+SJMfQdHmj/GHgx+x1PKMKtwLGbiInwVTo+4Qfo=	7P8PxcQ=	2006-09-01 00:00:00
+29577	0	Mr.	Lester	J.	Bowman	Sr.	Metal Processing Company	adventure-works\garrett1	lester0@adventure-works.com	844-555-0112	+CFHIbYlE+nsmSbCpJOTLZXChbtYA9JzdSnd1Qejk5g=	w7ec7iI=	2005-09-01 00:00:00
+29579	0	Mr.	Cornelius	L.	Brandon		Initial Bike Company	adventure-works\shu0	cornelius0@adventure-works.com	229-555-0114	fftjn+fbjvHFJ4bf7rTpLdlCHv61xF+y0ZPKKevQV98=	OzSaq2k=	2006-09-01 00:00:00
+29580	0	Mr.	Richard		Bready		Latest Sports Equipment	adventure-works\david8	richard1@adventure-works.com	340-555-0131	kOabrc0OqOISR4N3D3FZkOh3yAKQCF/ozSx7G00Kpt0=	jpRF8lY=	2005-07-01 00:00:00
+29582	0	Mr.	Ted		Bremer		Raw Materials Inc	adventure-works\pamela0	ted0@adventure-works.com	962-555-0166	mBQHYK00pq9+tDgH7TR6fPrrYQ2drX7/VuuHgkUSOiQ=	MxiyX14=	2005-08-01 00:00:00
+29583	0	Mr.	Alan		Brewer		Lots of Bikes Storehouse	adventure-works\jillian0	alan1@adventure-works.com	494-555-0134	t9ecYoVIOcEiyXvl+noHoCymcRlJij1fzZzXfKeZ/R0=	6ZoXk8E=	2005-11-01 00:00:00
+29584	0	Mr.	Walter	J.	Brian	IV	Futuristic Bikes	adventure-works\shu0	walter0@adventure-works.com	163-555-0155	NN11OHHxrOm6r8lPyhXuBk13QMD+8tph5PIdJ4t0JmY=	PiILPfc=	2006-09-01 00:00:00
+29585	0	Mr.	Christopher	M.	Bright		Parcel Express Delivery Service	adventure-works\david8	christopher2@adventure-works.com	162-555-0166	jIw8zSChmDX3xmVInKUV46U77LBgW9C5vlIMvK4NqF8=	J9DNyhU=	2005-11-01 00:00:00
+29587	0	Mr.	John	R.	Brooks		Prosperous Tours	adventure-works\jae0	john12@adventure-works.com	1 (11) 500 555-0179	7cimopKXrRxK/+QAEW4WJ+XGTEEJvTsX0l1QxCAWQI0=	C4OiUF4=	2006-07-01 00:00:00
+29588	0	Mr.	Willie	P.	Brooks	Jr.	Nonskid Tire Company	adventure-works\pamela0	willie0@adventure-works.com	525-555-0174	HKBXG8BXKW53RK2DsPsqNDV7PdDSavcncjD1t/rdW18=	dS1y3X0=	2005-11-01 00:00:00
+29590	0	Mr.	Jo		Brown		Metro Bike Works	adventure-works\michael9	jo2@adventure-works.com	689-555-0130	KZaaqy2YCpxZaXM7rzYJyuNkw9w+wWoUaL5P6Jdyzpk=	T2lZOPo=	2006-08-01 00:00:00
+29591	0	Mr.	Robert		Brown		Best o' Bikes	adventure-works\jillian0	robert5@adventure-works.com	575-555-0189	WdS3xcgtqW4nnV7dyZ17PmiMPZ5vKs5whm3ANBVQ1sQ=	mQK+bIw=	2007-07-01 00:00:00
+29593	0	Ms.	Mary	K.	Browning		Client Discount Store	adventure-works\jillian0	mary5@adventure-works.com	658-555-0146	ChGbWjf0h+VNc991cHR4FwJMGxeHxuYSeKVPflcq7wc=	dt/JUB4=	2006-08-01 00:00:00
+29596	0	Mr.	Eric	J.	Brumfield		Requisite Part Supply	adventure-works\josé1	eric3@adventure-works.com	644-555-0114	pd7lPYE+Gn7QnX4l6aMxG6WiRZGpPVsBcJ1kBpXl7pc=	MAOhXKA=	2005-07-01 00:00:00
+29598	0	Mr.	Michael		Brundage		Mechanical Products Ltd.	adventure-works\shu0	michael13@adventure-works.com	128-555-0148	Ioh5Ss2cXrUAI8DZcSkQ/z92aEmHE0Wxqc6MdggjJQE=	MjQeaAE=	2006-08-01 00:00:00
+29599	0	Ms.	Shirley	R.	Bruner		Commendable Bikes	adventure-works\david8	shirley0@adventure-works.com	383-555-0155	haGTwCpR1pahJRX/490ASvk+bkWOZv828Z8Krd0XO50=	Jmtgb40=	2006-07-01 00:00:00
+29600	0	Ms.	June	B.	Brunner		Online Bike Sellers	adventure-works\michael9	june0@adventure-works.com	249-555-0172	V74x3qYKzA71fWSI3y7gFD552b65vQ+acGzI6wdBsQ4=	hY2Xf6o=	2006-09-01 00:00:00
+29601	0	Mr.	Dirk	J.	Bruno		Custom Accessories Company	adventure-works\garrett1	dirk0@adventure-works.com	817-555-0114	XaEqG3bH0NhFTn8IBCk4SidcF444Tnvqqr5UjGUiN7E=	DblcZuo=	2006-08-01 00:00:00
+29603	0	Sra.	Janaina Barreiro Gambaro		Bueno		Courteous Bicycle Specialists	adventure-works\josé1	janainabarreirogambaro0@adventure-works.com	476-555-0184	VC5UG8CPRifGAgItWSWIpplMzshRj9HJwWt6KBvEFk0=	aNoO9K0=	2007-09-01 00:00:00
+29605	0	Ms.	Megan	E.	Burke		Professional Cycle Store	adventure-works\shu0	megan0@adventure-works.com	148-555-0149	/96oQfFuq06DWi8P5TZqIU/tF2E/GKRMliIjGRWKRDE=	9P3dKrM=	2006-07-01 00:00:00
+29606	0	Ms.	Karren	K.	Burkhardt		Fifth Bike Store	adventure-works\david8	karren0@adventure-works.com	652-555-0132	ho3bUU87fZAlity/45XvFPVE/DgEaLKvI+ZW1e56rnA=	x1JqF8M=	2005-07-01 00:00:00
+29608	0	Mr.	Timothy	B.	Burnett	Jr.	Farthest Bike Store	adventure-works\josé1	timothy0@adventure-works.com	251-555-0172	lYPMOabTmO7waFR155ZAm1jDwBg6VW2xrT6sZ1yxPio=	e8KtQ70=	2007-08-01 00:00:00
+29611	0	Mr.	Jared	L.	Bustamante		Alternative Vehicles	adventure-works\pamela0	jared0@adventure-works.com	164-555-0147	HpDMv2bnK4/qDUMQn8+csux9vDdycGo7vFyJ5y4Vh/Q=	NbybY4k=	2005-11-01 00:00:00
+29612	0	Mr.	Richard	A.	Byham		Channel Outlet	adventure-works\jae0	richard2@adventure-works.com	1 (11) 500 555-0138	adQ3TmZB28FhQvF2FntW1RInx5S+aOSvwpURQDLarr8=	KoBtEoU=	2007-09-01 00:00:00
+29614	0	Mr.	Ryan		Calafato		Retail Mall	adventure-works\josé1	ryan1@adventure-works.com	726-555-0155	7zHYCWMhkitUJXggqG0dMfCqyK0FBDp/XwCeyPYWZ1A=	DBuWFZ4=	2005-07-01 00:00:00
+29615	0	Ms.	Mari	B.	Caldwell		Metro Metals Co.	adventure-works\jae0	mari0@adventure-works.com	1 (11) 500 555-0118	1tbKzsdwFfEX1T/OP+I5Eu7EVKuWn2FviChJGtlaeQI=	x8xILbE=	2007-08-01 00:00:00
+29616	0	Ms.	Barbara	J.	Calone		Sheet Metal Manufacturing	adventure-works\jillian0	barbara2@adventure-works.com	145-555-0152	W+klFtJ6V2H2UQK1pJdYy2MEbai2eYSHD0QGx02rFw8=	8iuXJ0k=	2006-08-01 00:00:00
+29617	0	Ms.	Lindsey	R.	Camacho		Thorough Parts and Repair Services	adventure-works\pamela0	lindsey0@adventure-works.com	827-555-0143	6puEloqDRSg8AhINyUQ7qORZUS5CON8jUaFikiprWVo=	bhH3VWU=	2005-08-01 00:00:00
+29618	0	Sr.	Gustavo		Camargo		Uttermost Bike Shop	adventure-works\jae0	gustavo1@adventure-works.com	1 (11) 500 555-0118	+hCthjbuE+VctSZXuurfmfusjXPrneMHQFQLVjTsnuE=	fS7eEaQ=	2006-08-01 00:00:00
+29620	0	Ms.	Joan	M.	Campbell		Two-Wheeled Transit Company	adventure-works\josé1	joan0@adventure-works.com	700-555-0155	hKb4COq5+4SAW8APMfmPmILk4cdhwtpjpD7Yx8xcx9U=	eVaIdvY=	2005-08-01 00:00:00
+29622	0	Mr.	Henry	L.	Campen		Metro Cycle Shop	adventure-works\david8	henry0@adventure-works.com	635-555-0126	sk3ylc8GdTAWxH2DM4cy8rLkoHXK7tIeMWUl3VNm+Bk=	2NEGr8A=	2005-09-01 00:00:00
+29623	0	Mr.	Chris		Cannon		Outdoor Sporting Goods	adventure-works\shu0	chris5@adventure-works.com	118-555-0131	RKimtgGoqQN8dj2KGy7mvo2DrpTK0yOpF9e6sgxyOTU=	LQWSses=	2007-07-01 00:00:00
+29625	0	Ms.	Suzana De Abreu	A.	Canuto		Petroleum Products Distributors	adventure-works\josé1	suzanadeabreu0@adventure-works.com	990-555-0141	aQhg/A43Nq3pqIBjcyPBvjQ7qXHAckVwm6FjAZCx0nc=	RpQyjlA=	2007-09-01 00:00:00
+29627	0	Mr.	Johnny	A.	Caprio	Jr.	Bikes and Motorbikes	adventure-works\garrett1	johnny0@adventure-works.com	112-555-0191	jtF9jBoFYeJTaET7x+eJDkd7BzMz15Wo9odbGPBaIak=	wVLnvHo=	2006-08-01 00:00:00
+29629	0	Mr.	Carlton	M.	Carlisle		Camping and Sports Store	adventure-works\josé1	carlton0@adventure-works.com	193-555-0116	GJhY98QoDTRmv/6f6RcLwoj2v33jAZopR8AjLor/sqc=	fYgdeM0=	2007-09-01 00:00:00
+29631	0	Ms.	Jane	N.	Carmichael		Rural Department Store	adventure-works\shu0	jane0@adventure-works.com	716-555-0167	ZIXjFmD2T/Gf9bPHIkx7X82eU+I86/8p3rmYxWqwtkQ=	BUBjqIQ=	2007-07-01 00:00:00
+29632	0	Ms.	Jovita	A.	Carmody		Sports Commodities	adventure-works\david8	jovita0@adventure-works.com	646-555-0137	d3uGruCihzt7+Dipsh3+fE3iZd/uKCf8sy56xa5chxU=	zmqmiAQ=	2005-09-01 00:00:00
+29635	0	Mr.	Rob		Caron		Responsible Bike Dealers	adventure-works\jillian0	rob2@adventure-works.com	620-555-0117	yaVIQNTOMlDFxsn08drJdHoPTkydd5XKkeBgAPyVGbk=	v43cndI=	2006-09-01 00:00:00
+29636	0	Mr.	Andy		Carothers		Western Bike Supplies	adventure-works\shu0	andy1@adventure-works.com	944-555-0148	Q0MU0NsjDAbnQSqMBkP9Sm4G43DKXcirOnAKlzYSYnI=	DZ8e0Xk=	2006-07-01 00:00:00
+29637	0	Ms.	Donna	F.	Carreras		Advanced Bike Components	adventure-works\jillian0	donna0@adventure-works.com	279-555-0130	LNoK27abGQo48gGue3EBV/UrlYSToV0/s87dCRV7uJk=	YTNH5Rw=	2005-09-01 00:00:00
+29638	0	Ms.	Rosmarie	J.	Carroll		Aerobic Exercise Company	adventure-works\linda3	rosmarie0@adventure-works.com	244-555-0112	OKT0scizCdIzymHHOtyJKQiC/fCILSooSZ8dQ2Y34VM=	ihWf50M=	2007-09-01 00:00:00
+29639	0	Mr.	Joseph	N.	Castellucio		Corner Bicycle Supply	adventure-works\josé1	joseph1@adventure-works.com	180-555-0114	NLAR7H8spiCb/C0qY+3qkJm3VuoSOqDw7yspRc1CTTg=	Whn5BXY=	2005-09-01 00:00:00
+29641	0	Mr.	Raul	E.	Casts		Westside Plaza	adventure-works\shu0	raul0@adventure-works.com	362-555-0162	NghLMnHjoD3F7B0y8sTtYlpCq5imhhvrn56YUAUNEm4=	68RH5og=	2007-07-01 00:00:00
+29643	0	Mr.	Matthew	J.	Cavallari		Outstanding Cycles	adventure-works\david8	matthew1@adventure-works.com	695-555-0161	I5oNRDKehZnUlVTunv+30kLR3rM7VyVA2vJyu6CNveI=	beKST+I=	2007-08-01 00:00:00
+29644	0	Ms.	Brigid	F.	Cavendish		Vigorous Sports Store	adventure-works\jae0	brigid0@adventure-works.com	1 (11) 500 555-0178	20rlqqjWOPLBi7oYKBrHMzouHcYl6OknJcV+yc0zQKo=	QS6UTS4=	2006-09-01 00:00:00
+29645	0	Mr.	Andrew		Cencini		Sports Merchandise	adventure-works\pamela0	andrew2@adventure-works.com	644-555-0111	Eo1pvctUvdkRpUgGHwOfILlh5uZiYuLv+eBXLj1viR8=	LCi+QgQ=	2007-09-01 00:00:00
+29646	0	Ms.	Stacey	M.	Cereghino		Fitness Toy Store	adventure-works\jillian0	stacey0@adventure-works.com	351-555-0131	u/IE2VGaycl6iSw+8Es0ro5F6g//TK/eJA3ICMBHXmc=	n+71V7I=	2005-07-01 00:00:00
+29649	0	Mr.	Pat	A.	Chambers		General Cycle Storehouse	adventure-works\garrett1	pat1@adventure-works.com	127-555-0124	cTcQEsZdQPvGLuu5iDRwrqp4fM6oBxNFi+X7anqqPzA=	bvb6hus=	2005-09-01 00:00:00
+29650	0	Mr.	Forrest	J.	Chandler		Fitness Cycling	adventure-works\shu0	forrest0@adventure-works.com	448-555-0179	QHqQuKTbipj1cJzbCkCMH+zQGE09jtToYi9uy0cv77E=	KOGA0IE=	2007-07-01 00:00:00
+29651	0	Mr.	Lee	J.	Chapla		Good Bike Shop	adventure-works\jillian0	lee0@adventure-works.com	223-555-0184	yRB9ce1nhQby11wW4ZjaqdAHLcagnHeelEySfrDOivk=	af0s25U=	2005-09-01 00:00:00
+29653	0	Mr.	Pei		Chow		Thrilling Bike Tours	adventure-works\linda3	pei0@adventure-works.com	789-555-0184	UVTWGfYZBU+ZmXLqhvqZFDwYXdtX14O87KHOHN36XDc=	pI/k4Qw=	2007-09-01 00:00:00
+29654	0	Mr.	Yao-Qiang		Cheng		This Area Sporting Goods	adventure-works\jillian0	yao-qiang0@adventure-works.com	344-555-0181	3LD/Jab7lP6gIPvK5EdTnwhHBo+dxs3y9GbIgmN6E8Q=	BG6Ps64=	2006-07-01 00:00:00
+29655	0	Ms.	Nicky	E.	Chesnut		Full-Service Bike Store	adventure-works\michael9	nicky0@adventure-works.com	264-555-0164	weDREfIdFEInQXlEuUK3AjoRiqGR7g2cJQHBZ1BT5xw=	ggpF1Og=	2005-09-01 00:00:00
+29659	0	Ms.	Ruth	A.	Choin		Genuine Bike Shop	adventure-works\jillian0	ruth1@adventure-works.com	273-555-0181	ZJ2widMDceVmN30pfgwzpo2Z53AGVrr2LIlFccG4KEc=	BuagBic=	2005-09-01 00:00:00
+29660	0	Mr.	Anthony		Chor		Extreme Riding Supplies	adventure-works\linda3	anthony0@adventure-works.com	429-555-0145	8C7859RNaDWPJkDaaxgaJaZPSf7ikFyFa//RYOz0aPo=	tAAs8Fk=	2007-09-01 00:00:00
+29662	0	Ms.	Jill	J.	Christie		Fleet Bikes	adventure-works\linda3	jill1@adventure-works.com	927-555-0198	Vlb2fj7yW2d5JtfPLZvbicsQNEgLhh0b93Uw2pLEBuE=	2cMmc9Y=	2006-08-01 00:00:00
+29663	0	Ms.	Alice		Clark		Local Hardware Factory	adventure-works\jillian0	alice1@adventure-works.com	221-555-0141	ZZhnNULC5d/7tZv0hUtCl4jKwgyZql8aSrIzlTaTvg0=	hGHOthw=	2006-09-01 00:00:00
+29666	0	Ms.	Jane		Clayton		South Bike Company	adventure-works\garrett1	jane1@adventure-works.com	206-555-0195	o02Imw+gyZX9J1yiTBKYD4M5XlerPqz3usX+v3CsDHA=	PZCGT2g=	2007-08-01 00:00:00
+29668	0	Ms.	Connie	L.	Coffman		Discount Bicycle Specialists	adventure-works\jillian0	connie0@adventure-works.com	426-555-0181	Wkqdm53a0uim7B/e9+IT0I81uzxMNnh1FBaeXd3nyP0=	3tT/ffQ=	2005-11-01 00:00:00
+29671	0	Mr.	Pat		Coleman		Machines & Cycles Store	adventure-works\garrett1	pat2@adventure-works.com	292-555-0128	61UcbVZnGT5eqxs0oFMv4JyipeaQCUZgUZkPgtVNBDo=	7+I+4k4=	2007-07-01 00:00:00
+29673	0	Mr.	John	L.	Colon		Two Wheels Cycle Store	adventure-works\linda3	john14@adventure-works.com	397-555-0144	9HEZAYB77VjHRd83ZDP94/ugDP0PhvUiIRCi3Cl5y7A=	j6Z6ny8=	2005-09-01 00:00:00
+29674	0	Mr.	Scott	A.	Colvin		Westside Cycle Store	adventure-works\jillian0	scott1@adventure-works.com	119-555-0144	4QoOmH+4/mabhuXqIQnoVm+1MjvTYyAHid9vpNehSxs=	sA8S2v4=	2005-12-01 00:00:00
+29677	0	Mr.	William	J.	Conner		Urban Sports Emporium	adventure-works\josé1	william1@adventure-works.com	383-555-0111	GZyRS1qyQMxNWXYf0B1uj2nyQjhk4oN+Qv3geEMUy5A=	94SS2WQ=	2006-08-01 00:00:00
+29680	0	Ms.	Dorothy	J.	Contreras		Sixth Bike Store	adventure-works\josé1	dorothy0@adventure-works.com	428-555-0176	NEJS/vq9oswLdLNa4VH0fbwb+fgxDYIHg2hPP1fn7t4=	lnEeim8=	2005-08-01 00:00:00
+29682	0	Mr.	Scott		Cooper		Vehicle Shop	adventure-works\shu0	scott2@adventure-works.com	773-555-0182	BEePqLIHwU7zsFCJQcHQ8OGm8nkvUlj8YPFAT/teYOc=	+v0uddA=	2005-10-01 00:00:00
+29683	0	Ms.	Eva		Corets		First Department Stores	adventure-works\david8	eva0@adventure-works.com	542-555-0164	vcqabvDo1Fnle8WElVwwEwNwCGZKfSJvDCUVyps/SuQ=	gF7bPbY=	2006-07-01 00:00:00
+29684	0	Mr.	Marlin	M.	Coriell		Grand Sport Boutique	adventure-works\michael9	marlin0@adventure-works.com	941-555-0155	mWVOfXPZkIFZzQA0Ilekhl49LfhS31vdOtYEmBKSIkk=	FSkdXTM=	2006-08-01 00:00:00
+29686	0	Mr.	Jack		Creasey		Distinctive Store	adventure-works\shu0	jack2@adventure-works.com	539-555-0182	ao0Wb4hq67DVVcZYX2vO/mOgiZoTtJMBJzi4/wt8mrE=	7wlaV4Y=	2005-09-01 00:00:00
+29688	0	Mr.	Grant		Culbertson		Handy Bike Services	adventure-works\michael9	grant1@adventure-works.com	859-555-0173	nkkvhNgGMBN5JS2w3ewyvV4KCwrTMYC4+yoS/4hIUok=	fqDHYeo=	2005-08-01 00:00:00
+29689	0	Mr.	Scott		Culp		Friendly Bike Shop	adventure-works\david8	scott3@adventure-works.com	119-555-0167	Xf7AJHcry+LouddJR3dIGHjo8du8EO+214E81gPafj0=	rXx8clQ=	2006-07-01 00:00:00
+29690	0	Mr.	Conor		Cunningham		Fashionable Bikes and Accessories	adventure-works\shu0	conor0@adventure-works.com	115-555-0113	/yVQQacXlcqZVH6x20kKCxCJ+sP4EjmPQXwwwInfNH0=	vJ/AcXo=	2005-09-01 00:00:00
+29692	0	Mr.	Thierry		D'Hers		Citywide Service and Repair	adventure-works\josé1	thierry1@adventure-works.com	680-555-0192	i+ukExAQLOnEpQFQLme/QYR8w6kME+/MdykXoSxwgFI=	FooiQMs=	2006-07-01 00:00:00
+29695	0	Ms.	Megan	N.	Davis		Rugged Bikes	adventure-works\david8	megan1@adventure-works.com	839-555-0198	G6BHmDa5WKyDUTzHeOszC8XHrN8wPjUM76UTZb39tWc=	BNNUWH4=	2007-09-01 00:00:00
+29696	0	Sr.	Alvaro		De Matos Miranda Filho		Principal Bike Company	adventure-works\shu0	alvaro0@adventure-works.com	551-555-0155	BrhebOErAX2tbZ1LZxAb8hwE96ZdIjikETxIsIKfpLw=	v5pJpw0=	2006-09-01 00:00:00
+29698	0	Mr.	Jacob	N.	Dean		Finer Riding Supplies	adventure-works\josé1	jacob0@adventure-works.com	767-555-0151	afWrNdx+a97zBy+NoV2h3JgMyfVCLmD1FMz7OiwtBRQ=	KVVlFXY=	2005-08-01 00:00:00
+29699	0	Mr.	Alexander	J.	Deborde		Neighborhood Store	adventure-works\garrett1	alexander1@adventure-works.com	394-555-0176	QC+He1HXF5uNbU5XqduVyZW0SlvdnAE2jhuD/06ukjE=	Uifpoxw=	2006-08-01 00:00:00
+29702	0	Ms.	Aidan		Delaney		Paint Supply	adventure-works\jillian0	aidan0@adventure-works.com	358-555-0188	6lcVqEc4gGgfW6DsOks/KuDIWIP5qFsrc8sXtmcwj6E=	DKu7/UM=	2005-09-01 00:00:00
+29703	0	Mr.	Stefan		Delmarco		Preferred Bikes	adventure-works\linda3	stefan0@adventure-works.com	819-555-0186	9rOycZRxDntXWB8Y/285x4HS6G2ATNOzhqIhF+oBGqc=	BsI2IB4=	2005-08-01 00:00:00
+29705	0	Ms.	Della	F.	Demott Jr		Rewarding Activities Company	adventure-works\garrett1	della0@adventure-works.com	752-555-0185	oR9ACW0ZX4v6zBa57CfhePKM1qmHjgDwNdGaTDAp4io=	966Lz4w=	2005-08-01 00:00:00
+29708	0	Mr.	Prashanth		Desai		Stationary Bikes and Stands	adventure-works\jillian0	prashanth0@adventure-works.com	138-555-0156	AT0SeSL9gTlDL0/MHFMEy5GrEjR12DBF5ag/cyHZpJY=	l32Vf08=	2005-09-01 00:00:00
+29709	0	Ms.	Bev	L.	Desalvo		Successful Sales Company	adventure-works\pamela0	bev0@adventure-works.com	143-555-0113	j42zXyaSRc55aauqsJrhWZdZBGkW64qaL1hO1tdgdQk=	5dgYmOY=	2006-09-01 00:00:00
+29710	0	Ms.	Brenda		Diaz		Downtown Hotel	adventure-works\shu0	brenda2@adventure-works.com	147-555-0192	84meSWqxRT9guwZSihzP3MYe7UV2VaMLBldOf8pTy5A=	lsd099Q=	2005-09-01 00:00:00
+29711	0	Ms.	Gabriele		Dickmann		Certified Sports Supply	adventure-works\josé1	gabriele0@adventure-works.com	835-555-0116	6eApe0lB1ZkvyJB3Uo3LaYGV8sm2/NE9fUHXM7a0RYU=	M8SoIWU=	2005-09-01 00:00:00
+29713	0	Mr.	Dick		Dievendorff		Rampart Amusement Company	adventure-works\jae0	dick1@adventure-works.com	1 (11) 500 555-0193	dI9bbaCIElCUwy2PYLUYLNIrdM9yCcuTmHspqw8Wsxc=	FihOX8w=	2007-08-01 00:00:00
+29714	0	Mr.	Rudolph	J.	Dillon	Sr.	Sundry Sporting Goods	adventure-works\josé1	rudolph0@adventure-works.com	722-555-0169	hynkaEM/LxC86JGG4q4AGgiar6iWoIu5bLVB3gFq2RM=	DUDd/5g=	2005-09-01 00:00:00
+29716	0	Mr.	Blaine		Dockter		Farthermost Bike Shop	adventure-works\shu0	blaine0@adventure-works.com	156-555-0187	9E6RJtJrsu2iqMbyKMJRaVfPipCW5XObegb3KE3K85M=	hiSI26I=	2005-08-01 00:00:00
+29717	0	Ms.	Cindy	M.	Dodd		Suburban Cycle Shop	adventure-works\david8	cindy0@adventure-works.com	706-555-0140	C7FdyTzpzS44mEsqgDG4s8S3CZJtl+yiy9sH4rEI9VY=	M4cce8o=	2005-08-01 00:00:00
+29719	0	Ms.	Patricia		Doyle		Racing Bike Outlet	adventure-works\david8	patricia0@adventure-works.com	899-555-0134	oNLvRmGCzEz1jsW8aIhOPt/9GVbikzcIYiqMuMKtrYw=	ZeNva8s=	2006-11-01 00:00:00
+29720	0	Mr.	Gerald	M.	Drury		Utilitarian Sporting Goods	adventure-works\shu0	gerald0@adventure-works.com	169-555-0178	Jlxkjapdo78bvTdzddS8yoUxcj6pyFuXwdsCGn6KHvI=	ClRPyyM=	2007-09-01 00:00:00
+29722	0	Mr.	Reuben		D'sa		Vigorous Exercise Company	adventure-works\josé1	reuben1@adventure-works.com	916-555-0137	EVeayvYSlWRfySd2RBGRSr93ST2Me+VDyAoD44WBrrg=	jj5f+ZA=	2005-09-01 00:00:00
+29727	0	Mr.	Bart		Duncan		Stock Parts and Supplies	adventure-works\david8	bart0@adventure-works.com	539-555-0121	NJJTfbDws96bPa7Giz9Mmq+M0NSYcjlcfwpjsUnYWdE=	MPxWTOU=	2007-08-01 00:00:00
+29728	0	Mr.	Maciej		Dusza		Roadway Supplies	adventure-works\shu0	maciej1@adventure-works.com	962-555-0144	v404bp5zCcIyJO+s50eW4MbBxBjjkDQJe5ee5fvwBKI=	pDYvCjw=	2005-11-01 00:00:00
+29730	0	Ms.	Linda	R.	Ecoffey		Future Bikes	adventure-works\josé1	linda5@adventure-works.com	674-555-0188	zM1odbx2eTJoH556dXSIqTCDa5EBj8DWUSHVo67GEGc=	Q5U1IZU=	2006-12-01 00:00:00
+29732	0	Ms.	Carol	B.	Elliott		Satin Finish Company	adventure-works\jillian0	carol2@adventure-works.com	847-555-0151	TIOaZdFb/aFk03gncvEijaflLdTkxJfJnFJXXZdBDds=	PavVqD4=	2006-08-01 00:00:00
+29733	0	Ms.	Shannon	P.	Elliott		Regional Manufacturing	adventure-works\shu0	shannon0@adventure-works.com	425-555-0158	GgQkc8evqVQZvWwqG9L+QxrK0lzeuCIX4JIe535eQ8Y=	2HvuG3I=	2005-09-01 00:00:00
+29734	0	Ms.	Jauna	E.	Elson		Original Bicycle Supply Company	adventure-works\josé1	jauna0@adventure-works.com	185-555-0190	CkyI2hpILZNVv06ClZJ5hmNstcWHJxU+3sqIAEO7AbM=	bsrg3KE=	2005-07-01 00:00:00
+29736	0	Mr.	Terry		Eminhizer		Action Bicycle Specialists	adventure-works\jae0	terry1@adventure-works.com	1 (11) 500 555-0176	y8RaWYkfTrcpFEipLXAyKC2pL8AJgQhpW2mOmZ8sqF4=	vx5Ko/Q=	2007-09-01 00:00:00
+29737	0	Mr.	John		Emory		Roadway Bike Emporium	adventure-works\pamela0	john16@adventure-works.com	691-555-0149	EXyX+Acbgfz6Y4iZ9KNW4TsmchGMdgjtJqmn+Xu2Mws=	/4/gh8A=	2007-07-01 00:00:00
+29738	0	Ms.	Gail		Erickson		Sleek Bikes 	adventure-works\jillian0	gail1@adventure-works.com	834-555-0132	yV4p9H28cp19QO/bcSjLxZFYAs22W5SR9HnmTXUEWkM=	qUowBt4=	2007-09-01 00:00:00
+29739	0	Mr.	Mark	B	Erickson		Retail Sporting Equipment	adventure-works\shu0	mark2@adventure-works.com	962-555-0112	pDvvWVr112kWGzoRmRsd4CgPPnyLtAEQGoYHe7Q65PM=	zYqZHNo=	2006-09-01 00:00:00
+29740	0	Ms.	Martha	R.	Espinoza		Price-Cutter Discount Bikes	adventure-works\josé1	martha0@adventure-works.com	753-555-0179	pGBoWobCmo+yyzVgDnZL5z3fgTKLorCbJuofCkwniGs=	ZFXGiMU=	2005-09-01 00:00:00
+29741	0	Sra.	Janeth		Esteves		Central Bicycle Specialists	adventure-works\jae0	janeth1@adventure-works.com	1 (11) 500 555-0136	X1Y5qQtF/cCa0JcWV87/0KfmpSje5R9/RdWM+fyB7Go=	+iF/Sqs=	2007-09-01 00:00:00
+29742	0	Ms.	Twanna	R.	Evans		Vast Bike Sales and Rental	adventure-works\pamela0	twanna0@adventure-works.com	554-555-0124	357SDpcamaYl8SbrrrNR4GmwYLlfdnZvJy645g6uNIw=	5hdHSeE=	2005-08-01 00:00:00
+29743	0	Ms.	Ann	R.	Evans		Summer Sports Place	adventure-works\jillian0	ann1@adventure-works.com	252-555-0127	DLW2IAbnBTdpl45F2NtNmotuCcasAhlznF/e4eBbffs=	r8MY8Co=	2006-09-01 00:00:00
+29744	0	Mr.	John		Evans		Real Sporting Goods	adventure-works\shu0	john17@adventure-works.com	581-555-0172	zI7V47DGDDCr+5PUQzccWY8u8MazpHxzT0wB13+8m50=	Pz84Lbs=	2006-07-01 00:00:00
+29747	0	Ms.	Carolyn		Farino		The Bike Shop	adventure-works\david8	carolyn0@adventure-works.com	957-555-0125	jnz8GF/glxwiqqdUVHkoV+53Mp1HOnFR/azWzJ80Ktc=	qwoGYjU=	2005-07-01 00:00:00
+29748	0	Ms.	Geri	P.	Farrell		Safe Toys	adventure-works\shu0	geri0@adventure-works.com	329-555-0183	Wc/TlRg7q92tTI8Njp2Ivs8eKIRej8TfabwOQYYybe8=	anxKyOc=	2005-09-01 00:00:00
+29750	0	Ms.	Rhoda	J.	Finley		Our Sporting Goods Store	adventure-works\josé1	rhoda0@adventure-works.com	920-555-0191	q1tCJRWRCSt1/VrADrMeQkLwbHjw1LlGOdVX8DLaYoM=	83MFiok=	2006-09-01 00:00:00
+29753	0	Ms.	Kathie		Flood		Coho Sports	adventure-works\david8	kathie1@adventure-works.com	627-555-0192	UA0N5pHkC4DZZ4xHgqJohcC+5L3JnoaegTulnb1lrhA=	WGizZm8=	2006-08-01 00:00:00
+29755	0	Ms.	Kelly		Focht		Quick Delivery Service	adventure-works\garrett1	kelly0@adventure-works.com	272-555-0123	xU8UixWEoFZ9PDzLfFA3AiuIaKPV9Z2ALf/Kbpu51Zo=	E7joL4U=	2005-09-01 00:00:00
+29757	0	Mr.	Garth		Fort		Basic Sports Equipment	adventure-works\linda3	garth0@adventure-works.com	768-555-0125	M2NMXJ5k9IJ7AKmryPzUhZqIMVsjJHs5P2voDCVEbsc=	sQuHPto=	2005-08-01 00:00:00
+29758	0	Ms.	Dorothy	J.	Fox		Cash & Carry Bikes	adventure-works\jillian0	dorothy1@adventure-works.com	191-555-0198	s7Q4rdzaHWhqJHdZ05GB5VHh1eeVXQopPtyTvqSdehM=	GQqIg64=	2006-09-01 00:00:00
+29761	0	Ms.	Susan	E.	French		General Bike Corporation	adventure-works\garrett1	susan3@adventure-works.com	994-555-0194	bdpqUxwvIpfkW2ApgaplNkwQ17fOA3rjtmM6B9f2qYE=	MO+/tX0=	2005-07-01 00:00:00
+29763	0	Mr.	Mihail		Frintu		Retail Cycle Shop	adventure-works\linda3	mihail1@adventure-works.com	777-555-0163	0drckP/Xt0FMU29UWCYFp/wxtTBNd5PxmzaxMM5VKYc=	hxyAApA=	2006-09-01 00:00:00
+29764	0	Mr.	John		Ford		Social Activities Club	adventure-works\jillian0	john19@adventure-works.com	596-555-0153	Uu7MYSoXZONPT3nnOss6MamCI0JtQpdQ0lHxfbTXg2s=	MFN+Ar8=	2005-08-01 00:00:00
+29765	0	Mr.	Paul	J.	Fulton		Blue Bicycle Company	adventure-works\michael9	paul3@adventure-works.com	492-555-0146	kdhlX1CwoRb+G+IbaNr94q5wH+aDau5he+dsV5sbuXw=	HfBhcWQ=	2006-08-01 00:00:00
+29766	0	Mr.	Bob		Gage		General Riding Supplies	adventure-works\garrett1	bob1@adventure-works.com	962-555-0175	SeCchhGjoFaNiCwjURJ30XSE9lKCbSxUL9tDtRrg1FU=	hZbeVTs=	2007-02-01 00:00:00
+29768	0	Mr.	Michael		Galos		Riding Excursions	adventure-works\linda3	michael15@adventure-works.com	912-555-0149	Wwwn13Huxc1/wSvPmlYH5pXoqz1XUDSzAdavDQcyTKk=	x+UpoXE=	2006-01-01 00:00:00
+29769	0	Mr.	Jon		Ganio		Unique Bikes	adventure-works\jillian0	jon0@adventure-works.com	672-555-0112	bWjEPINRmvLEbxP7M/s7AJTqpJenlAkq34rNVCEXqpc=	+Yo0P+0=	2005-09-01 00:00:00
+29770	0	Ms.	Kathleen	M.	Garza		Rural Cycle Emporium	adventure-works\josé1	kathleen0@adventure-works.com	150-555-0127	Qa3aMCxNbVLGrc0b99KsbQqiVgwYDfHcsK9GZSUxcTM=	Ls05W3g=	2006-09-01 00:00:00
+29771	0	Mr.	Dominic	P.	Gash		Associated Bikes	adventure-works\shu0	dominic0@adventure-works.com	192-555-0173	ZccoP/jZGQm+Xpzc7RKwDhS11YFNybwcPVRYTSNcnSg=	sPoUBSQ=	2006-07-01 00:00:00
+29772	0	Ms.	Janet	M.	Gates		Modular Cycle Systems	adventure-works\jillian0	janet1@adventure-works.com	710-555-0173	ElzTpSNbUW1Ut+L5cWlfR7MF6nBZia8WpmGaQPjLOJA=	nm7D5e4=	2006-07-01 00:00:00
+29773	0	Mr.	Orlando	N.	Gee		A Bike Store	adventure-works\pamela0	orlando0@adventure-works.com	245-555-0173	L/Rlwxzp4w7RWmEgXX+/A7cXaePEPcp+KwQhl2fJL7w=	1KjXYs4=	2005-08-01 00:00:00
+29774	0	Mr.	Darren		Gehring		Journey Sporting Goods	adventure-works\jillian0	darren0@adventure-works.com	417-555-0182	kqptixZ7LqTuOKcc7ylpabWrgWr5BDXa2fpkDxEwaCY=	Xe7grug=	2005-08-01 00:00:00
+29775	0	Mr.	Jim		Geist		Two Bike Shops	adventure-works\pamela0	jim1@adventure-works.com	724-555-0161	cvqeC4fJcKwJ9jlluiWvK5/MyuSi8neLnjFDGdvzJy4=	ot8WcXk=	2006-09-01 00:00:00
+29776	0	Ms.	Barbara	J.	German		Cycles Wholesaler & Mfg.	adventure-works\jae0	barbara4@adventure-works.com	1 (11) 500 555-0181	2Pyd3S3Os61yt+lfSjMgSDNwT1LL4Qs51m1ob42We40=	Jvsxxrg=	2007-07-01 00:00:00
+29778	0	Mr.	Leo		Giakoumakis		Number One Bike Co.	adventure-works\jae0	leo0@adventure-works.com	1 (11) 500 555-0169	x78xcW0FvKo3V2RvMGf37bcWhb50vMZ22IuaZcu+qmM=	abrUsFg=	2006-07-01 00:00:00
+29780	0	Mr.	Frances	J.	Giglio		Standard Bikes	adventure-works\josé1	frances1@adventure-works.com	692-555-0136	Vf9lyf+xKSbSXq9yAcMEF9niZm29wvPV9e9dU9sYQVc=	6ansEQA=	2006-08-01 00:00:00
+29781	0	Mr.	Guy		Gilbert		The Bicycle Accessories Company	adventure-works\shu0	guy0@adventure-works.com	583-555-0198	YMhZzdS3NtxXPsz/PPksfdYWIvhuoemim9KoDsx20cg=	rQoQs38=	2006-09-01 00:00:00
+29782	0	Ms.	Janet	J.	Gilliat		Active Systems	adventure-works\jillian0	janet2@adventure-works.com	521-555-0183	TYrGU6N0naplzEIsTHgR53UnASh8dXOYxTYOdOrI6Fo=	k1FFTeE=	2006-07-01 00:00:00
+29783	0	Ms.	Mary	M.	Gimmi		Futuristic Sport Distributors	adventure-works\shu0	mary6@adventure-works.com	149-555-0196	mcO7vvh7FSdCS9FFgyEhwIHXKbrBkeYmcgksFie8Jzk=	S640434=	2006-07-01 00:00:00
+29784	0	Ms.	Jeanie	R.	Glenn	PhD	Big-Time Bike Store	adventure-works\shu0	jeanie0@adventure-works.com	669-555-0149	JFHzZpLu5HeGe//DMA9vbqFc0yeYRjrW7ItGAnDHMhk=	dUASILc=	2006-08-01 00:00:00
+29785	0	Ms.	Diane	R.	Glimp		The Showroom	adventure-works\josé1	diane3@adventure-works.com	898-555-0137	kz7kmFKpPYor30M8eaO3PAziuYa/bYqwcKomnP2NlxU=	s9kzXNA=	2005-11-01 00:00:00
+29787	0	Mr.	Scott		Gode		Year-Round Sports	adventure-works\david8	scott4@adventure-works.com	164-555-0145	GkzDDuB6pTaET7MyM3Kpgh+sP0JyO6EvZnbS4ep3kEg=	3CEircg=	2005-08-01 00:00:00
+29788	0	Mr.	Mete		Goktepe		The New Bike Store	adventure-works\linda3	mete0@adventure-works.com	637-555-0120	cIKsu790VaU1891IzLoO2agtT2vvaOXkL3puAV90Zro=	7erbA0k=	2005-12-01 00:00:00
+29789	0	Mr.	Brian	R	Goldstein		Primary Bike Distributors	adventure-works\garrett1	brian4@adventure-works.com	495-555-0161	Pe7m3z2RtNe4D8mkkCKh3/WPMsONB78YR1Kip5zJwzs=	x4UseEA=	2005-08-01 00:00:00
+29792	0	Ms.	Abigail	J.	Gonzalez		Genial Bike Associates	adventure-works\jillian0	abigail0@adventure-works.com	121-555-0139	h5QUx4zv/ilF+lJ6Pgsyd5OP92KaOJDXklOB6qbWskk=	kAdG4pM=	2006-08-01 00:00:00
+29793	0	Mr.	Michael		Graff		Commercial Sporting Goods	adventure-works\shu0	michael16@adventure-works.com	132-555-0150	NRM1BXnt0/4EDaPuM5qday+BOZANEisKCyGGQqJxXpY=	ewV5lII=	2006-09-01 00:00:00
+29794	0	Mr.	Derek		Graham		Wholesale Parts	adventure-works\josé1	derek0@adventure-works.com	674-555-0187	FJJVccEFyVV8NubSxOFblRtnKqQD221f9AT9xxYTOUA=	8ju6sOA=	2005-08-01 00:00:00
+29796	0	Mr.	Jon		Grande		Riding Cycles	adventure-works\jae0	jon1@adventure-works.com	1 (11) 500 555-0114	26rwIeR9oyfo+P6lodeASP/MAC2/tdKFbmFVC5uBRmA=	83inWt0=	2007-09-01 00:00:00
+29797	0	Ms.	Jane	P.	Greer		Metro Manufacturing	adventure-works\josé1	jane2@adventure-works.com	737-555-0163	gCWE10xc3haq9E82Ksvg2GS6WBBD0H0ZF25YAS0CfJ8=	qxbTTkE=	2006-08-01 00:00:00
+29799	0	Mr.	Douglas		Groncki		Locks Company	adventure-works\shu0	douglas2@adventure-works.com	385-555-0140	J9nhrWh6kpc/dGBkN7HRxrrbquy1Rit9UMPv9rbYjBs=	KiAAI5M=	2007-09-01 00:00:00
+29800	0	Mr.	Brian		Groth		Latest Accessories Sales	adventure-works\david8	brian5@adventure-works.com	461-555-0118	tbk7TwAC5jsqEhFRRIhnL9kPBoTy3XS+EjlReKVp5mw=	hpOsvJU=	2006-08-01 00:00:00
+29803	0	Ms.	Hattie	J.	Haemon		Greater Bike Store	adventure-works\josé1	hattie0@adventure-works.com	141-555-0172	RLemw98UkhyklI9z6Kx01t3fpE6z6E9v5GdRReTdOIY=	8n38uVg=	2005-09-01 00:00:00
+29805	0	Ms.	Erin	M.	Hagens		Distant Inn	adventure-works\shu0	erin1@adventure-works.com	244-555-0127	92Sfw/bl0dUJO9SAfoKn452VJcstSo2lgAbSPk97nRA=	8soIcx8=	2006-07-01 00:00:00
+29806	0	Ms.	Betty	M.	Haines		Finer Mart	adventure-works\david8	betty0@adventure-works.com	867-555-0114	Q/nGAVzOO1ZT/4+BQ1kwltqQyzycLA2GGmDmBBxLMnM=	6IvcbVg=	2007-09-01 00:00:00
+29807	0	Mr.	Bryan		Hamilton		Cross-Country Riding Supplies	adventure-works\josé1	bryan2@adventure-works.com	344-555-0144	ftRWIIT4oF+if+ddn1ROYXHw6PAooKFX3uALZ0uEU98=	IRNPDIw=	2005-08-01 00:00:00
+29809	0	Mr.	Kerim		Hanif		Bike World	adventure-works\shu0	kerim0@adventure-works.com	216-555-0122	d0WSjosAd7Y3XOWjNAkoTClCb50vwPuAawOSI1iosgs=	33g5co8=	2006-09-01 00:00:00
+29810	0	Ms.	Jean	P.	Handley		Central Discount Store	adventure-works\david8	jean1@adventure-works.com	582-555-0113	o1GVo3vExeNzo0/ctdRGf2eDK3uzTlcUbr18tN+Slf8=	uMsvfdo=	2005-09-01 00:00:00
+29813	0	Ms.	Katherine		Harding		Sharp Bikes	adventure-works\josé1	katherine0@adventure-works.com	926-555-0159	uRlorVzDGNJIX9I+ehTlRK+liT4UKRgWhApJgUMC2d4=	jpHKbqE=	2005-08-01 00:00:00
+29815	0	Mr.	Lucy		Harrington		Metropolitan Sports Supply	adventure-works\shu0	lucy0@adventure-works.com	828-555-0186	KJqV15wsX3PG8TS5GSddp6LFFVdd3CoRftZM/tP0+R4=	cNFKU4w=	2006-09-01 00:00:00
+29816	0	Mr.	Keith		Harris		Progressive Sports	adventure-works\david8	keith0@adventure-works.com	170-555-0127	YPdtRdvqeAhj6wyxEsFdshBDNXxkCXn+CRgbvJItknw=	fs1ZGhY=	2006-08-01 00:00:00
+29818	0	Mr.	Roger		Harui		Brakes and Gears	adventure-works\linda3	roger0@adventure-works.com	774-555-0133	tkI9EcizphWPzkz7kDwsd2AnKnZJi3/6+V5/fIuXPpo=	sQMfTfM=	2005-08-01 00:00:00
+29819	0	Ms.	Ann	T.	Hass		The Accessories Store	adventure-works\jillian0	ann2@adventure-works.com	713-555-0168	lykTZ3vUjtqvW669XVLX3Gk9RrV2EBdorSOkebEHyvk=	M7xYGr4=	2006-08-01 00:00:00
+29822	0	Mr.	James	B.	Haugh	Jr.	Family Cycle Store	adventure-works\garrett1	james8@adventure-works.com	763-555-0120	qqWGyjPy74GLpFoYkhe3eQutrmixkWZkZHsl5d0mZpI=	TfeFfy4=	2006-09-01 00:00:00
+29824	0	Ms.	Brenda	F.	Heaney		Superb Sales and Repair	adventure-works\garrett1	brenda3@adventure-works.com	393-555-0167	RxykMRRwPRGYqzudPUFD1TKUT1bvgYanY1nsGIvL0Jo=	KnmJUbs=	2005-07-01 00:00:00
+29826	0	Mr.	John		Hanson		Countryside Company	adventure-works\linda3	john20@adventure-works.com	107-555-0117	2stwPzsfBnHlWJSw7+jrEjtXjaoxVkBMOVsluOUNpog=	zNDLlSI=	2006-10-01 00:00:00
+29827	0	Ms.	Valerie	M.	Hendricks		First Bike Store	adventure-works\jillian0	valerie0@adventure-works.com	859-555-0140	M5s53K3R8LqDXmLZX8/YZWvhkKuUo3dkpcmAFuw6d8U=	1lkXMps=	2005-07-01 00:00:00
+29830	0	Mr.	Kari		Hensien		General Department Stores	adventure-works\garrett1	kari0@adventure-works.com	143-555-0129	9q51LeEZWFDB+L+DtlRs239EjYmK9mN+eUjUvqLToLw=	niDlQYk=	2005-08-01 00:00:00
+29831	0	Ms.	Irene	J.	Hernandez		Operational Manufacturing	adventure-works\garrett1	irene0@adventure-works.com	790-555-0197	3A2aNKKLe47G95cy27tMj6HW1ov3nLIR530SWR/vrZ4=	uJ5Exxo=	2008-06-01 00:00:00
+29832	0	Mr.	Jésus		Hernandez		Online Bike Warehouse	adventure-works\josé1	jésus0@adventure-works.com	214-555-0145	oQESLWRzzA7xFmx/oeIwJrVckc/0dzUxgBru6ptUjqA=	Y/Ty5LA=	2006-09-01 00:00:00
+29834	0	Ms.	Cheryl	M.	Herring		Small Bike Shop	adventure-works\shu0	cheryl0@adventure-works.com	158-555-0154	RGd9trE6ku80EeSumu50h1MGol+lmzdeCrME1UBOKCA=	256h+G0=	2005-09-01 00:00:00
+29835	0	Mr.	Ronald	K.	Heymsfield		Superior Hardware Distributors	adventure-works\david8	ronald1@adventure-works.com	784-555-0120	BveRxEdkJ/QVGtSMNGrJu9cLHlihVb+wlFzxrHOsSkA=	DmNlCmQ=	2006-08-01 00:00:00
+29840	0	Mr.	Andrew	R.	Hill		Eastside Parts Shop	adventure-works\josé1	andrew4@adventure-works.com	194-555-0149	6kDCzX44wtxfxZaC28Ek1kf7IczJ9hxLvDx9DfU8B60=	m9GHYGc=	2007-09-01 00:00:00
+29842	0	Mr.	Mike		Hines		First Cycle Store	adventure-works\shu0	mike3@adventure-works.com	454-555-0160	gna2fhtLmKi5ZKr50RuPJEI5Vh/osfQgFxhjmQs0XpI=	wt1HllQ=	2005-09-01 00:00:00
+29843	0	Mr.	Matthew		Hink		Running and Cycling Gear	adventure-works\david8	matthew3@adventure-works.com	146-555-0176	q9I0z+PgMdt+yPOfNb1pj69QvJ3r8WuMzirXw4mW4BM=	hDyaJt4=	2007-09-01 00:00:00
+29847	0	Mr.	David		Hodgson		Good Toys	adventure-works\linda3	david16@adventure-works.com	969-555-0117	+gtwbVycsIIj2loVtrHNRN6IBLl20lQpRK8+JhzxyEo=	AwqZdYk=	2006-09-01 00:00:00
+29848	0	Ms.	Helge		Hoeing		Little Bicycle Supply Shop	adventure-works\jillian0	helge0@adventure-works.com	850-555-0198	hbXMO61Cy3vQxyCiHA7HyFryiQNgK7GAqMxsht+DVBI=	yvAO+sY=	2007-08-01 00:00:00
+29850	0	Mr.	Bob		Hodges		All Seasons Sports Supply	adventure-works\jillian0	bob2@adventure-works.com	129-555-0120	7n1V5i5pzSERgIgX+CGs3KdSRIWCKMMppAbccjLLWQQ=	FebyYno=	2007-07-01 00:00:00
+29851	0	Ms.	Jean	J.	Holloway		Leisure Clearing House	adventure-works\jae0	jean2@adventure-works.com	1 (11) 500 555-0181	Hx2n4MFm10Hr0PL/j104QJK1WuHogx9N0H2U16PqpeM=	v8LsuAE=	2006-08-01 00:00:00
+29852	0	Mr.	Eddie	M.	Holmes		The Commissary	adventure-works\josé1	eddie0@adventure-works.com	570-555-0199	ClF4Z2L4qQo1wgDJduU5/gxrvxuwBxlzP75SHI50bGM=	S111y4k=	2006-12-01 00:00:00
+29853	0	Ms.	Juanita	J.	Holman		Affordable Sports Equipment	adventure-works\shu0	juanita0@adventure-works.com	996-555-0196	aJNRDB5SUe0Z3cvfmFqrv/H8fOL9ZoIJhk2iqtM/244=	RvrCF5g=	2005-08-01 00:00:00
+29854	0	Mr.	Peter		Houston		Local Sales and Rental	adventure-works\jillian0	peter3@adventure-works.com	632-555-0171	NmON5fxy8YJbaxIrc6lSHicKQ9t/hBGfB1lwcWOr+xc=	Q5WaAeA=	2007-09-01 00:00:00
+29855	0	Mr.	Curtis	P.	Howard		Economy Center	adventure-works\josé1	curtis0@adventure-works.com	555-555-0162	mRsptWTaXRgSBaILQ+BYKXl50LdVbLPrHgVQDImm2mc=	e139ONA=	2005-08-01 00:00:00
+29857	0	Ms.	Janice	K.	Hows		Area Sheet Metal Supply	adventure-works\jae0	janice1@adventure-works.com	1 (11) 500 555-0119	vMyt8M0mW0ueXgZQ1RobrccRTzB3IVXOkX5Zy5h5a/A=	Qtn1h+4=	2006-08-01 00:00:00
+29858	0	Mr.	George	M.	Huckaby		Synthetic Materials Manufacturing	adventure-works\pamela0	george1@adventure-works.com	851-555-0127	BEq/PlDx4jHq8M8eOxUHo3LyOu4Aetq3bsbr8QlvMuI=	GVMmXow=	2006-01-01 00:00:00
+29859	0	Mr.	Joshua	J.	Huff		Rural Sales and Service	adventure-works\jillian0	joshua0@adventure-works.com	190-555-0186	zOvX8kRn4fdhAQJxa8bWrWKsuorYlcuOn6PsgZy7o0c=	HQlRLlk=	2006-03-01 00:00:00
+29860	0	Ms.	Arlene		Huff		Tubeless Tire Company	adventure-works\jae0	arlene0@adventure-works.com	1 (11) 500 555-0146	V+NOGsSc50L8026bnGkDjKzDoI/ND88zeG1cDP5uO7Q=	SC/mXZQ=	2007-08-01 00:00:00
+29861	0	Ms.	Phyllis	R.	Huntsman		Hardware Components	adventure-works\jillian0	phyllis1@adventure-works.com	153-555-0195	p/kLCLWcvgvL26dkJoqHo4GqZmYGVWCYCrBwbhTLKtY=	gJeczkk=	2005-08-01 00:00:00
+29862	0	Mr.	Lawrence	E.	Hurkett		Retail Sporting Goods	adventure-works\shu0	lawrence0@adventure-works.com	129-555-0185	2d7alYFBKkadQ4uQc1u70/bdOXfmqCXEr5kCDqYMEc4=	hGtKm+M=	2006-10-01 00:00:00
+29863	0	Mr.	Ryan		Ihrig		Efficient Cycling	adventure-works\josé1	ryan4@adventure-works.com	809-555-0152	6UfB6OlcKQXLjWHj+yl3Ck3STFhp4YRHN/aojcUvsb0=	HGudpUM=	2007-08-01 00:00:00
+29864	0	Ms.	Beth		Inghram		General Industries	adventure-works\josé1	beth0@adventure-works.com	718-555-0152	F+vY3tSf0ZDAiQakfFA7yxIP0M8ljrI5oYD1F1iZt4w=	H5fjp4Y=	2006-09-01 00:00:00
+29865	0	Mr.	Lucio		Iallo		Highway Bike Shop	adventure-works\shu0	lucio0@adventure-works.com	199-555-0135	YodKwREGttzzQZXSLkjMe6ipm+9hE2yzBmAYNlj3qKM=	7hC00f0=	2005-08-01 00:00:00
+29866	0	Mr.	Richard	L.	Irwin		Rental Bikes	adventure-works\jillian0	richard4@adventure-works.com	367-555-0124	h5MoUod8rV39hjm6vrOX+iiVre1Alla8UfBtwIodbOg=	B/Jr1SE=	2005-08-01 00:00:00
+29867	0	Mr.	Erik		Ismert		Roving Sports	adventure-works\pamela0	erik0@adventure-works.com	116-555-0163	qH31PnQBwyUFQKdjw4bJmkw4mcqJUwRlENuk3bHLNx4=	xAk6xGo=	2006-07-01 00:00:00
+29868	0	Ms.	Denean	J.	Ison		Express Bike Services	adventure-works\jae0	denean0@adventure-works.com	1 (11) 500 555-0127	RJeObGR0plv36VFq0yPWZGwFUAeTDIWG4sJppheOSaM=	mZ4Tbi0=	2007-08-01 00:00:00
+29870	0	Mr.	Bronson	R.	Jacobs		Retail Discount Store	adventure-works\josé1	bronson0@adventure-works.com	697-555-0131	qD4cGE0DTDO7V/k6mu0nvfAt3rfbx4PQyYjp43hn+ik=	rLOroU0=	2008-06-01 00:00:00
+29871	0	Mr.	Eric	A.	Jacobsen		Vale Riding Supplies	adventure-works\shu0	eric5@adventure-works.com	703-555-0120	KONBZCeYvjn9uAVeRFeN0CzMQcKJjrofhFrGTXAscDI=	3V8BWNc=	2007-07-01 00:00:00
+29872	0	Ms.	Jodan	M.	Jacobson		A Great Bicycle Company	adventure-works\jillian0	jodan0@adventure-works.com	652-555-0189	PSKz4q56IqL3q9GPJjYwAKKz2sFtFqkN9n9dfiu1q+0=	F/sb/Xc=	2005-09-01 00:00:00
+29873	0	Ms.	Mary		Alexander		Certified Bicycle Supply	adventure-works\pamela0	mary7@adventure-works.com	344-555-0133	y0iroPvPC4eEspx+3ldDYTXprGyXnnCpLGd3uXHr/+A=	F1wnUPk=	2006-09-01 00:00:00
+29874	0	Mr.	David		Jaffe		Exceptional Cycle Services	adventure-works\jae0	david17@adventure-works.com	1 (11) 500 555-0140	FGdnPYTMqac/OnHuvpZH+gBqo30RCSqFL8kFsXLMOlI=	AnSCCJw=	2007-07-01 00:00:00
+29876	0	Ms.	Vance	P.	Johns		Leisure Activities	adventure-works\josé1	vance0@adventure-works.com	103-555-0151	SjhcbJpcpaWw4QjUCmjWLcY825LVBVxAVlKUVRGVC/0=	Tb+oJnk=	2006-08-01 00:00:00
+29877	0	Ms.	Joyce		Jarvis		Paints and Solvents Company	adventure-works\shu0	joyce0@adventure-works.com	458-555-0179	HdGP+FhhGf8dYBcwT4pIsPs6mdixGxg1UVN0kMtW2Jk=	XdEyqf4=	2007-09-01 00:00:00
+29879	0	Mr.	Stephen	Yuan	Jiang		Bikes for Kids and Adults	adventure-works\josé1	stephen3@adventure-works.com	910-555-0116	SqD2biQr39fo9zJnjNrYH0b9Ww+jQyq4h+t6vSz0/4M=	8fDglPw=	2006-07-01 00:00:00
+29881	0	Ms.	Danielle	B.	Johnson		Home Town Bike Store	adventure-works\garrett1	danielle1@adventure-works.com	356-555-0190	b0w+/GVSsenvVoXksIyrBh+BGRKEIsId9aOsMDCOZi8=	W1IKTDo=	2007-09-01 00:00:00
+29883	0	Mr.	Barry		Johnson		Sample Bike Store	adventure-works\linda3	barry1@adventure-works.com	858-555-0140	lepgCpcuzDRNfqPaAgUacRzPVGGXHwiRm7wwJ4cNgBs=	lkPNcdI=	2005-09-01 00:00:00
+29884	0	Mr.	Brian		Johnson		Extras Sporting Goods	adventure-works\jillian0	brian6@adventure-works.com	320-555-0134	TGnRB6vDbV0LZss8tA9iu637/34mcJWkD0Ux4xaza/k=	2t9hMlk=	2007-03-01 00:00:00
+29885	0	Mr.	David		Johnson		Sure & Reliable Sporting Goods	adventure-works\david8	david18@adventure-works.com	476-555-0139	tw+fIchafvuaOuwyEXmlXbPr9Vt3EILylHlmwfm6Gig=	0fgKxF4=	2005-08-01 00:00:00
+29889	0	Ms.	Jean		Jordan		Separate Parts Corporation	adventure-works\shu0	jean3@adventure-works.com	207-555-0129	Fz+NYcaaq3h6DqGHlfln+rg8Acm2x1ZGxvEayxBvctA=	RqNfsHY=	2005-07-01 00:00:00
+29890	0	Ms.	Peggy	J.	Justice		Basic Bike Company	adventure-works\david8	peggy0@adventure-works.com	170-555-0189	C4CbjWP+J+L/5D9jekqIDsijBR8VvJlpu7IxqSE3ckI=	GR7idhc=	2005-07-01 00:00:00
+29891	0	Ms.	Diane	F.	Krane		Fabrikam Inc., West	adventure-works\michael9	diane4@adventure-works.com	224-555-0126	IQvtwGrIwRDX9ZHmv+WXAmqiXokkD7MT/x8ZdSBArjo=	6xHx1mQ=	2006-09-01 00:00:00
+29892	0	Ms.	Sandra	T.	Kitt		Non-Slip Pedal Company	adventure-works\josé1	sandra2@adventure-works.com	303-555-0117	d8QmW8XwLDvVvz9RYBNkv59Snnfp3tdnQQ/IZ0UEV9U=	FccEr0Q=	2005-08-01 00:00:00
+29893	0	Mr.	Sandeep		Kaliyath		Weekend Bike Tours	adventure-works\shu0	sandeep1@adventure-works.com	495-555-0113	Rrgza3uGhmNF9StSEGpXIJ5moVVsmcjhGDjdCAPyMnc=	ekE0M9I=	2007-07-01 00:00:00
+29895	0	Ms.	Lori		Kane		General Supplies	adventure-works\josé1	lori2@adventure-works.com	765-555-0141	AI+KoUdA4XQcOZdVLM5fW573x+opUHDHSXxhPuylCL4=	s0Fgpmc=	2006-08-01 00:00:00
+29897	0	Ms.	Kay	E.	Krane		Racing Toys	adventure-works\shu0	kay0@adventure-works.com	731-555-0187	GEdCYauvHekFxYpM0bYn4e0ipp8SY+vTyO9aqudo25Y=	hvfA+Y0=	2005-09-01 00:00:00
+29898	0	Mr.	Sandeep		Katyal		Capable Sales and Service	adventure-works\pamela0	sandeep2@adventure-works.com	928-555-0117	EAI1ECvxzm9o9MbS8sPVK9QqTkerK/+KO5Wt6escxwY=	7xO2UQE=	2005-07-01 00:00:00
+29900	0	Mr.	Victor	A.	Kelley		Road Way Sales and Rental	adventure-works\josé1	victor0@adventure-works.com	112-555-0195	Mm7GafEB1oHJXept9uxIAGnsc2jKRzr0UgDRANPqAsI=	j/3FTKs=	2006-12-01 00:00:00
+29901	0	Mr.	John		Kelly		Sturdy Toys	adventure-works\shu0	john22@adventure-works.com	330-555-0116	tYV64ygQjda9WaWGc8CfVwqOiTHscX15aCHq9OPvjkw=	a2bt7rI=	2005-08-01 00:00:00
+29902	0	Mr.	Robert		Kelly		Beneficial Exercises and Activities	adventure-works\jillian0	robert7@adventure-works.com	510-555-0123	JM8Jl1msELWEL8AlgkQ/cej3rlO0TFq13PfmQ/bHakM=	OLqP9tg=	2006-09-01 00:00:00
+29903	0	Mr.	Kevin		Kennedy		Fad Outlet	adventure-works\pamela0	kevin4@adventure-works.com	275-555-0179	FI+QpFgzPmmfZMk6bavb0AtoPMvD4CZ/+wGuwYgso3g=	B+59kWs=	2006-09-01 00:00:00
+29904	0	Ms.	Mary	R.	Kesslep		Commerce Bicycle Specialists	adventure-works\jae0	mary8@adventure-works.com	1 (11) 500 555-0146	7OO7XsLMZcOhwoxw8KRfz/SjxQ3qCIVQqjRMtpyV/EY=	J1cVbE8=	2006-08-01 00:00:00
+29905	0	Ms.	Elizabeth		Keyser		Acceptable Sales & Service	adventure-works\josé1	elizabeth2@adventure-works.com	656-555-0173	gD2lOrxAy3p4xvTGUYnECk5ROZd03OslvHCY+XDxQwI=	/P0XMaQ=	2005-08-01 00:00:00
+29906	0	Mr.	Imtiaz		Khan		District Mall	adventure-works\jillian0	imtiaz0@adventure-works.com	249-555-0179	NiUsCVv2EYAYfE2mK4VPPDgV7BXgOR4eQ4yVOvsOG1A=	Cdwoi3o=	2005-08-01 00:00:00
+29907	0	Ms.	Karan		Khanna		Fitness Supplies	adventure-works\pamela0	karan1@adventure-works.com	390-555-0150	KQnTVrF88pDtzAwfV+7dDpsvf4FFaBRltsryZggImmI=	jZhDom8=	2007-08-01 00:00:00
+29908	0	Mr.	Joe		Kim		Mail Market	adventure-works\jae0	joe1@adventure-works.com	1 (11) 500 555-0144	/1zuZO01NBBN+zaoVVHAp+srLdfFp0nBmPrSBGPulOc=	jMsXQbs=	2007-08-01 00:00:00
+29910	0	Mr.	Shane	S.	Kim		Twelfth Bike Store	adventure-works\josé1	shane2@adventure-works.com	155-555-0149	XRbPUzkzKesTrEzvftw5uMTagaFkYgTZJJlBScNp0hc=	4YXPsTU=	2006-08-01 00:00:00
+29911	0	Mr.	Tim		Kim		Consolidated Messenger	adventure-works\garrett1	tim0@adventure-works.com	244-555-0115	tgMDK3qjc6HiiWHXztTrPQw/eEJWy2T9OWRLlcrhhbM=	W9zzlRs=	2007-08-01 00:00:00
+29913	0	Mr.	Anton		Kirilov		Field Trip Store	adventure-works\linda3	anton0@adventure-works.com	608-555-0162	MA3e45BYPTDfQV7Kwg+fh94UR4S5kCbr0wdRqncaG0o=	0sZGs8c=	2006-08-01 00:00:00
+29914	0	Mr.	Christian		Kleinerman		Finish and Sealant Products	adventure-works\shu0	christian1@adventure-works.com	362-555-0177	v9tjo4izinAmIevwhur1w9F/Wj0yCIj1eXG0q2dFc1s=	7uZHIds=	2005-09-01 00:00:00
+29915	0	Mr.	Andrew	P.	Kobylinski		Finer Parts Shop	adventure-works\david8	andrew5@adventure-works.com	129-555-0185	kV0cL2OLqsK4OFtnZiL106gAKEZOBwGuAVYOYakH0kM=	GAfxRv4=	2005-12-01 00:00:00
+29918	0	Mr.	Kirk	T	King		Up-To-Date Sports	adventure-works\josé1	kirk2@adventure-works.com	979-555-0163	056V7iOc8FPUiLanlyEqQX6cAWuL0TJ8fQBhX7mEjMU=	b96sfSU=	2007-08-01 00:00:00
+29919	0	Mr.	Eugene		Kogan		Mountain Bike Center	adventure-works\shu0	eugene2@adventure-works.com	136-555-0134	Tp1Zre+rOA0pmlkyosHvuAxhbMWt7UcvCPrAYmXyI+w=	GdsdWsk=	2006-08-01 00:00:00
+29920	0	Mr.	Scott		Konersmann		Specialty Sports Store	adventure-works\jillian0	scott6@adventure-works.com	556-555-0192	2WMJfIzZjrB1xeQtjtSTUQfxxeowOV9LmAjmUkH/qP4=	A+rOrG0=	2006-07-01 00:00:00
+29921	0	Ms.	Joy	R.	Koski		Scooters and Bikes Store	adventure-works\pamela0	joy0@adventure-works.com	810-555-0198	tTeR7tEh6XEQtr0WQ2eXrHrqjsOt2mdihjWZ3c4q50s=	IrqLpXQ=	2005-09-01 00:00:00
+29922	0	Ms.	Pamala	M.	Kotc		Closest Bicycle Store	adventure-works\jae0	pamala0@adventure-works.com	1 (11) 500 555-0173	3nXek8BFNaBhIi8CwSzQOVdo1ZthphI3kGbZTrt6jNM=	/rh9tFs=	2007-09-01 00:00:00
+29924	0	Mr.	Mitch		Kennedy		Reasonable Bicycle Sales	adventure-works\shu0	mitch0@adventure-works.com	996-555-0192	Re4KikAJLZeLX+pM2Bw7HZNkd5Yyd/vrGB7WhjbYmCo=	lGI5cA0=	2006-08-01 00:00:00
+29925	0	Ms.	Margaret	T.	Krupka		Outdoor Sports Supply	adventure-works\pamela0	margaret1@adventure-works.com	107-555-0132	dI+A6Ikk6Eh9ypKYxrAEHGdSxjzUhy8bEyDdFjggW9g=	09k9Tis=	2005-08-01 00:00:00
+29926	0	Mr.	Deepak		Kumar		Outdoor Aerobic Systems Company	adventure-works\jae0	deepak0@adventure-works.com	1 (11) 500 555-0122	0d3F0pfNxXFKEufM738j3/fA0at2eUlZA8ibqRnMr7M=	6fOTb8g=	2007-08-01 00:00:00
+29928	0	Mr.	Vamsi		Kuppa		Metal Clearing House	adventure-works\josé1	vamsi1@adventure-works.com	290-555-0196	6p4SZnWdWPrBclHkaWFeooblNWE+Y4VJiuTM9hyonDI=	HaDRSbY=	2007-08-01 00:00:00
+29929	0	Mr.	Jeffrey		Kurtz		Many Bikes Store	adventure-works\shu0	jeffrey3@adventure-works.com	452-555-0179	zn3Nk0+i/zyvxFNh3OziN2Pxa3NfiIlVMJ9Ox86ytao=	5MZXwF4=	2006-09-01 00:00:00
+29930	0	Mr.	Peter		Kurniawan		Largest Bike Store	adventure-works\jillian0	peter4@adventure-works.com	436-555-0160	el1s9e+hWeb+79bwrhU+hxHEyJN+j6tR8vWyKJDZmTs=	QgzjTPU=	2005-11-01 00:00:00
+29931	0	Mr.	Eric		Lang		Kickstands and Accessories Company	adventure-works\pamela0	eric6@adventure-works.com	932-555-0163	katp5sn21ZqJq5Z26YRBk9XXP3iFjpsX7tNPYAAxZlI=	xw9RymE=	2007-09-01 00:00:00
+29932	0	Ms.	Rebecca		Laszlo		Instruments and Parts Company	adventure-works\jae0	rebecca2@adventure-works.com	1 (11) 500 555-0155	ox4SPBzzVPKyCVoIcZvkdVLtnQlKoDXCciBGcqVAfrI=	n7ydrrc=	2007-09-01 00:00:00
+29934	0	Mr.	David	O	Lawrence		Gear-Shift Bikes Limited	adventure-works\josé1	david19@adventure-works.com	653-555-0159	HyZexVTTLfKfhx/Sb+XHQb4vta2LC1FD3OYIkpmzMlQ=	/kc6RdY=	2006-12-01 00:00:00
+29935	0	Ms.	Elsa		Leavitt		Frugal Bike Shop	adventure-works\shu0	elsa0@adventure-works.com	482-555-0174	BmJaM+147GrhU00kNTtaTolp0EJcarJK/SCfew4ZiYA=	YADhpPo=	2006-08-01 00:00:00
+29936	0	Mr.	Michael	J.	Lee		Family Entertainment Center	adventure-works\pamela0	michael18@adventure-works.com	396-555-0139	A6RveLbS4qIaP/sOesBWwK7KlcShNP0N7DDN2VRWxYk=	vhvGQUE=	2007-08-01 00:00:00
+29937	0	Ms.	Marjorie	M.	Lee		Go-cart and Bike Specialists	adventure-works\jillian0	marjorie0@adventure-works.com	306-555-0166	viR4W7eY7DDH81eAFhdKTb8Hft5EM8K5CcxdoPdoqgs=	ZcFvFFc=	2006-07-01 00:00:00
+29938	0	Mr.	Frank		Campbell		Trailblazing Sports	adventure-works\shu0	frank4@adventure-works.com	491-555-0132	XKb/GbNNUPKesifxpBwavz3wz5Y3jbFPJgsBIVEFvO0=	/9h1e7s=	2005-09-01 00:00:00
+29939	0	Mr.	Mark		Lee		Racing Partners	adventure-works\josé1	mark5@adventure-works.com	371-555-0112	Lk6x4lbbepoCdlNUxLYjn6D3zCWVxEKiK2DwxCURAis=	s7z2FRc=	2007-09-01 00:00:00
+29941	0	Ms.	Jolie		Lenehan		Exhibition Showroom	adventure-works\jae0	jolie0@adventure-works.com	1 (11) 500 555-0126	qUddcyDDhMORzm2Tp3YcC3vD7dXKgTEDtTorjPbhbmk=	C2IP7to=	2007-07-01 00:00:00
+29942	0	Mr.	Roger		Lengel		Authorized Bike Sales and Rental	adventure-works\pamela0	roger1@adventure-works.com	947-555-0143	LoVploOms9pM4zQpIHQdGFLraQGd2ZtmlhGCKz8RxZk=	1PXmt4Y=	2007-08-01 00:00:00
+29943	0		A.	Francesca	Leonetti		Two-Seater Bikes	adventure-works\jillian0	a0@adventure-works.com	645-555-0193	M2iP88O+gIF88E9NpBhI0baOUusaGXrum+clJ/miHO8=	6UypM3o=	2007-09-01 00:00:00
+29944	0	Ms.	Bonnie	B.	Lepro		More Bikes!	adventure-works\linda3	bonnie2@adventure-works.com	354-555-0130	QFcESEnv3fd3s0KxftaNIRbKv6ba7PNXWLVrlx/mrF4=	WVm7PpY=	2005-09-01 00:00:00
+29946	0	Ms.	Linda		Leste		National Manufacturing	adventure-works\garrett1	linda7@adventure-works.com	493-555-0134	heRwLFQMae6Y0X7+Q7tLrq4gB5sXd8jC7uiIjXlEs6Y=	OHu+9rc=	2005-08-01 00:00:00
+29948	0	Ms.	Elsie	L.	Lewin		Town Industries	adventure-works\jillian0	elsie0@adventure-works.com	803-555-0116	sbrtAXJY79C5nTfNaktfR5zn9+uSLMSL26NETFSeEas=	UUwXzgY=	2007-09-01 00:00:00
+29949	0	Mr.	George	Z.	Li		Security Racks and Locks Wholesalers	adventure-works\shu0	george3@adventure-works.com	699-555-0183	y3YyySPHg7l+/+LZkIFmyZ7gE+BOIOdPEq+t+oE093g=	4m5UYgM=	2006-08-01 00:00:00
+29950	0	Mr.	Yale		Li		Rapid Bikes	adventure-works\josé1	yale0@adventure-works.com	316-555-0138	B2RR480ridZSqURXY3APlxFk13GITW6LDFutGbpSUIs=	5MEUKYU=	2005-09-01 00:00:00
+29952	0	Ms.	Yuhong		Li		Nearby Sporting Goods	adventure-works\jae0	yuhong1@adventure-works.com	1 (11) 500 555-0176	XrcuygOte7eGdTleJOKDmf/XBySqc/0xVbjpIPzMWQA=	R273GbA=	2006-08-01 00:00:00
+29953	0	Mr.	Joseph	M.	Lique		Front Sporting Goods	adventure-works\pamela0	joseph2@adventure-works.com	119-555-0195	7dnLSdRuWFKBMjmORanIkwGVy3smf5yZI3YxSSyd5/U=	jH5dJh4=	2006-08-01 00:00:00
+29954	0	Mr.	Paulo	H.	Lisboa		Elite Bikes	adventure-works\jillian0	paulo0@adventure-works.com	380-555-0116	MO2kc8uiSARHp+gxFShJchORmBfhfAz+NC31TDVciS8=	QXbFwBQ=	2006-09-01 00:00:00
+29955	0	Mr.	David	J.	Liu		Catalog Store	adventure-works\michael9	david20@adventure-works.com	440-555-0132	61zeTkO+eI5g8GG0swny8Wp/6GzZMFnT71fnW4lTHNY=	c7Ttvv0=	2005-08-01 00:00:00
+29956	0		Jinghao		Liu		Chic Department Stores	adventure-works\jillian0	jinghao1@adventure-works.com	928-555-0116	IaD5AeqK9mRiIrJi/etZGVO6EiybLf/oksA2CqrpoJ0=	p6pOqKc=	2006-09-01 00:00:00
+29957	0	Mr.	Kevin		Liu		Eastside Department Store	adventure-works\linda3	kevin5@adventure-works.com	926-555-0164	ylTpkIOHKLcjihNjS0j/k10eOHOsWQMNhlbuOCp+UTY=	TgZnUOg=	2006-09-01 00:00:00
+29959	0	Mr.	Todd	R.	Logan		Cycle Merchants	adventure-works\garrett1	todd0@adventure-works.com	783-555-0110	FV6z03ywMJOumcU+TEoL/Z/s4YP2fe8B3MJUUTA0CHU=	mFRhaEg=	2006-09-01 00:00:00
+29962	0	Ms.	Sharon	J.	Looney		Fitness Hotel	adventure-works\jillian0	sharon2@adventure-works.com	377-555-0132	Uo3kAuNh936QfPTIfPt6I6Z3+olLMRu5IC5awuzDaG8=	uHgb0IU=	2006-09-01 00:00:00
+29964	0	Ms.	Anita	R.	Lucerne		Grand Industries	adventure-works\garrett1	anita0@adventure-works.com	164-555-0118	YYTwMHBzX9ZM2XoYAzTo7bVfsHm05BO3Sl1+sokcRjM=	Zb6O1a0=	2007-09-01 00:00:00
+29967	0	Ms.	Judy	R.	Lundahl		Leading Sales & Repair	adventure-works\jillian0	judy1@adventure-works.com	260-555-0130	VzG/BDjkh2mMWAn2eZ/FQDI5/pGurtzdCfxTaCf6zAs=	N5Ajt+s=	2005-09-01 00:00:00
+29969	0	Mr.	Robert	P.	Lyeba		Tandem Sales and Service	adventure-works\garrett1	robert8@adventure-works.com	631-555-0155	5obs6LI7GwHZ55lps26uIsPyz7E4xBxF6pdB5KYAnn0=	/Q1sZG0=	2005-09-01 00:00:00
+29971	0	Mr.	Robert		Lyon		Reliable Retail Center	adventure-works\garrett1	robert9@adventure-works.com	666-555-0143	4wMARaGSdJ36NMWSghaEHOvqGA6TSKb3JZJ8QlNfnok=	0JS3VLg=	2006-09-01 00:00:00
+29973	0	Ms.	Denise	R.	Maccietto		Friendly Bike Shop	adventure-works\michael9	denise1@adventure-works.com	537-555-0190	qE35+Yj4hYU97ToV8hswsOzcxEz23lHAGGrIx9xL2YY=	DfqJQ4g=	2005-10-01 00:00:00
+29974	0	Mr.	Scott		MacDonald		Yellow Bicycle Company	adventure-works\jillian0	scott7@adventure-works.com	470-555-0171	E1wwrSH3sVJUF8UlhuAF+A5UTcdr1LObJBI67CvopDA=	LqtoWXs=	2005-07-01 00:00:00
+29975	0	Mr.	Walter	J.	Mays	Sr.	Sports Products Store	adventure-works\linda3	walter1@adventure-works.com	245-555-0191	PubfC/rRrBqx4Duzd5die33tt0m74frlazigsOv3D7s=	IZ6tF0Y=	2006-09-01 00:00:00
+29978	0	Mr.	Ajay		Manchepalli		Shipping Specialists	adventure-works\jae0	ajay0@adventure-works.com	1 (11) 500 555-0174	eVyn3oU+PF4k5dUPOBDIl+7JqQhO17DiG/iJE8dPkgc=	MYqiM6w=	2008-02-01 00:00:00
+29980	0	Mr.	Tomas	M.	Manzanares	II	Authentic Sales and Service	adventure-works\jae0	tomas0@adventure-works.com	1 (11) 500 555-0178	jlXuo2MxBdUaBFU1a7LQeFlHkJUTu5koo+dBRsKSbrw=	blIz9rk=	2006-09-01 00:00:00
+29981	0	Ms.	Kathy	R.	Marcovecchio		Official Parts Shop	adventure-works\pamela0	kathy0@adventure-works.com	942-555-0141	EQfen7Xb4ZYQG6fC/yOA9SRKRw4HtLTBSHq1n1yOiAs=	LH8E+mM=	2006-07-01 00:00:00
+29982	0	Ms.	Melissa	R.	Marple		Discount Tours	adventure-works\shu0	melissa0@adventure-works.com	685-555-0117	UbL/DUTnTSqLeeA4RQCXS5ofw+ATOi1iWyGfuy/PO6g=	CAB+B+I=	2005-12-01 00:00:00
+29983	0	Ms.	Cecelia	L.	Marshall		Tire Exchange	adventure-works\josé1	cecelia0@adventure-works.com	394-555-0168	Io27wVPQenseFjuryNClpoCLiH0HtpKdgQrqYO9W/OQ=	1sXsDEE=	2006-08-01 00:00:00
+29985	0	Ms.	Linda		Martin		Oils and Fluids Warehouse	adventure-works\jae0	linda8@adventure-works.com	1 (11) 500 555-0137	lePksYQQH7iiujo49o5l9u2k6fs+JCFtUHkyVL8P7WM=	JYjWVqI=	2006-08-01 00:00:00
+29987	0	Mr.	Frank		Mart¡nez		Rally Master Company Inc	adventure-works\shu0	frank5@adventure-works.com	171-555-0147	om5PZqKM1Q45cWiYPIrXl/Aae/JkbppbhDiC35ExpI8=	6YiQ2V8=	2007-07-01 00:00:00
+29988	0	Mr.	Steve		Masters		Professional Cyclists	adventure-works\josé1	steve2@adventure-works.com	154-555-0115	yFi3yGOATh6SBDVcA2+76Fx57aewXlckixsLIK6rBQ8=	WWk6sxA=	2005-08-01 00:00:00
+29990	0	Ms.	Jennifer	J.	Maxham		Exclusive Bicycle Mart	adventure-works\jae0	jennifer1@adventure-works.com	1 (11) 500 555-0175	7Rt3EiYjLXevQHTKMCMAavZEDngeIlBpAJZwplBW0G0=	M6OjY4Y=	2006-08-01 00:00:00
+29991	0	Mr.	Chris		Maxwell		City Manufacturing	adventure-works\pamela0	chris6@adventure-works.com	642-555-0187	ixajZho2s3ev/ogNQ9FUe1TyfA9yX1aEVWDOy/mdUAU=	k3iiros=	2006-11-01 00:00:00
+29992	0	Ms.	Sandra	B.	Maynard		Bike Dealers Association	adventure-works\shu0	sandra4@adventure-works.com	993-555-0179	iPjYe483dSgp0POtxsJVNCcegR3PdCK33L1Elr6F14w=	CqQEYuw=	2005-07-01 00:00:00
+29994	0	Ms.	Robin	M.	McGuigan		Health Spa, Limited	adventure-works\josé1	robin0@adventure-works.com	431-555-0153	fLh6z9dFddA6FLXlQVHhI5C9QbgD7gDHv63wFwwLzx8=	OtAJEtc=	2005-07-01 00:00:00
+29997	0	Ms.	Lola	M.	McCarthy		Closeout Boutique	adventure-works\david8	lola0@adventure-works.com	173-555-0151	FA9j5YePslFGxxwINV2WNFLdtlbCtTK0YuF06zPc16Q=	ojfzrl4=	2006-08-01 00:00:00
+29998	0	Ms.	Jane	A.	McCarty		Bicycle Merchandise Warehouse	adventure-works\shu0	jane3@adventure-works.com	529-555-0195	ZoY0+khcW5IFNHszZdW3+g5b7xWZLakfBmLzPRGtfpI=	cpPYnNE=	2006-09-01 00:00:00
+30000	0	Mr.	James	L.	McCoy	II	Leather Seat Factory	adventure-works\josé1	james12@adventure-works.com	191-555-0151	7fCBS9M7J3qJvmN3sgO/fbT2ap3vnYQ/k+fKjaHYP/0=	r9owTtw=	2006-07-01 00:00:00
+30003	0	Ms.	Yvonne		McKay		Practical Bike Supply Company	adventure-works\jillian0	yvonne1@adventure-works.com	623-555-0144	CzoEFQ0OfYtg1bNPN/BfavRr5F/ulWLF9VIraghdmZo=	pXNy1Eg=	2005-09-01 00:00:00
+30004	0	Ms.	Nkenge		McLin		Some Discount Store	adventure-works\pamela0	nkenge0@adventure-works.com	158-555-0123	mGggzeGp9z6TPCUrzGWt1N9gNU1CoQ+Cuu8cxh8uig4=	NNRxDmg=	2005-08-01 00:00:00
+30005	0	Ms.	Nancy	A.	McPhearson		Variety Cycling	adventure-works\jae0	nancy3@adventure-works.com	1 (11) 500 555-0195	jI4Q0GjuXuPicv1G1Kd3ZluvRH4IsSCG13q/+rCAqW8=	qcerumU=	2007-08-01 00:00:00
+30007	0	Ms.	Raquel		Mello		Remote Bicycle Specialists	adventure-works\josé1	raquel0@adventure-works.com	723-555-0124	GMyxAFJL1Mwg+3iSBTMKDohFkSy5NKqGrVo0rL23S4I=	Ap+5ADc=	2006-09-01 00:00:00
+30008	0	Mr.	R. Morgan	L.	Mendoza		Friendly Neighborhood Bikes	adventure-works\jillian0	rmorgan0@adventure-works.com	963-555-0146	SDOw6y7IRVh0ifbtO1Ue2Fb8cig2n0DkW+K3kmjQ/Xc=	K0sYx+Y=	2007-06-01 00:00:00
+30010	0	Mr.	Stephen	A.	Mew		Recommended Bicycles	adventure-works\garrett1	stephen4@adventure-works.com	399-555-0114	pBvyGgTluk2JUwL/bK3NlXBRBgSUVk5HgHHhc2gU89k=	xdzdXEw=	2005-11-01 00:00:00
+30012	0	Ms.	Helen	M.	Meyer		Alpine Ski House	adventure-works\linda3	helen2@adventure-works.com	519-555-0112	xYJSzxUQxGXkjj+EUMGu3jCaA5aPco7WAdw+VZtUbUM=	v1Ew2R4=	2005-11-01 00:00:00
+30016	0	Mr.	Thomas	R.	Michaels		Seats and Saddles Company	adventure-works\garrett1	thomas2@adventure-works.com	162-555-0174	sGgVDtQybwwnAik3qbQBE+iRRjlk0ahJmqvKjTGFq5I=	aOFmjMY=	2006-11-01 00:00:00
+30018	0	Ms.	Virginia	L.	Miller		All Cycle Shop	adventure-works\pamela0	virginia0@adventure-works.com	918-555-0127	2LMYXdm0nvmWcT+Md+NaYmfIPgdmP0R2PiRoynq7WCk=	GNkVrfA=	2006-07-01 00:00:00
+30019	0	Mr.	Matthew	J.	Miller		Tachometers and Accessories	adventure-works\jae0	matthew5@adventure-works.com	1 (11) 500 555-0176	/hDOTbr9X/E4UE8H6wjOGHYZ6Gb8GDpmutPWgFTXQnc=	eiCRDs8=	2006-09-01 00:00:00
+30021	0	Mr.	Ben		Miller		Low Price Cycles	adventure-works\josé1	ben1@adventure-works.com	207-555-0167	d8+17xmtxYv0ovo+dfdJCIe7zpoChbE+X4f+gQrPU3A=	6CMCzUQ=	2007-08-01 00:00:00
+30022	0	Mr.	Dylan		Miller		Metropolitan Manufacturing	adventure-works\shu0	dylan1@adventure-works.com	140-555-0192	kE/AZF2xtlVStSAI51sBwnA1CENgrWppF3qD5KxBdVE=	q1lJvKo=	2005-11-01 00:00:00
+30023	0	Mr.	Frank		Miller		Orange Bicycle Company	adventure-works\jillian0	frank6@adventure-works.com	118-555-0184	h7ho5pw1ypORUO13IMzogsDDW1C9bUTmGWsz06Xax8E=	n/q5ims=	2006-08-01 00:00:00
+30024	0	Ms.	Neva	M.	Mitchell		Riding Associates	adventure-works\pamela0	neva0@adventure-works.com	992-555-0134	xUl8Ag905RQfEG81+mYFO378kfiUUFE0TsYSJ1+rU9I=	ru6E/qg=	2007-08-01 00:00:00
+30025	0	Ms.	Linda		Mitchell		Essential Bike Works	adventure-works\jae0	linda9@adventure-works.com	1 (11) 500 555-0182	LJhS2DW9IscOBidp+dn6JWOa8axqqpEw2XIUiUMRKVM=	hrRF3s4=	2007-09-01 00:00:00
+30027	0	Mr.	Joseph	P.	Mitzner	Jr.	Engineered Bike Systems	adventure-works\shu0	joseph4@adventure-works.com	129-555-0164	7obarvC3BHLIE/oFo0n+bkB/EZ03Zc8Vu+F2jpK/CNM=	k6zgROU=	2007-09-01 00:00:00
+30028	0	Ms.	Laura	C.	Steele		Professional Containers and Packaging Co.	adventure-works\shu0	laura3@adventure-works.com	741-555-0173	Ve/S2F7op7awJVe7aBPDkDTtsOiyLvShdymITr5ilEI=	ckT+1XU=	2006-08-01 00:00:00
+30029	0	Ms.	Shanay	B.	Steelman		One Bike Company	adventure-works\josé1	shanay0@adventure-works.com	797-555-0118	No6/IlWBeOp1TBZ1wAMOUa5VwYHrf3NyowdeNz4yGNs=	VQqvrDo=	2006-09-01 00:00:00
+30030	0	Mr.	Stefano		Stefani		Cycling Goods	adventure-works\jae0	stefano0@adventure-works.com	1 (11) 500 555-0115	eVnhcpqYU3NKN52mFwcXw11n5pF8qfCFpZBVTo45zsY=	XSHxez4=	2006-08-01 00:00:00
+30031	0	Mr.	Alan		Steiner		Cycle Clearance	adventure-works\pamela0	alan4@adventure-works.com	792-555-0194	0ZfPkEBplSrQkVpmgzrlfblSeTpJ4CJwJu7aVWOuOSM=	FDIch68=	2007-09-01 00:00:00
+30032	0	Mr.	Derik		Stenerson		Black Bicycle Company	adventure-works\jillian0	derik0@adventure-works.com	441-555-0144	eiskTIJrt6kqa7sel16D8OBUVoPmh3ud4vMChJvsZCc=	0rK3P2k=	2007-02-01 00:00:00
+30033	0	Mr.	Vassar	J.	Stern		Transport Bikes	adventure-works\shu0	vassar0@adventure-works.com	328-555-0123	nPkLkDdemKmfK3VexvRWH5zYyNzwcfvny8DxWGnicSw=	hLswDiQ=	2007-09-01 00:00:00
+30034	0	Ms.	Wathalee	R.	Steuber		Sellers of Cycles	adventure-works\pamela0	wathalee0@adventure-works.com	517-555-0120	Sr0056wJj+khaWXi1cRpgU62bgcN9VaN6VJADuKWey4=	7uwL9LU=	2007-09-01 00:00:00
+30035	0	Ms.	Alice	M.	Steiner		Maintenance and Repair for Bicycles	adventure-works\jillian0	alice4@adventure-works.com	355-555-0180	6WWUM3/rogiNsZhr2QrAacB6N22U0ZWIgDs1/K05cpI=	4QdzKJI=	2007-08-01 00:00:00
+30036	0	Ms.	Liza Marie	N.	Stevens		Fitness Department Stores	adventure-works\shu0	lizamarie0@adventure-works.com	366-555-0110	Sapr4JrpchrNOsaFQvNr+C8KtCL9DgKHOdvYws7WrOM=	QvunVRs=	2007-08-01 00:00:00
+30037	0	Mr.	Jim		Stewart		Famous Bike Shop	adventure-works\garrett1	jim5@adventure-works.com	226-555-0110	UhGiWqQH+ZqO4P2SIEQ4J9goCINUOyHBAttZ/+kJooA=	awRBGoA=	2006-09-01 00:00:00
+30039	0	Mr.	Robert	B.	Stotka		Gift and Toy Store	adventure-works\jillian0	robert12@adventure-works.com	493-555-0185	FT/8LOHiql36eAZLyTYZ2uqevgzDFxh6W9nVGmMmrhw=	M0RBO9w=	2006-07-01 00:00:00
+30040	0	Ms.	Kayla	M.	Stotler		Major Sporting Goods	adventure-works\linda3	kayla0@adventure-works.com	315-555-0131	iqikbQl8bEZb+ulQMP5FNBSjXL1grUcz4NTUP9GBmAQ=	ZqTw9GM=	2007-02-01 00:00:00
+30042	0	Ms.	Ruby Sue	R.	Styles		Major Cycling	adventure-works\josé1	rubysue0@adventure-works.com	512-555-0122	y5SdWw1VGzybXaHVXTc7TQTKtr6N54cV+htK8Ehcr+E=	H8DZOb4=	2005-08-01 00:00:00
+30044	0	Mr.	Gary	J.	Suess		Downhill Bicycle Specialists	adventure-works\jae0	gary5@adventure-works.com	1 (11) 500 555-0199	vQKhd203Tno3eBvyJW+nSrZ8E387QlZFJA7DcRyrcoI=	n/cr6qs=	2006-08-01 00:00:00
+30045	0	Ms.	Ruth	J.	Suffin		Bike Experts	adventure-works\pamela0	ruth2@adventure-works.com	924-555-0195	miUYjqbbeA6G0zx3zN+MFegYwr7MIqFBLBIHbcxnRhA=	H30Eu1I=	2006-08-01 00:00:00
+30046	0	Ms.	Elizabeth	J.	Sullivan		Extraordinary Bike Works	adventure-works\jillian0	elizabeth4@adventure-works.com	306-555-0112	AURzT7TRCKKvm0AKkEPIhSIpt/3cDoZ1UtFixmM/7MU=	t31Ri34=	2006-09-01 00:00:00
+30047	0	Mr.	Michael		Sullivan		Valley Bicycle Distributors	adventure-works\shu0	michael24@adventure-works.com	323-555-0113	zeK7weuXbh2aNM2MR5WVlOvwCXgMuHuiecTgufohN+Y=	ic4F61g=	2006-11-01 00:00:00
+30048	0	Ms.	Marcia	J.	Sultan		Top Sports Supply	adventure-works\josé1	marcia0@adventure-works.com	613-555-0116	1EcI7xrTOArxMpieU6+v/pzf9gN7zS00aKQWROpwyyA=	eFbn7kk=	2006-07-01 00:00:00
+30050	0	Mr.	Krishna		Sunkammurali		Metropolitan Bicycle Supply	adventure-works\jae0	krishna1@adventure-works.com	1 (11) 500 555-0177	rKKXHEQ/Zb5Z596gCAMQepmJHLIzJy+BpJaz5GSv31c=	sEZH3m0=	2006-09-01 00:00:00
+30051	0	Mr.	Brad		Sutton		Honest Repair Service	adventure-works\pamela0	brad0@adventure-works.com	688-555-0115	5tnpQqGsl1FEtOjw1+pBDGRv4Cwho0BiuspfaZVuVOE=	BhyhRuI=	2007-07-01 00:00:00
+30052	0	Mr.	Abraham	L.	Swearengin		Wheel Gallery	adventure-works\shu0	abraham0@adventure-works.com	926-555-0136	CCZ7frrqKu31sPRuEGit5egtq9PHIW51qLxRTi/TAcY=	D5ohtJ8=	2005-07-01 00:00:00
+30053	0	Ms.	Katherine	K.	Swan		Top Bike Market	adventure-works\garrett1	katherine1@adventure-works.com	421-555-0192	KP0aM3OevdwcZrEJTRWtCuCiSKfiPhktKN5FqHTnYhM=	yv8Jhf8=	2007-09-01 00:00:00
+30055	0	Ms.	Julie		Taft-Rider		Bicycle Lines Distributors	adventure-works\jillian0	julie1@adventure-works.com	145-555-0194	BQF73YAE2cFDpeWDP0v7uA0/ZGhGgw1xxiMQqe74r7I=	6ZebGOE=	2006-08-01 00:00:00
+30056	0	Mr.	Clarence	R.	Tatman		Sparkling Paint and Finishes	adventure-works\linda3	clarence0@adventure-works.com	787-555-0128	266JCMNzG3Y2YOZOElwlwmjuO9HTi1S0zbkD7zdQ03g=	kCUx/bc=	2005-08-01 00:00:00
+30058	0	Mr.	Mike	M.	Taylor		Plastic Parts Company	adventure-works\garrett1	mike6@adventure-works.com	204-555-0189	3/sdWTV1ScxayLuSf0nc6Wbyci2VcabsIBhV/KlQyZ0=	abgBRtE=	2005-11-01 00:00:00
+30061	0	Mr.	Chad	J.	Tedford		Big Cycle Mall	adventure-works\jillian0	chad1@adventure-works.com	588-555-0128	SnOacRNEqi3s4ywOGFR5MLNghukZ/0bEg9u6LbvzOOE=	+apUSQU=	2007-08-01 00:00:00
+30063	0	Ms.	Vanessa	J.	Tench		Eighth Bike Store	adventure-works\shu0	vanessa0@adventure-works.com	785-555-0163	qnzSZKGLMJiDzrH9h5VfDojb/pTtQKfZNc7nW7qzQ90=	dPOi278=	2007-08-01 00:00:00
+30064	0	Ms.	Judy	J.	Thames		Demand Distributors	adventure-works\david8	judy3@adventure-works.com	799-555-0118	BXs/jMkqmCMJn6V9vWS+iM7P+R0MGu2nmP4SLrJrYCg=	OSnERUk=	2006-06-01 00:00:00
+30067	0	Ms.	Phyllis	A.	Thomas		Red Bicycle Company	adventure-works\josé1	phyllis2@adventure-works.com	667-555-0112	hAXpzsxtYdB4R3XMc08m98BwHHvL0+J6J+y0u7B1ngg=	ycYA+jA=	2005-07-01 00:00:00
+30069	0	Mr.	Donald	M.	Thompson		Trendy Department Stores	adventure-works\shu0	donald1@adventure-works.com	273-555-0111	HfjBjq3HyrYM/vkKe/z2JUvmTeROuQWy7ntzIG/uTNk=	ke7sTgo=	2007-09-01 00:00:00
+30070	0	Ms.	Kendra	N.	Thompson		Vintage Sport Boutique	adventure-works\david8	kendra0@adventure-works.com	464-555-0188	dBvr8YSJ5D5BzBQ6uCOKmYVG2wDeIf97H4Jh3ePPYHM=	IS71rL8=	2007-07-01 00:00:00
+30071	0	Mr.	Daniel	P.	Thompson		Travel Sports	adventure-works\pamela0	daniel2@adventure-works.com	247-555-0197	DgTXKBbRFAv0jGUCn8yCPgnYQP1JhhVioFj9E1gXCS8=	jcMXc0w=	2007-09-01 00:00:00
+30072	0	Ms.	Andrea	A.	Thomsen		West Side Mart	adventure-works\jae0	andrea1@adventure-works.com	1 (11) 500 555-0120	LDoJwsGCFLtxVdbdQBbN/to7zFF1skP+hWLrIrCxvAw=	NuexV8w=	2007-09-01 00:00:00
+30074	0	Ms.	Yuping		Tian		Tenth Bike Store	adventure-works\josé1	yuping0@adventure-works.com	744-555-0123	dOvfJZgKHSk3OY2F/ZDzG76q7Vqtd3ogvi6tEW81U9E=	30pSFOQ=	2005-08-01 00:00:00
+30076	0	Ms.	Diane		Tibbott		Fun Times Club	adventure-works\shu0	diane5@adventure-works.com	847-555-0184	4G603WBKyHh8eHVBhhE9Fx0bYyHxSASUpUyJ5v5AG88=	br8PN50=	2005-08-01 00:00:00
+30080	0	Ms.	Delia	B.	Toone		Wingtip Toys	adventure-works\david8	delia0@adventure-works.com	328-555-0192	UnSgG1XBHKmwMxg5VTpybLrsNrIqNTu91vgwbUeI10o=	k8iQbOY=	2007-09-01 00:00:00
+30083	0	Mr.	Glenn	J.	Track	II	Active Life Toys	adventure-works\josé1	glenn0@adventure-works.com	907-555-0170	ZLp7yG5TYPKeQ7F+bE+OAdM4Z6HzU3EWjyk8211nuP8=	Vuzh1IE=	2006-09-01 00:00:00
+30087	0	Mr.	Billy	J.	Trent		Quick Parts and Service	adventure-works\garrett1	billy0@adventure-works.com	882-555-0115	tSfXgpVAnQ6TL8XxnK0PMKR2Ngn49a0253VcVtcV6QQ=	V1n+9SQ=	2007-09-01 00:00:00
+30089	0	Mr.	Michael John	R.	Troyer		Thrifty Parts and Sales	adventure-works\linda3	michaeljohn0@adventure-works.com	308-555-0175	Gdklarx2tW1EtZEyrAUEIhhguzrFKVS4Bh3BdAsGngk=	HUE+JKI=	2007-09-01 00:00:00
+30090	0	Ms.	Christie	J.	Trujillo		A Typical Bike Shop	adventure-works\jillian0	christie0@adventure-works.com	686-555-0180	VWZMnmAlCwxvJOjzebXyjCeFgHg6VcKqDb6g/BJXULc=	/tv9aHA=	2005-09-01 00:00:00
+30093	0	Ms.	Phyllis	B.	Tuffield		Fasteners & Bolts Outlet	adventure-works\garrett1	phyllis3@adventure-works.com	277-555-0182	95PLNarmtKePNK2WYvZZ8U/arYSs9EJoBoh2P7GHCCs=	MLAW5PQ=	2007-08-01 00:00:00
+30094	0	Mr.	Sairaj		Uddin		Quantity Discounts	adventure-works\linda3	sairaj1@adventure-works.com	767-555-0193	S71ozp3yMBzUJk7fj4M8SRU+dElVKuXvieJDpDOvVv8=	iKVyEt4=	2006-08-01 00:00:00
+30095	0	Mr.	Sunil		Uppal		Swift Cycles	adventure-works\jillian0	sunil0@adventure-works.com	184-555-0187	agm2RVYpEMjc+OpNxGG7gujHre5Wv8c+QcQgm6orG2I=	Yqlwc+g=	2005-08-01 00:00:00
+30098	0	Ms.	Esther	K.	Valle		Large Bike Shop	adventure-works\garrett1	esther0@adventure-works.com	481-555-0131	70nGUIq7rO630L2/dv94XQ4HE2WWDpHISgy2OgtRANo=	HQA1TJE=	2006-07-01 00:00:00
+30100	0	Mr.	Jessie	E.	Valerio		Wire Baskets and Parts	adventure-works\linda3	jessie0@adventure-works.com	103-555-0179	9EmEkovAOZzHdTYAXrsu3h3xgAvhMbHSs9Q8N+/CWao=	mgl/qso=	2005-08-01 00:00:00
+30102	0	Mr.	Roger		Van Houten		Sports Store	adventure-works\jae0	roger2@adventure-works.com	1 (11) 500 555-0110	C0yLsx6zITh7lXoIPgG1bl1t5II3nx4GYi/RaS1yB84=	WnTAc/0=	2006-12-01 00:00:00
+30104	0	Ms.	Rose	M.	Vandenouer		Extended Tours	adventure-works\jae0	rose1@adventure-works.com	1 (11) 500 555-0140	X6Rw044/W0OFsOl+AJSD6WZFTsjbaCa3sn719STdi0Y=	tRFzZLs=	2006-07-01 00:00:00
+30105	0	Mr.	Gregory	T.	Vanderbout	Jr.	Convenient Sales and Service	adventure-works\pamela0	gregory1@adventure-works.com	684-555-0134	syI1UO2qeBH9g2tg2nu3DTejZc7OEShGw8jxOqXfATY=	FAw6ojc=	2006-09-01 00:00:00
+30106	0	Mr.	Michael		Vanderhyde		Solid Bike Parts	adventure-works\jillian0	michael25@adventure-works.com	918-555-0141	/upSM1yXqGCA1vtYL9IB/NcKFrE3cg7HvqSYGTsQprM=	uXetzTc=	2005-09-01 00:00:00
+30107	0	Ms.	Margaret	J.	Vanderkamp		Permanent Finish Products	adventure-works\shu0	margaret2@adventure-works.com	265-555-0143	TUk6pzHyHoA6CadqZKdfwfCKtp3f4RhQ07VWCDZDKIM=	osDZuYo=	2005-08-01 00:00:00
+30108	0	Ms.	Kara	N.	Vanderlinden		Mercantile Outlet	adventure-works\josé1	kara0@adventure-works.com	680-555-0160	grGra0LtVSrZMZySvhV+ggFwVRSDpwDd39a18q68CD0=	kc4E3DA=	2006-08-01 00:00:00
+30109	0	Mr.	Nieves	J.	Vargas	II	Exhilarating Cycles	adventure-works\michael9	nieves0@adventure-works.com	371-555-0184	dG3/Y2fWXOAgE37z4Vj0K7ejAxDbv9M902ByQTjdng4=	/PSiwRg=	2006-07-01 00:00:00
+30110	0	Mr.	Gary	T	Vargas		Exercise Center	adventure-works\shu0	gary6@adventure-works.com	112-555-0176	WH8bTbYkazE9T0ktiZYIAYDdJXsvjr2zbLiT3gxR6zk=	Zkv5OCw=	2006-09-01 00:00:00
+30111	0	Mr.	Ranjit	Rudra	Varkey Chudukatil		Great Bicycle Supply	adventure-works\jillian0	ranjit1@adventure-works.com	810-555-0160	VTpXtJAiSxeJraHh5mkwwAsGYMllZYzsOBpb2cu8rrQ=	FNe76Vk=	2005-08-01 00:00:00
+30112	0	Ms.	Patricia	M.	Vasquez		Mail-Order Outlet	adventure-works\pamela0	patricia2@adventure-works.com	490-555-0132	v0bxLRLRKYxwN8fiORyJkpXaYZpCRhgfNNkwQnylFrE=	WTZFkow=	2006-08-01 00:00:00
+30113	0	Mr.	Raja	D.	Venugopal		Nearby Cycle Shop	adventure-works\jae0	raja0@adventure-works.com	1 (11) 500 555-0195	lx5a4+AFGzH6mzjz6hpiR9scxbYGX8OcqFpv/cI6yFs=	hSwmBWk=	2006-09-01 00:00:00
+30115	0	Ms.	Dora	P.	Verdad		Retreat Inn	adventure-works\josé1	dora0@adventure-works.com	155-555-0140	RgzxIE8hSY/z6iJnmDYMZWdJTQBRaWKI7UaZhAPhPxY=	jYD20wc=	2006-08-01 00:00:00
+30116	0	Ms.	Wanda	F.	Vernon		Technical Parts Manufacturing	adventure-works\shu0	wanda0@adventure-works.com	433-555-0168	hNQpZV8787KyeDWfllnZWzY+l8DFEYTnwoZZzYtusi0=	HDCU1Bk=	2007-07-01 00:00:00
+30117	0	Mr.	Robert	R.	Vessa		Totes & Baskets Company	adventure-works\jillian0	robert13@adventure-works.com	560-555-0171	UWGC2U8F7AUNA2FuiT4agrBoxAFskHGQSxqP39B7zLQ=	iES3IZA=	2005-08-01 00:00:00
+30118	0	Ms.	Caroline	A.	Vicknair		World of Bikes	adventure-works\jillian0	caroline0@adventure-works.com	695-555-0158	U1/CrPqSzwLTtwgBehfpIl7f1LHSFpZw1qnG1sMzFjo=	QhHP+y8=	2006-09-01 00:00:00
