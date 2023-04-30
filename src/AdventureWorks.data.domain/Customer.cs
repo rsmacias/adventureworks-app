@@ -32,4 +32,6 @@ public class Customer {
 
     public ICollection<CustomerAddress> CustomerAddresses { get; set; } = new List<CustomerAddress>(); 
     
+    public ICollection<SalesOrderHeader> SalesOrders { get; set; } = new List<SalesOrderHeader>();
+
 }

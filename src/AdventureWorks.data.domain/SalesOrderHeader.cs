@@ -46,4 +46,10 @@ public class SalesOrderHeader {
 
     public ICollection<SalesOrderDetail> SalesOrderDetails { get; set; } = new List<SalesOrderDetail>();    
 
+    public Address? BillToAddress { get; set; }
+
+    public Address? ShipToAddress { get; set; }
+
+    public Customer Customer { get; set; } = null!;
+
 }

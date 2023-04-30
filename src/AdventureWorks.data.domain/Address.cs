@@ -20,4 +20,8 @@ public class Address {
 
     public ICollection<CustomerAddress> CustomerAddresses { get; set; } = new List<CustomerAddress>();
 
+    public ICollection<SalesOrderHeader> SalesOrdersBilledToThisAddresses { get; set; } = new List<SalesOrderHeader>();
+
+    public ICollection<SalesOrderHeader> SalesOrdersShippedToThisAddress { get; set; } = new List<SalesOrderHeader>();
+
 }
