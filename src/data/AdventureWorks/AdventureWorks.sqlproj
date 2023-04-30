@@ -7,4 +7,11 @@
     <ModelCollation>1033, CI</ModelCollation>
     <ProjectGuid>{66e41106-f012-4ea6-8a65-19d9688c6d4f}</ProjectGuid>
   </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="scripts\PostDeployment\" />
+    <Folder Include="sources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PostDeploy Include="scripts\PostDeployment\Script.DataBaseSeed.sql" />
+  </ItemGroup>
 </Project>
